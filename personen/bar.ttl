@@ -1,0 +1,367 @@
+<https://stad.gent/id/agent/670000092/2022-03-30T05:40:19.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:40:19.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2104_2, _:df_2104_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Henricus Aloysius";
+    <http://xmlns.com/foaf/0.1/familyName> "Barth";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barth, Henricus Aloysius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2104_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0075"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2104_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000092/2022-03-30T05:40:19.595Z>.
+<https://stad.gent/id/agent/670000093/2022-03-30T05:40:24.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:40:24.597Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2104_7, _:df_2104_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Barth";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barth";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2104_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0076"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2104_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000093/2022-03-30T05:40:24.597Z>.
+<https://stad.gent/id/agent/670000089/2022-03-30T05:40:04.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:40:04.587Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2107_15, _:df_2107_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Bar";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bar, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2107_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0072"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2107_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000089/2022-03-30T05:40:04.587Z>.
+<https://stad.gent/id/agent/670000090/2022-03-30T05:40:09.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:40:09.590Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2107_20, _:df_2107_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "Barbier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barbier, Jan Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2107_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0073"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2107_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000090/2022-03-30T05:40:09.590Z>.
+<https://stad.gent/id/agent/670000091/2022-03-30T05:40:14.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:40:14.592Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2107_28, _:df_2107_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonkheer input['forename'][0] Barret";
+    <http://xmlns.com/foaf/0.1/familyName> "Barret";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barret";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2107_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0074"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2107_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000091/2022-03-30T05:40:14.592Z>.
+<https://stad.gent/id/agent/570030825/2022-03-30T05:07:27.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:07:27.886Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2242_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barker John & Sons Ltd.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2242_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030825/2022-03-30T05:07:27.886Z>.
+<https://stad.gent/id/agent/570021059/2022-03-30T03:59:25.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:59:25.247Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2674_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barclay J.S.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2674_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021059/2022-03-30T03:59:25.247Z>.
+<https://stad.gent/id/agent/570019190/2022-03-30T03:46:54.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:46:54.200Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2755_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2755_22;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2755_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Edgard";
+    <http://xmlns.com/foaf/0.1/familyName> "Barbaix";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barbaix, Edgard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q96978840>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2755_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2755_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2755_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1973"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2755_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2755_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019190/2022-03-30T03:46:54.200Z>.
+<https://stad.gent/id/agent/670000092/2022-02-26T05:29:51.099Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:51.099Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5071_2, _:df_5071_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Henricus Aloysius";
+    <http://xmlns.com/foaf/0.1/familyName> "Barth";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barth, Henricus Aloysius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5071_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0075"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5071_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000092/2022-02-26T05:29:51.099Z>.
+<https://stad.gent/id/agent/670000093/2022-02-26T05:29:56.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:56.102Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5071_7, _:df_5071_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Barth";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barth";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5071_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0076"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5071_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000093/2022-02-26T05:29:56.102Z>.
+<https://stad.gent/id/agent/670000089/2022-02-26T05:29:36.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:36.094Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5074_15, _:df_5074_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Bar";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bar, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5074_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0072"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5074_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000089/2022-02-26T05:29:36.094Z>.
+<https://stad.gent/id/agent/670000090/2022-02-26T05:29:41.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:41.095Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5074_20, _:df_5074_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "Barbier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barbier, Jan Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5074_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0073"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5074_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000090/2022-02-26T05:29:41.095Z>.
+<https://stad.gent/id/agent/670000091/2022-02-26T05:29:46.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:46.096Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5074_28, _:df_5074_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonkheer input['forename'][0] Barret";
+    <http://xmlns.com/foaf/0.1/familyName> "Barret";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barret";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5074_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0074"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5074_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000091/2022-02-26T05:29:46.096Z>.
+<https://stad.gent/id/agent/570030825/2022-02-26T04:57:22.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:57:22.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5206_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barker John & Sons Ltd.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5206_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030825/2022-02-26T04:57:22.003Z>.
+<https://stad.gent/id/agent/570021059/2022-02-26T03:49:11.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:49:11.336Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5641_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barclay J.S.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5641_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021059/2022-02-26T03:49:11.336Z>.
+<https://stad.gent/id/agent/570019190/2022-02-26T03:36:41.176Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:36:41.176Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5722_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5722_24;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5722_25;
+    <http://xmlns.com/foaf/0.1/givenName> "Edgard";
+    <http://xmlns.com/foaf/0.1/familyName> "Barbaix";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barbaix, Edgard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q96978840>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5722_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5722_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5722_25 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1973"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5722_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5722_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019190/2022-02-26T03:36:41.176Z>.
+<https://stad.gent/id/agent/530024261/2022-02-25T23:46:39.720Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:46:39.720Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5857_28, _:df_5857_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5857_32;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5857_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Lodovico";
+    <http://xmlns.com/foaf/0.1/familyName> "Barbiano di Belgiojoso";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barbiano di Belgiojoso, Lodovico";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q385860>, <http://vocab.getty.edu/ulan/500065002>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5857_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5857_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_5857_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2004-04-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5857_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1909-12-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+_:df_5857_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03219"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5857_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024261/2022-02-25T23:46:39.720Z>.
+<https://stad.gent/id/agent/530024047/2022-02-25T23:31:17.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:31:17.895Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5923_12, _:df_5923_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Mirek";
+    <http://xmlns.com/foaf/0.1/familyName> "Barkovský";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barkovský, Mirek (senior)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97961832>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5923_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5923_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Tsjechisch"@nl.
+_:df_5923_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02774"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5923_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024047/2022-02-25T23:31:17.895Z>.
+<https://stad.gent/id/agent/530023619/2022-02-25T23:14:50.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:14:50.313Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5962_7, _:df_5962_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5962_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Barco";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q807964>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5962_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1934"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007934>.
+<http://vocab.getty.edu/tgn/7007934> a <http://purl.org/dc/terms/Location>.
+_:df_5962_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03003"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5962_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023619/2022-02-25T23:14:50.313Z>.
+<https://stad.gent/id/agent/530023028/2022-02-25T22:35:33.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:35:33.378Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6178_28, _:df_6178_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Auguste";
+    <http://xmlns.com/foaf/0.1/familyName> "Bartholomé";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bartholomé, Auguste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6178_33;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6178_33 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6178_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02647"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6178_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023028/2022-02-25T22:35:33.378Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1952.
+_:df_1_1952 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bart.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bart".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1953.
+_:df_1_1953 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/baro.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "baro".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1954.
+_:df_1_1954 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/barb.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "barb".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1955.
+_:df_1_1955 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bare.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bare".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1956.
+_:df_1_1956 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bar+g.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bar", "g".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1957.
+_:df_1_1957 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bar+b.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bar", "b".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1958.
+_:df_1_1958 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bary.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bary".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1959.
+_:df_1_1959 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bara.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bara".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1960.
+_:df_1_1960 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bar+.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bar", "".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> <https://w3id.org/tree#relation> _:df_1_1961.
+_:df_1_1961 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/barc.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "barc".
+<https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bar.ttl>.

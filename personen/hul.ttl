@@ -1,0 +1,76 @@
+<https://stad.gent/id/agent/570023706/2022-03-30T04:11:40.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:11:40.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hulorit";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2587_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023706/2022-03-30T04:11:40.000Z>.
+<https://stad.gent/id/agent/530020603/2022-03-17T00:04:48.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:04:48.020Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_2, _:df_2911_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2911_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Harald";
+    <http://xmlns.com/foaf/0.1/familyName> "Hullmann";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hullmann, Harald";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2911_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2911_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_2911_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2911_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02040"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2911_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020603/2022-03-17T00:04:48.020Z>.
+<https://stad.gent/id/agent/670001545/2022-02-26T07:31:31.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:31:31.336Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4204_32, _:df_4204_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Hulstaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hulstaert, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4204_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1528"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4204_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001545/2022-02-26T07:31:31.336Z>.
+<https://stad.gent/id/agent/570023706/2022-02-26T04:01:27.476Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:01:27.476Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5554_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hulorit";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5554_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023706/2022-02-26T04:01:27.476Z>.
+<https://stad.gent/id/agent/530020603/2022-02-25T21:28:20.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:28:20.551Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6553_20, _:df_6553_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6553_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Harald";
+    <http://xmlns.com/foaf/0.1/familyName> "Hullmann";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hullmann, Harald";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6553_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6553_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02040"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6553_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020603/2022-02-25T21:28:20.551Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/hul.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/hul.ttl>.

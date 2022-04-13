@@ -1,0 +1,45 @@
+<https://stad.gent/id/agent/570021363/2022-03-30T04:03:06.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:03:06.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thys J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2647_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021363/2022-03-30T04:03:06.766Z>.
+<https://stad.gent/id/agent/570021363/2022-02-26T03:52:53.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:52:53.014Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5614_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thys J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5614_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021363/2022-02-26T03:52:53.014Z>.
+<https://stad.gent/id/agent/530014586/2022-02-25T19:54:39.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530014586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:54:39.133Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6904_2, _:df_6904_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6904_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludo";
+    <http://xmlns.com/foaf/0.1/familyName> "Thys";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thys, Ludo";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/100318>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6904_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6904_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6904_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006947>.
+<http://vocab.getty.edu/tgn/7006947> a <http://purl.org/dc/terms/Location>.
+_:df_6904_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03363"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6904_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530014586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530014586/2022-02-25T19:54:39.133Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/thy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/thy.ttl>.

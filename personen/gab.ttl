@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/670001327/2022-02-26T07:13:14.015Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:13:14.015Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4333_12, _:df_4333_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Gabriel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gabriel, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4333_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1310"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4333_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001327/2022-02-26T07:13:14.015Z>.
+<https://stad.gent/id/agent/530022001/2022-02-25T22:19:01.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:19:01.665Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6265_35, _:df_6265_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gablonz-Bakalowits";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6265_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02514"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6265_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022001/2022-02-25T22:19:01.665Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/gab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/gab.ttl>.

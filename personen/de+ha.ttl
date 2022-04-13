@@ -1,0 +1,56 @@
+<https://stad.gent/id/agent/670000690/2022-02-26T06:20:00.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000690>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:20:00.834Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4714_12, _:df_4714_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Haese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Haese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4714_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0673"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4714_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000690"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000690/2022-02-26T06:20:00.834Z>.
+<https://stad.gent/id/agent/670000691/2022-02-26T06:20:05.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:20:05.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4714_16, _:df_4714_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Haese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Haese, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4714_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0674"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4714_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000691/2022-02-26T06:20:05.836Z>.
+<https://stad.gent/id/agent/670000692/2022-02-26T06:20:10.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:20:10.837Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4714_21, _:df_4714_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Haese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Haese, Joannes Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4714_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0675"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4714_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000692/2022-02-26T06:20:10.837Z>.
+<https://stad.gent/id/agent/570031191/2022-02-26T04:58:52.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:58:52.686Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5197_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Haas en Van Brero nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5197_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031191/2022-02-26T04:58:52.686Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+ha.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+ha.ttl>.

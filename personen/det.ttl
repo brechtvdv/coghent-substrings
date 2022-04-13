@@ -1,0 +1,83 @@
+<https://stad.gent/id/agent/670001117/2022-03-30T07:06:11.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:06:11.559Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1492_15, _:df_1492_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "graaf weduwe, graaf d'Etiennes";
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe, graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Etiennes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Etiennes, weduwe, graaf";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1492_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1100"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1492_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001117/2022-03-30T07:06:11.559Z>.
+<https://stad.gent/id/agent/670001118/2022-03-30T07:06:16.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:06:16.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1492_21, _:df_1492_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "de Tiennes", "graaf graaf d'Etiennes", "m'her graaf d'Etiennes, graaf";
+    <http://xmlns.com/foaf/0.1/givenName> "graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Etiennes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Etiennes, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1492_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1101"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1492_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001118/2022-03-30T07:06:16.561Z>.
+<https://stad.gent/id/agent/670001117/2022-02-26T06:55:46.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:55:46.865Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4459_20, _:df_4459_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "graaf weduwe, graaf d'Etiennes";
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe, graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Etiennes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Etiennes, weduwe, graaf";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4459_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1100"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4459_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001117/2022-02-26T06:55:46.865Z>.
+<https://stad.gent/id/agent/670001118/2022-02-26T06:55:52.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:55:52.136Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4459_26, _:df_4459_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "de Tiennes", "graaf graaf d'Etiennes", "m'her graaf d'Etiennes, graaf";
+    <http://xmlns.com/foaf/0.1/givenName> "graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Etiennes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Etiennes, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4459_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1101"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4459_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001118/2022-02-26T06:55:52.136Z>.
+<https://stad.gent/id/agent/530000491/2022-02-25T17:32:59.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:32:59.488Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7762_6, _:df_7762_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles";
+    <http://xmlns.com/foaf/0.1/familyName> "Dethier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dethier, Charles";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/297577>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7762_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7762_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7762_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00129"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7762_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000491/2022-02-25T17:32:59.488Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/det.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/det.ttl>.

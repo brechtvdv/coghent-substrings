@@ -1,0 +1,57 @@
+<https://stad.gent/id/agent/670000433/2022-02-26T05:58:24.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:58:24.784Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4867_2, _:df_4867_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Colins";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colins, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4867_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0416"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4867_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000433/2022-02-26T05:58:24.784Z>.
+<https://stad.gent/id/agent/670000431/2022-02-26T05:58:14.779Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:58:14.779Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4870_22, _:df_4870_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Joannas";
+    <http://xmlns.com/foaf/0.1/familyName> "Colijn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colijn, Pieter Joannas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4870_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0414"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4870_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000431/2022-02-26T05:58:14.779Z>.
+<https://stad.gent/id/agent/670000432/2022-02-26T05:58:19.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:58:19.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4870_27, _:df_4870_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joachim Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Colin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colin, Joachim Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4870_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0415"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4870_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000432/2022-02-26T05:58:19.782Z>.
+<https://stad.gent/id/agent/570020426/2022-02-26T03:47:40.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:47:40.661Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5650_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colier Rob. & Co";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5650_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020426/2022-02-26T03:47:40.661Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/coli.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/coli.ttl>.

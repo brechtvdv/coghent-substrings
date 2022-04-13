@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/670003411/2022-03-03T00:00:23.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-03T00:00:23.868Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3001_6, _:df_3001_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Synoniem: Kliniek Lumen";
+    <http://xmlns.com/foaf/0.1/familyName> "psychiatrisch ziekenhuis Dr. Guislain";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "psychiatrisch ziekenhuis Dr. Guislain";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/18316>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3001_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0062"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3001_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003411/2022-03-03T00:00:23.868Z>.
+<https://stad.gent/id/agent/670003411/2022-02-26T09:57:45.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:57:45.365Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_23, _:df_3160_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "psychiatrisch ziekenhuis Dr. Guislain";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "psychiatrisch ziekenhuis Dr. Guislain";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/18316>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3160_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0062"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3160_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003411/2022-02-26T09:57:45.365Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ps.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ps.ttl>.

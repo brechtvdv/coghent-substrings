@@ -1,0 +1,101 @@
+<https://stad.gent/id/agent/670003621/2022-02-26T10:15:18.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:15:18.423Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3034_30, _:df_3034_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3034_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3034_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "Cloquet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cloquet, Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2673824>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3034_35 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1820-01-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q1296>.
+<https://www.wikidata.org/entity/q1296> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3034_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1849-01-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3034_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0273"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3034_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003621/2022-02-26T10:15:18.423Z>.
+<https://stad.gent/id/agent/670000408/2022-02-26T05:56:19.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000408>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:19.014Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4882_2, _:df_4882_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Cloosterman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cloosterman, Jan Baptiste weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4882_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0391"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4882_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000408"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000408/2022-02-26T05:56:19.014Z>.
+<https://stad.gent/id/agent/670000409/2022-02-26T05:56:24.015Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000409>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:24.015Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4882_10, _:df_4882_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Clou";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Clou, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4882_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0392"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4882_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000409"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000409/2022-02-26T05:56:24.015Z>.
+<https://stad.gent/id/agent/670000405/2022-02-26T05:56:03.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:03.705Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4885_18, _:df_4885_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Clocman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Clocman, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4885_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0388"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4885_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000405/2022-02-26T05:56:03.705Z>.
+<https://stad.gent/id/agent/670000406/2022-02-26T05:56:08.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:08.707Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4885_26, _:df_4885_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Arnaut";
+    <http://xmlns.com/foaf/0.1/familyName> "Cloosterman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cloosterman, Arnaut";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4885_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0389"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4885_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000406/2022-02-26T05:56:08.707Z>.
+<https://stad.gent/id/agent/670000407/2022-02-26T05:56:14.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000407>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:14.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4885_31, _:df_4885_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "Cloosterman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cloosterman, Joanne Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4885_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0390"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4885_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000407"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000407/2022-02-26T05:56:14.012Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/clo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/clo.ttl>.

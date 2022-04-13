@@ -1,0 +1,62 @@
+<https://stad.gent/id/agent/670000124/2022-03-30T05:43:00.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:43:00.745Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2086_18, _:df_2086_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Beijs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Beijs, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2086_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0107"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2086_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000124/2022-03-30T05:43:00.745Z>.
+<https://stad.gent/id/agent/670000125/2022-03-30T05:43:05.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:43:05.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2086_26, _:df_2086_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Beijst";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Beijst, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2086_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0108"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2086_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000125/2022-03-30T05:43:05.746Z>.
+<https://stad.gent/id/agent/670000124/2022-02-26T05:32:32.436Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:32:32.436Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5053_18, _:df_5053_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Beijs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Beijs, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5053_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0107"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5053_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000124/2022-02-26T05:32:32.436Z>.
+<https://stad.gent/id/agent/670000125/2022-02-26T05:32:37.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:32:37.438Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5053_26, _:df_5053_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Beijst";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Beijst, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5053_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0108"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5053_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000125/2022-02-26T05:32:37.438Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bei.ttl>.

@@ -1,0 +1,304 @@
+<https://stad.gent/id/agent/670000956/2022-03-30T06:52:42.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:42.315Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_15, _:df_1588_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1588_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0939"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1588_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000956/2022-03-30T06:52:42.315Z>.
+<https://stad.gent/id/agent/670000957/2022-03-30T06:52:47.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000957>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:47.316Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_19, _:df_1588_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Joanne Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1588_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0940"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1588_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000957"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000957/2022-03-30T06:52:47.316Z>.
+<https://stad.gent/id/agent/670000958/2022-03-30T06:52:52.318Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:52.318Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_24, _:df_1588_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Aegidius Frans de Zomere";
+    <http://xmlns.com/foaf/0.1/givenName> "Aegidius Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Aegidius Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1588_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0941"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1588_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000958/2022-03-30T06:52:52.318Z>.
+<https://stad.gent/id/agent/670000949/2022-03-30T06:52:07.300Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:07.300Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_2, _:df_1591_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somer, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1591_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0932"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1591_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000949/2022-03-30T06:52:07.300Z>.
+<https://stad.gent/id/agent/670000950/2022-03-30T06:52:12.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:12.301Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_10, _:df_1591_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bartholomeus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somer, Bartholomeus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1591_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0933"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1591_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000950/2022-03-30T06:52:12.301Z>.
+<https://stad.gent/id/agent/670000951/2022-03-30T06:52:17.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000951>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:17.304Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_18, _:df_1591_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joachim";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somer, Joachim";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1591_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0934"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1591_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000951"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000951/2022-03-30T06:52:17.304Z>.
+<https://stad.gent/id/agent/670000952/2022-03-30T06:52:22.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:22.307Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_26, _:df_1591_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Somer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somer";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1591_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0935"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1591_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000952/2022-03-30T06:52:22.307Z>.
+<https://stad.gent/id/agent/670000953/2022-03-30T06:52:27.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:52:27.309Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_30, _:df_1591_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1591_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0936"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1591_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000953/2022-03-30T06:52:27.309Z>.
+<https://stad.gent/id/agent/670000963/2022-02-26T06:42:56.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:56.580Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4549_2, _:df_4549_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4549_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0946"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4549_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000963/2022-02-26T06:42:56.580Z>.
+<https://stad.gent/id/agent/670000964/2022-02-26T06:43:01.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:01.581Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4549_7, _:df_4549_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somer, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4549_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0947"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4549_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000964/2022-02-26T06:43:01.581Z>.
+<https://stad.gent/id/agent/670000965/2022-02-26T06:43:06.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000965>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:06.645Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4549_19, _:df_4549_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Sommer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Sommer, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4549_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0948"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4549_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000965"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000965/2022-02-26T06:43:06.645Z>.
+<https://stad.gent/id/agent/670000966/2022-02-26T06:43:11.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000966>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:11.647Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4549_27, _:df_4549_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "de Sommer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Sommer, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4549_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0949"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4549_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000966"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000966/2022-02-26T06:43:11.647Z>.
+<https://stad.gent/id/agent/670000958/2022-02-26T06:42:31.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:31.569Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4552_2, _:df_4552_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Aegidius Frans de Zomere";
+    <http://xmlns.com/foaf/0.1/givenName> "Aegidius Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Aegidius Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4552_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0941"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4552_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000958/2022-02-26T06:42:31.569Z>.
+<https://stad.gent/id/agent/670000959/2022-02-26T06:42:36.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000959>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:36.571Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4552_11, _:df_4552_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Petronelle";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Petronelle";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4552_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0942"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4552_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000959"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000959/2022-02-26T06:42:36.571Z>.
+<https://stad.gent/id/agent/670000960/2022-02-26T06:42:41.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:41.574Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4552_16, _:df_4552_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bartholomeus erfgenamen";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Bartholomeus erfgenamen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4552_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0943"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4552_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000960/2022-02-26T06:42:41.574Z>.
+<https://stad.gent/id/agent/670000961/2022-02-26T06:42:46.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:46.575Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4552_21, _:df_4552_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adolf";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Adolf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4552_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0944"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4552_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000961/2022-02-26T06:42:46.575Z>.
+<https://stad.gent/id/agent/670000962/2022-02-26T06:42:51.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:51.577Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4552_26, _:df_4552_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Michiel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4552_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0945"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4552_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000962/2022-02-26T06:42:51.577Z>.
+<https://stad.gent/id/agent/670000953/2022-02-26T06:42:06.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:06.204Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4555_2, _:df_4555_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4555_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0936"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4555_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000953/2022-02-26T06:42:06.204Z>.
+<https://stad.gent/id/agent/670000954/2022-02-26T06:42:11.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:11.205Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4555_10, _:df_4555_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Pieter Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4555_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0937"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4555_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000954/2022-02-26T06:42:11.205Z>.
+<https://stad.gent/id/agent/670000955/2022-02-26T06:42:16.208Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:42:16.208Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4555_15, _:df_4555_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Tossain";
+    <http://xmlns.com/foaf/0.1/familyName> "de Somere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Somere, Tossain";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4555_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0938"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4555_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000955/2022-02-26T06:42:16.208Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+so.ttl> <https://w3id.org/tree#relation> _:df_1_1720.
+_:df_1_1720 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/de+som.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "de", "som".
+<https://brechtvdv.github.io/coghent-substrings/personen/de+so.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+so.ttl>.

@@ -1,0 +1,17 @@
+<https://stad.gent/id/agent/670002401/2022-02-26T08:42:44.710Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:44.710Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3694_12, _:df_3694_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Caroline";
+    <http://xmlns.com/foaf/0.1/familyName> "Tvaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tvaert, Caroline";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3694_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2384"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3694_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002401/2022-02-26T08:42:44.710Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tv.ttl>.

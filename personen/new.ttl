@@ -1,0 +1,68 @@
+<https://stad.gent/id/agent/570028353/2022-03-30T04:30:38.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:30:38.877Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2467_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Newton & Co. Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2467_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028353/2022-03-30T04:30:38.877Z>.
+<https://stad.gent/id/agent/570028353/2022-02-26T04:20:30.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:20:30.695Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5434_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Newton & Co. Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5434_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028353/2022-02-26T04:20:30.695Z>.
+<https://stad.gent/id/agent/530021957/2022-02-25T22:15:45.273Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021957>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:15:45.273Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6286_26, _:df_6286_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6286_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Steven";
+    <http://xmlns.com/foaf/0.1/familyName> "Newell";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Newell, Steven";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/257720>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6286_33;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6286_33 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_6286_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6286_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02479"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6286_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021957"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021957/2022-02-25T22:15:45.273Z>.
+<https://stad.gent/id/agent/530001807/2022-02-25T18:55:29.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:55:29.177Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7174_8, _:df_7174_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7174_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Marc";
+    <http://xmlns.com/foaf/0.1/familyName> "Newson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Newson, Marc";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500128498>, <https://www.wikidata.org/entity/Q1355565>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7174_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7174_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Australisch"@nl.
+_:df_7174_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1963-10-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7001923>.
+<http://vocab.getty.edu/tgn/7001923> a <http://purl.org/dc/terms/Location>.
+_:df_7174_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01108"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7174_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001807/2022-02-25T18:55:29.177Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/new.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/new.ttl>.

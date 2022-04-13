@@ -1,0 +1,17 @@
+<https://stad.gent/id/agent/670002433/2022-02-26T08:45:25.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:45:25.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3676_24, _:df_3676_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "van Aken";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Aken, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3676_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2416"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3676_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002433/2022-02-26T08:45:25.746Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+ak.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+ak.ttl>.

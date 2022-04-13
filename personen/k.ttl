@@ -1,0 +1,377 @@
+<https://stad.gent/id/agent/530001527/2022-03-31T00:00:19.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-31T00:00:19.708Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_28_21, _:df_28_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_28_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Randi";
+    <http://xmlns.com/foaf/0.1/familyName> "Kristensen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kristensen, Randi";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_28_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_28_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_28_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_28_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00901"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_28_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001527/2022-03-31T00:00:19.708Z>.
+<https://stad.gent/id/agent/670003598/2022-03-30T10:24:46.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:24:46.990Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_79_28, _:df_79_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Kostschool Onze-Lieve-Vrouw Visitatie";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kostschool Onze-Lieve-Vrouw Visitatie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_79_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0250"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_79_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003598/2022-03-30T10:24:46.990Z>.
+<https://stad.gent/id/agent/670003506/2022-03-30T10:17:04.137Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:17:04.137Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_133_2, _:df_133_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "klooster van de Soeurs Fileuses";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "klooster van de Soeurs Fileuses";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_133_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0157"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_133_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003506/2022-03-30T10:17:04.137Z>.
+<https://stad.gent/id/agent/670003507/2022-03-30T10:17:09.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:17:09.138Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_133_6, _:df_133_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_133_9;
+    <http://xmlns.com/foaf/0.1/familyName> "kloosterschool Nieuwen-Bosch";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "kloosterschool Nieuwen-Bosch";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3085633>, <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/19887>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_133_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1810-01-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_133_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0158"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_133_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003507/2022-03-30T10:17:09.138Z>.
+<https://stad.gent/id/agent/670003508/2022-03-30T10:17:14.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:17:14.141Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_133_12, _:df_133_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "kloosterschool Onze-Lieve-Vrouw Visitatie";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "kloosterschool Onze-Lieve-Vrouw Visitatie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_133_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0159"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_133_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003508/2022-03-30T10:17:14.141Z>.
+<https://stad.gent/id/agent/670003509/2022-03-30T10:17:19.142Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:17:19.142Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_133_16, _:df_133_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Koninklijk Atheneum";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijk Atheneum";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25508>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_133_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0160"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_133_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003509/2022-03-30T10:17:19.142Z>.
+<https://stad.gent/id/agent/670003510/2022-03-30T10:17:24.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:17:24.145Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_133_21, _:df_133_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Koninklijke Nederlandse Schouwburg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Nederlandse Schouwburg";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25748>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_133_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0161"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_133_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003510/2022-03-30T10:17:24.145Z>.
+<https://stad.gent/id/agent/670003501/2022-03-30T10:16:38.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:38.860Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_136_2, _:df_136_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_136_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_136_6;
+    <http://xmlns.com/foaf/0.1/familyName> "Klein Vleeshuis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Klein Vleeshuis";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_136_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1822-03-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_136_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1593"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_136_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0152"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_136_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003501/2022-03-30T10:16:38.860Z>.
+<https://stad.gent/id/agent/670003503/2022-03-30T10:16:48.862Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:48.862Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_136_13, _:df_136_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Kleine Sikkel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kleine Sikkel";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25392>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_136_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0154"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_136_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003503/2022-03-30T10:16:48.862Z>.
+<https://stad.gent/id/agent/670003504/2022-03-30T10:16:53.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:53.865Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_136_18, _:df_136_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "klooster der Alexianen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "klooster der Alexianen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25855>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_136_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0155"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_136_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003504/2022-03-30T10:16:53.865Z>.
+<https://stad.gent/id/agent/670003505/2022-03-30T10:16:59.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:59.134Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_136_23, _:df_136_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Synoniem: Onze Vrouwenbroeders.";
+    <http://xmlns.com/foaf/0.1/familyName> "klooster van de Geschoeide Karmelieten (Caemersklooster)";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "klooster van de Geschoeide Karmelieten (Caemersklooster)";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q47113519>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_136_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0156"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_136_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003505/2022-03-30T10:16:59.134Z>.
+<https://stad.gent/id/agent/670003495/2022-03-30T10:16:13.851Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:13.851Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_139_2, _:df_139_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Katholieke Kring";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Katholieke Kring";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_139_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0146"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_139_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003495/2022-03-30T10:16:13.851Z>.
+<https://stad.gent/id/agent/670003496/2022-03-30T10:16:18.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:18.852Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_139_6, _:df_139_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "kerk Onze-Lieve-Vrouw-Ter Hoyen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "kerk Onze-Lieve-Vrouw-Ter Hoyen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/19428>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_139_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0147"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_139_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003496/2022-03-30T10:16:18.852Z>.
+<https://stad.gent/id/agent/670003497/2022-03-30T10:16:23.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:23.853Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_139_11, _:df_139_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "kerk Poortakker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "kerk Poortakker";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_139_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0148"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_139_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003497/2022-03-30T10:16:23.853Z>.
+<https://stad.gent/id/agent/670003498/2022-03-30T10:16:28.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:28.857Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_139_15, _:df_139_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "kerk van de klooster van Doornzele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "kerk van de klooster van Doornzele";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/20840>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_139_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0149"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_139_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003498/2022-03-30T10:16:28.857Z>.
+<https://stad.gent/id/agent/670003493/2022-03-30T10:16:03.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:03.596Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_142_16, _:df_142_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "kapel Alexianenklooster";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "kapel Alexianenklooster";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25855>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_142_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0144"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_142_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003493/2022-03-30T10:16:03.596Z>.
+<https://stad.gent/id/agent/670003494/2022-03-30T10:16:08.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003494>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:16:08.850Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_142_21, _:df_142_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "kartuizerklooster Sint-Jan de Deo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "kartuizerklooster Sint-Jan de Deo";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_142_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0145"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_142_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003494"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003494/2022-03-30T10:16:08.850Z>.
+<https://stad.gent/id/agent/670003403/2022-03-30T10:08:41.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:08:41.020Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_193_2, _:df_193_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "klooster der Zwarte Zusters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "klooster der Zwarte Zusters";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24969>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_193_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0054"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_193_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003403/2022-03-30T10:08:41.020Z>.
+<https://stad.gent/id/agent/670003405/2022-03-30T10:08:46.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:08:46.021Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_193_7, _:df_193_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_193_10;
+    <http://xmlns.com/foaf/0.1/familyName> "Koninklijke muziekconservatorium";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke muziekconservatorium";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_193_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1835-01-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_193_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0056"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_193_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003405/2022-03-30T10:08:46.021Z>.
+<https://stad.gent/id/agent/670003406/2022-03-30T10:08:51.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T10:08:51.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_193_12, _:df_193_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Koninklijke Vlaamse Academie voor Taal en Letterkunde (KANTL)";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Vlaamse Academie voor Taal en Letterkunde (KANTL)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_193_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0057"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_193_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003406/2022-03-30T10:08:51.022Z>.
+<https://stad.gent/id/agent/530001296/2022-02-25T18:24:46.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:24:46.799Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7393_2, _:df_7393_4;
+    <http://www.w3.org/2004/02/skos/core#note> "http://www.ebay.com.au/itm/Arthur-Krupp-Kunst-Erzgiesserei-Wien-signierte-Jugendstil-Bronzeschale-um-1905-/140941311670";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7393_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7393_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "K. k. Kunsterzgießerei";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7393_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1917"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7393_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1861"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+_:df_7393_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00743"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7393_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001296/2022-02-25T18:24:46.799Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_103.
+_:df_1_103 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/kr.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "kr".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_104.
+_:df_1_104 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ka.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ka".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_105.
+_:df_1_105 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ke.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ke".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_106.
+_:df_1_106 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/kl.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "kl".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_107.
+_:df_1_107 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ko.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ko".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_108.
+_:df_1_108 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ku.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ku".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_109.
+_:df_1_109 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ki.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ki".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_110.
+_:df_1_110 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/kn.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "kn".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_111.
+_:df_1_111 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ky.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ky".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_112.
+_:df_1_112 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/kh.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "kh".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_113.
+_:df_1_113 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/kj.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "kj".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> <https://w3id.org/tree#relation> _:df_1_114.
+_:df_1_114 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/k.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "k.".
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/k.ttl>.
+<https://brechtvdv.github.io/coghent-substrings/personen/k.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/k.ttl>.

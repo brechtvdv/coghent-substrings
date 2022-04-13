@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/670001484/2022-03-30T07:36:39.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:36:39.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1276_25, _:df_1276_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Hindreck";
+    <http://xmlns.com/foaf/0.1/familyName> "Hemd";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hemd, Hindreck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1276_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1467"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1276_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001484/2022-03-30T07:36:39.893Z>.
+<https://stad.gent/id/agent/670001484/2022-02-26T07:26:24.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:26:24.444Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4240_17, _:df_4240_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Hindreck";
+    <http://xmlns.com/foaf/0.1/familyName> "Hemd";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hemd, Hindreck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4240_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1467"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4240_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001484/2022-02-26T07:26:24.444Z>.
+<https://stad.gent/id/agent/530020517/2022-02-25T21:23:33.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:23:33.869Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6580_2, _:df_6580_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.B.D.";
+    <http://xmlns.com/foaf/0.1/familyName> "Hemelsoet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hemelsoet, J.B.D.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6580_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01993"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6580_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020517/2022-02-25T21:23:33.869Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/hem.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/hem.ttl>.

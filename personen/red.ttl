@@ -1,0 +1,17 @@
+<https://stad.gent/id/agent/530014834/2022-02-25T19:55:39.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530014834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:55:39.471Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6904_30, _:df_6904_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Odilon";
+    <http://xmlns.com/foaf/0.1/familyName> "Redon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Redon, Odilon";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q154349>, <https://rkd.nl/explore/artists/65887>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6904_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03346"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6904_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530014834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530014834/2022-02-25T19:55:39.471Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/red.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/red.ttl>.

@@ -1,0 +1,191 @@
+<https://stad.gent/id/agent/670002046/2022-03-30T08:23:33.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:23:33.238Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_943_38, _:df_943_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_943_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2029"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_943_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002046/2022-03-30T08:23:33.238Z>.
+<https://stad.gent/id/agent/670003223/2022-02-26T09:51:02.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:51:02.661Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3205_2, _:df_3205_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3205_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1137"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3205_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003223/2022-02-26T09:51:02.661Z>.
+<https://stad.gent/id/agent/670002055/2022-02-26T08:13:59.300Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:59.300Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3898_2, _:df_3898_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Joannes Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3898_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2038"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3898_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002055/2022-02-26T08:13:59.300Z>.
+<https://stad.gent/id/agent/670002050/2022-02-26T08:13:33.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:33.989Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3901_2, _:df_3901_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3901_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2033"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3901_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002050/2022-02-26T08:13:33.989Z>.
+<https://stad.gent/id/agent/670002051/2022-02-26T08:13:38.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:38.991Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3901_10, _:df_3901_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3901_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2034"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3901_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002051/2022-02-26T08:13:38.991Z>.
+<https://stad.gent/id/agent/670002052/2022-02-26T08:13:43.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:43.994Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3901_15, _:df_3901_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Catharine";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Marie Catharine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3901_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2035"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3901_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002052/2022-02-26T08:13:43.994Z>.
+<https://stad.gent/id/agent/670002053/2022-02-26T08:13:48.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:48.997Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3901_20, _:df_3901_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3901_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2036"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3901_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002053/2022-02-26T08:13:48.997Z>.
+<https://stad.gent/id/agent/670002054/2022-02-26T08:13:54.298Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002054>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:54.298Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3901_25, _:df_3901_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3901_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2037"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3901_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002054"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002054/2022-02-26T08:13:54.298Z>.
+<https://stad.gent/id/agent/670002046/2022-02-26T08:13:13.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:13.983Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3904_7, _:df_3904_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3904_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2029"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3904_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002046/2022-02-26T08:13:13.983Z>.
+<https://stad.gent/id/agent/670002047/2022-02-26T08:13:18.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:18.985Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3904_12, _:df_3904_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Guillaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3904_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2030"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3904_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002047/2022-02-26T08:13:18.985Z>.
+<https://stad.gent/id/agent/670002048/2022-02-26T08:13:23.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:23.986Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3904_20, _:df_3904_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3904_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2031"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3904_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002048"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002048/2022-02-26T08:13:23.986Z>.
+<https://stad.gent/id/agent/670002049/2022-02-26T08:13:28.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:13:28.987Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3904_28, _:df_3904_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Geeraerd";
+    <http://xmlns.com/foaf/0.1/familyName> "Poelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Geeraerd";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3904_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2032"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3904_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002049/2022-02-26T08:13:28.987Z>.
+<https://stad.gent/id/agent/470001644/2022-02-25T16:48:35.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470001644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:48:35.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7921_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Poelman, Bernard";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q49952848>, <http://vocab.getty.edu/page/ulan/500001143>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7921_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470001644/2022-02-25T16:48:35.863Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/poe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/poe.ttl>.

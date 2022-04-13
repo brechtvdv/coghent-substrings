@@ -1,0 +1,26 @@
+<https://stad.gent/id/agent/530013652/2022-02-25T19:45:55.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:45:55.415Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6952_28, _:df_6952_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lumière et objet";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6952_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01453"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6952_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013652/2022-02-25T19:45:55.415Z>.
+<https://stad.gent/id/agent/530001425/2022-02-25T18:31:34.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:31:34.445Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7345_6, _:df_7345_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Luminarc Verrerie d'arques";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7345_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00824"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7345_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001425/2022-02-25T18:31:34.445Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lum.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lum.ttl>.

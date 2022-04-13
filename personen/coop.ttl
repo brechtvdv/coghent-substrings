@@ -1,0 +1,12 @@
+<https://stad.gent/id/agent/570022663/2022-02-26T03:56:35.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:56:35.465Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5587_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Coop";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5587_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022663/2022-02-26T03:56:35.465Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/coop.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/coop.ttl>.

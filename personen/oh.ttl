@@ -1,0 +1,50 @@
+<https://stad.gent/id/agent/530024209/2022-02-25T23:42:42.899Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:42:42.899Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5872_29, _:df_5872_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5872_33;
+    <http://xmlns.com/foaf/0.1/givenName> "Toshio";
+    <http://xmlns.com/foaf/0.1/familyName> "Ōhi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ōhi, Toshio";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q11436504>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5872_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5872_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_5872_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004554>.
+<http://vocab.getty.edu/tgn/7004554> a <http://purl.org/dc/terms/Location>.
+_:df_5872_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03174"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5872_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024209/2022-02-25T23:42:42.899Z>.
+<https://stad.gent/id/agent/530000105/2022-02-25T17:06:38.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:06:38.761Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7828_14, _:df_7828_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7828_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Toshirō";
+    <http://xmlns.com/foaf/0.1/familyName> "Ōhi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ōhi, Toshirō";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97819320>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7828_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7828_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_7828_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-10-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004554>.
+<http://vocab.getty.edu/tgn/7004554> a <http://purl.org/dc/terms/Location>.
+_:df_7828_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00020"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7828_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000105/2022-02-25T17:06:38.761Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/oh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/oh.ttl>.

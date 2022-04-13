@@ -1,0 +1,77 @@
+<https://stad.gent/id/agent/670000297/2022-03-30T05:57:32.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:57:32.089Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1981_2, _:df_1981_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "Caers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caers, Marie Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1981_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0280"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1981_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000297/2022-03-30T05:57:32.089Z>.
+<https://stad.gent/id/agent/670000296/2022-03-30T05:57:26.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:57:26.768Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1984_33, _:df_1984_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Caellaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caellaere, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1984_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0279"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1984_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000296/2022-03-30T05:57:26.768Z>.
+<https://stad.gent/id/agent/670000297/2022-02-26T05:47:03.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:47:03.215Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4948_2, _:df_4948_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "Caers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caers, Marie Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4948_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0280"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4948_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000297/2022-02-26T05:47:03.215Z>.
+<https://stad.gent/id/agent/670000296/2022-02-26T05:46:58.213Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:46:58.213Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4951_33, _:df_4951_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Caellaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caellaere, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4951_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0279"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4951_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000296/2022-02-26T05:46:58.213Z>.
+<https://stad.gent/id/agent/530022247/2022-02-25T22:26:49.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:26:49.852Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6214_36, _:df_6214_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joost";
+    <http://xmlns.com/foaf/0.1/familyName> "Caen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caen, Joost";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q54860794>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6214_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03393"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6214_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022247/2022-02-25T22:26:49.852Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/cae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/cae.ttl>.

@@ -1,0 +1,43 @@
+<https://stad.gent/id/agent/530017875/2022-02-25T20:47:26.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:47:26.394Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6727_33, _:df_6727_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6727_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Jürgen";
+    <http://xmlns.com/foaf/0.1/familyName> "Greubel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Greubel, Jürgen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500460679>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6727_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6727_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_6727_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1938"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6727_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01798"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6727_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017875/2022-02-25T20:47:26.394Z>.
+<https://stad.gent/id/agent/530000627/2022-02-25T17:42:38.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:42:38.438Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7696_16, _:df_7696_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gerrit";
+    <http://xmlns.com/foaf/0.1/familyName> "Greup";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Greup, Gerrit";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/371724>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7696_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7696_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_7696_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00241"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7696_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000627/2022-02-25T17:42:38.438Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/greu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/greu.ttl>.

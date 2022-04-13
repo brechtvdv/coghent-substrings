@@ -1,0 +1,110 @@
+<https://stad.gent/id/agent/530001610/2022-03-12T00:00:15.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-12T00:00:15.907Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2965_11, _:df_2965_13;
+    <http://www.w3.org/2004/02/skos/core#note> "Volgde de opleiding beeldhouwkunst aan Sint-Lucas Gent. Gaf plastische kunst aan het Instituut Heilige Familie in Brugge.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2965_14;
+    <http://xmlns.com/foaf/0.1/givenName> "Adelin";
+    <http://xmlns.com/foaf/0.1/familyName> "De Craene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Craene, Adelin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2965_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2965_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2965_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951-05-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2965_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00967"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2965_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001610/2022-03-12T00:00:15.907Z>.
+<https://stad.gent/id/agent/670000638/2022-02-26T06:15:37.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:15:37.222Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4744_2, _:df_4744_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Petrus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Croock";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Croock, Petrus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4744_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0621"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4744_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000638/2022-02-26T06:15:37.222Z>.
+<https://stad.gent/id/agent/670000639/2022-02-26T06:15:42.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:15:42.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4744_10, _:df_4744_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lievin";
+    <http://xmlns.com/foaf/0.1/familyName> "de Crouble";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Crouble, Lievin";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4744_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0622"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4744_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000639/2022-02-26T06:15:42.223Z>.
+<https://stad.gent/id/agent/670000636/2022-02-26T06:15:26.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:15:26.914Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4747_20, _:df_4747_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel";
+    <http://xmlns.com/foaf/0.1/familyName> "de Craene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Craene, Carel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4747_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0619"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4747_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000636/2022-02-26T06:15:26.914Z>.
+<https://stad.gent/id/agent/670000637/2022-02-26T06:15:32.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:15:32.220Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4747_25, _:df_4747_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Crombrugghe de la Douve";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Crombrugghe de la Douve";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4747_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0620"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4747_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000637/2022-02-26T06:15:32.220Z>.
+<https://stad.gent/id/agent/530020840/2022-02-25T21:41:50.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020840>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:41:50.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6481_20, _:df_6481_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.C.";
+    <http://xmlns.com/foaf/0.1/familyName> "De Crousaz";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Crousaz, J.C.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6481_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02159"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6481_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020840"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020840/2022-02-25T21:41:50.924Z>.
+<https://stad.gent/id/agent/530001610/2022-02-25T18:43:39.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:43:39.331Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7258_2, _:df_7258_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "A.";
+    <http://xmlns.com/foaf/0.1/familyName> "De Craene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Craene, A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7258_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00967"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7258_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001610/2022-02-25T18:43:39.331Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+cr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+cr.ttl>.

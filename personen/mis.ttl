@@ -1,0 +1,76 @@
+<https://stad.gent/id/agent/670001837/2022-02-26T07:55:41.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:41.122Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_15, _:df_4030_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernaerdus";
+    <http://xmlns.com/foaf/0.1/familyName> "Mispreuve";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mispreuve, Bernaerdus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4030_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1820"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4030_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001837/2022-02-26T07:55:41.122Z>.
+<https://stad.gent/id/agent/670001838/2022-02-26T07:55:46.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001838>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:46.124Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_23, _:df_4030_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaspard";
+    <http://xmlns.com/foaf/0.1/familyName> "Mispreuve";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mispreuve, Jaspard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4030_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1821"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4030_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001838"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001838/2022-02-26T07:55:46.124Z>.
+<https://stad.gent/id/agent/670001839/2022-02-26T07:55:51.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001839>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:51.125Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_31, _:df_4030_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "Mispreuve";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mispreuve, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4030_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1822"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4030_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001839"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001839/2022-02-26T07:55:51.125Z>.
+<https://stad.gent/id/agent/530023535/2022-02-25T23:08:52.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:08:52.548Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5986_7, _:df_5986_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5986_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "mischer'traxler studio";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5986_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>.
+_:df_5986_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02963"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5986_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023535/2022-02-25T23:08:52.548Z>.
+<https://stad.gent/id/agent/530016559/2022-02-25T20:05:03.311Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:05:03.311Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6862_2, _:df_6862_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Miss Brittenham";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6862_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01578"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6862_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016559/2022-02-25T20:05:03.311Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/mis.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/mis.ttl>.

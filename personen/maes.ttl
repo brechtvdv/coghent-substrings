@@ -1,0 +1,339 @@
+<https://stad.gent/id/agent/670001740/2022-02-26T07:47:32.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:32.395Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4087_2, _:df_4087_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Theresia Jacoba";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Theresia Jacoba";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4087_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1723"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4087_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001740/2022-02-26T07:47:32.395Z>.
+<https://stad.gent/id/agent/670001741/2022-02-26T07:47:37.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:37.398Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4087_7, _:df_4087_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe Antonius";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Philippe Antonius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4087_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1724"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4087_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001741/2022-02-26T07:47:37.398Z>.
+<https://stad.gent/id/agent/670001742/2022-02-26T07:47:42.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:42.399Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4087_15, _:df_4087_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Thomaes Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Thomaes Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4087_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1725"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4087_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001742/2022-02-26T07:47:42.399Z>.
+<https://stad.gent/id/agent/670001743/2022-02-26T07:47:47.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:47.402Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4087_20, _:df_4087_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "A.";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4087_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1726"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4087_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001743/2022-02-26T07:47:47.402Z>.
+<https://stad.gent/id/agent/670001744/2022-02-26T07:47:52.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:52.678Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4087_25, _:df_4087_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Maeseele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maeseele";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4087_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1727"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4087_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001744/2022-02-26T07:47:52.678Z>.
+<https://stad.gent/id/agent/670001735/2022-02-26T07:47:07.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:07.386Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4090_2, _:df_4090_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lucas";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Lucas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4090_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1718"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4090_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001735/2022-02-26T07:47:07.386Z>.
+<https://stad.gent/id/agent/670001736/2022-02-26T07:47:12.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:12.388Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4090_7, _:df_4090_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4090_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1719"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4090_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001736/2022-02-26T07:47:12.388Z>.
+<https://stad.gent/id/agent/670001737/2022-02-26T07:47:17.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:17.391Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4090_12, _:df_4090_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4090_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1720"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4090_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001737/2022-02-26T07:47:17.391Z>.
+<https://stad.gent/id/agent/670001738/2022-02-26T07:47:22.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:22.392Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4090_22, _:df_4090_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4090_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1721"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4090_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001738/2022-02-26T07:47:22.392Z>.
+<https://stad.gent/id/agent/670001739/2022-02-26T07:47:27.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:27.393Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4090_30, _:df_4090_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4090_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1722"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4090_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001739/2022-02-26T07:47:27.393Z>.
+<https://stad.gent/id/agent/670001731/2022-02-26T07:46:47.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:46:47.061Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_7, _:df_4093_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Laureins";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Laureins";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4093_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1714"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4093_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001731/2022-02-26T07:46:47.061Z>.
+<https://stad.gent/id/agent/670001732/2022-02-26T07:46:52.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:46:52.064Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_12, _:df_4093_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillelmus";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Guillelmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4093_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1715"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4093_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001732/2022-02-26T07:46:52.064Z>.
+<https://stad.gent/id/agent/670001733/2022-02-26T07:46:57.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:46:57.065Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_17, _:df_4093_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4093_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1716"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4093_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001733/2022-02-26T07:46:57.065Z>.
+<https://stad.gent/id/agent/670001734/2022-02-26T07:47:02.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:47:02.385Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_22, _:df_4093_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4093_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1717"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4093_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001734/2022-02-26T07:47:02.385Z>.
+<https://stad.gent/id/agent/530023990/2022-02-25T23:27:30.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023990>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:27:30.883Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5932_17, _:df_5932_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5932_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5932_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Charles";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5932_26;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5932_26 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5932_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1924"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026726>.
+<http://vocab.getty.edu/tgn/1026726> a <http://purl.org/dc/terms/Location>.
+_:df_5932_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1847"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026750>.
+<http://vocab.getty.edu/tgn/1026750> a <http://purl.org/dc/terms/Location>.
+_:df_5932_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03095"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5932_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023990"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023990/2022-02-25T23:27:30.883Z>.
+<https://stad.gent/id/agent/530023301/2022-02-25T22:53:20.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:53:20.918Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6073_9, _:df_6073_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "K.";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, K.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6073_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02819"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6073_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023301/2022-02-25T22:53:20.918Z>.
+<https://stad.gent/id/agent/530023144/2022-02-25T22:42:11.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:42:11.229Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6145_30, _:df_6145_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, G.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6145_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02702"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6145_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023144/2022-02-25T22:42:11.229Z>.
+<https://stad.gent/id/agent/530021689/2022-02-25T22:07:51.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:07:51.668Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6328_2, _:df_6328_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6328_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Jeroen";
+    <http://xmlns.com/foaf/0.1/familyName> "Maes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes, Jeroen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q58875626>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6328_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6328_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6328_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1977"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6328_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02405"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6328_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021689/2022-02-25T22:07:51.668Z>.
+<https://stad.gent/id/agent/530021568/2022-02-25T21:59:03.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:59:03.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6391_18, _:df_6391_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6391_22;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maes (Torhout)";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97961802>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6391_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008017>.
+<http://vocab.getty.edu/tgn/7008017> a <http://purl.org/dc/terms/Location>.
+_:df_6391_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02302"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6391_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021568/2022-02-25T21:59:03.079Z>.
+<https://stad.gent/id/agent/530020568/2022-02-25T21:26:04.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:26:04.861Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6568_39, _:df_6568_41;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jules Camille";
+    <http://xmlns.com/foaf/0.1/familyName> "Maessen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maessen, Jules Camille";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6568_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02017"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6568_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020568/2022-02-25T21:26:04.861Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/maes.ttl> <https://w3id.org/tree#relation> _:df_1_2091.
+_:df_1_2091 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/maese.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "maese".
+<https://brechtvdv.github.io/coghent-substrings/personen/maes.ttl> <https://w3id.org/tree#relation> _:df_1_2092.
+_:df_1_2092 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/maes+(.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "maes", "(".
+<https://brechtvdv.github.io/coghent-substrings/personen/maes.ttl> <https://w3id.org/tree#relation> _:df_1_2093.
+_:df_1_2093 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/maes+l.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "maes", "l".
+<https://brechtvdv.github.io/coghent-substrings/personen/maes.ttl> <https://w3id.org/tree#relation> _:df_1_2094.
+_:df_1_2094 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/maes+a.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "maes", "a".
+<https://brechtvdv.github.io/coghent-substrings/personen/maes.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/maes.ttl>.

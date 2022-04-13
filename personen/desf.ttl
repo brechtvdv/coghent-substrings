@@ -1,0 +1,21 @@
+<https://stad.gent/id/agent/530021332/2022-02-25T21:52:35.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:52:35.364Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6427_2, _:df_6427_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Notice Artiste\r\nn° 27234\r\nDesfossé et Karth\r\n\r\n\r\nDesfossé et Karth\r\nSexe : personne morale\r\n\r\nLieux d'activité\r\nentre 1863 et 1947 Paris Paris (75) France\r\nNationalité présumée\r\nFrance\r\nCommentaire\r\nLa manufacture Jules Desfossé, fondée en 1851 par Jules Desfossé (1816-1891), prend le nom en 1863 de Desfossé et Karth, par son association avec Hippolyte Karth. En 1947, le fonds de la société Desfossé et Karth, de même que l'usine de Gouvieux, deviennent la propriété de la société Isidore Leroy. La manufacture Leroy ferme ses portes en 1982.\r\nDocumentation\r\narts décoratifs\r\nVoir aussi\r\n•\tŒuvres de l'artiste\r\n\r\nhttp://www.musee-orsay.fr/en/espace-professionnels/professionals/researchers/rech-rec-art-home/notice-artiste.html?no_cache=1&nnumid=27234&retouroeuvre=%252Fen%252Fcollections%252Findex-of-works%252Fnotice.html%253Fno_cache%253D1%2526nnumid%253D152878%2526cHash%253Df48ce41c6a\r\n";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6427_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6427_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Desfossé et Karth";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6427_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1982"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6427_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1851"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6427_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02240"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6427_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021332/2022-02-25T21:52:35.364Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/desf.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/desf.ttl>.

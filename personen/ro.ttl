@@ -1,0 +1,391 @@
+<https://stad.gent/id/agent/670002142/2022-03-30T08:31:33.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:31:33.145Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_886_24, _:df_886_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Rougiers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rougiers, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_886_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2125"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_886_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002142/2022-03-30T08:31:33.145Z>.
+<https://stad.gent/id/agent/670002133/2022-03-30T08:30:48.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:48.128Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_2, _:df_889_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "Roothaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roothaese, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2116"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002133/2022-03-30T08:30:48.128Z>.
+<https://stad.gent/id/agent/670002134/2022-03-30T08:30:53.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:53.130Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_7, _:df_889_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Roothaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roothaese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2117"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002134/2022-03-30T08:30:53.130Z>.
+<https://stad.gent/id/agent/670002135/2022-03-30T08:30:58.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:58.132Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_14, _:df_889_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Rootsaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rootsaert, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2118"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002135/2022-03-30T08:30:58.132Z>.
+<https://stad.gent/id/agent/670002136/2022-03-30T08:31:03.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:31:03.134Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_22, _:df_889_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Rosseel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rosseel, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2119"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002136/2022-03-30T08:31:03.134Z>.
+<https://stad.gent/id/agent/670002137/2022-03-30T08:31:08.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002137>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:31:08.136Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_27, _:df_889_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Rosseel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rosseel, Jacobus weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2120"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002137"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002137/2022-03-30T08:31:08.136Z>.
+<https://stad.gent/id/agent/670002128/2022-03-30T08:30:22.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:22.232Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_892_2, _:df_892_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Henricus";
+    <http://xmlns.com/foaf/0.1/familyName> "Roobier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roobier, Henricus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_892_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2111"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_892_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002128/2022-03-30T08:30:22.232Z>.
+<https://stad.gent/id/agent/670002129/2022-03-30T08:30:27.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:27.234Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_892_7, _:df_892_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis Joan";
+    <http://xmlns.com/foaf/0.1/familyName> "Rooman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rooman, Gillis Joan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_892_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2112"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_892_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002129/2022-03-30T08:30:27.234Z>.
+<https://stad.gent/id/agent/670002130/2022-03-30T08:30:32.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:32.236Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_892_12, _:df_892_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ambrosius";
+    <http://xmlns.com/foaf/0.1/familyName> "Rooman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rooman, Ambrosius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_892_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2113"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_892_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002130/2022-03-30T08:30:32.236Z>.
+<https://stad.gent/id/agent/670002131/2022-03-30T08:30:37.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:37.237Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_892_20, _:df_892_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Benedictus";
+    <http://xmlns.com/foaf/0.1/familyName> "Roosen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roosen, Benedictus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_892_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2114"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_892_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002131/2022-03-30T08:30:37.237Z>.
+<https://stad.gent/id/agent/670002132/2022-03-30T08:30:42.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002132>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:42.239Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_892_25, _:df_892_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Roothaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roothaese, Cornelis weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_892_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2115"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_892_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002132"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002132/2022-03-30T08:30:42.239Z>.
+<https://stad.gent/id/agent/670002123/2022-03-30T08:29:57.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:29:57.222Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_895_2, _:df_895_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "Rons";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rons, Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_895_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2106"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_895_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002123/2022-03-30T08:29:57.222Z>.
+<https://stad.gent/id/agent/670002124/2022-03-30T08:30:02.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:02.225Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_895_7, _:df_895_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Franciscus Judocus Ronse";
+    <http://xmlns.com/foaf/0.1/givenName> "Francies Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Ronse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ronse, Francies Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_895_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2107"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_895_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002124/2022-03-30T08:30:02.225Z>.
+<https://stad.gent/id/agent/670002125/2022-03-30T08:30:07.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:07.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_895_16, _:df_895_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Heijndrick";
+    <http://xmlns.com/foaf/0.1/familyName> "Ronse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ronse, Heijndrick";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_895_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2108"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_895_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002125/2022-03-30T08:30:07.227Z>.
+<https://stad.gent/id/agent/670002126/2022-03-30T08:30:12.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:12.229Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_895_21, _:df_895_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Ronse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ronse, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_895_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2109"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_895_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002126/2022-03-30T08:30:12.229Z>.
+<https://stad.gent/id/agent/670002127/2022-03-30T08:30:17.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:30:17.231Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_895_29, _:df_895_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Ronze";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ronze, Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_895_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2110"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_895_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002127/2022-03-30T08:30:17.231Z>.
+<https://stad.gent/id/agent/670002118/2022-03-30T08:29:31.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:29:31.244Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_898_2, _:df_898_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Geeraert";
+    <http://xmlns.com/foaf/0.1/familyName> "Rogiers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rogiers, Geeraert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_898_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2101"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_898_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002118/2022-03-30T08:29:31.244Z>.
+<https://stad.gent/id/agent/670002119/2022-03-30T08:29:36.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:29:36.246Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_898_12, _:df_898_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Rogiers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rogiers, Charles Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_898_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2102"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_898_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002119/2022-03-30T08:29:36.246Z>.
+<https://stad.gent/id/agent/670002120/2022-03-30T08:29:41.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:29:41.248Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_898_17, _:df_898_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Rogiest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rogiest";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_898_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2103"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_898_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002120/2022-03-30T08:29:41.248Z>.
+<https://stad.gent/id/agent/670002121/2022-03-30T08:29:46.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:29:46.249Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_898_24, _:df_898_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Geeraert";
+    <http://xmlns.com/foaf/0.1/familyName> "Rogiest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rogiest, Geeraert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_898_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2104"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_898_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002121/2022-03-30T08:29:46.249Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_412.
+_:df_1_412 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rom.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rom".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_413.
+_:df_1_413 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/roe.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "roe".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_414.
+_:df_1_414 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rog.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rog".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_415.
+_:df_1_415 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rob.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rob".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_416.
+_:df_1_416 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rod.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rod".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_417.
+_:df_1_417 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ros.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ros".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_418.
+_:df_1_418 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/roh.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "roh".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_419.
+_:df_1_419 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rov.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rov".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_420.
+_:df_1_420 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rot.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rot".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_421.
+_:df_1_421 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rou.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rou".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_422.
+_:df_1_422 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ron.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ron".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_423.
+_:df_1_423 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/roc.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "roc".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_424.
+_:df_1_424 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/roy.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "roy".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_425.
+_:df_1_425 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/roo.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "roo".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_426.
+_:df_1_426 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/row.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "row".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_427.
+_:df_1_427 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/rol.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "rol".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_428.
+_:df_1_428 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/roz.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "roz".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> <https://w3id.org/tree#relation> _:df_1_429.
+_:df_1_429 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/ror.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "ror".
+<https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ro.ttl>.

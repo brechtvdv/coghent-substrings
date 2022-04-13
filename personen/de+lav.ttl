@@ -1,0 +1,60 @@
+<https://stad.gent/id/agent/670000753/2022-02-26T06:25:17.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:25:17.962Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4675_2, _:df_4675_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Laval";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Laval, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4675_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0736"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4675_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000753/2022-02-26T06:25:17.962Z>.
+<https://stad.gent/id/agent/670000754/2022-02-26T06:25:22.964Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:25:22.964Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4675_7, _:df_4675_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Louys";
+    <http://xmlns.com/foaf/0.1/familyName> "de Lavaliette";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Lavaliette, Louys";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4675_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0737"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4675_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000754/2022-02-26T06:25:22.964Z>.
+<https://stad.gent/id/agent/670000755/2022-02-26T06:25:27.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:25:27.966Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4675_12, _:df_4675_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Lavaliette";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Lavaliette";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4675_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0738"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4675_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000755/2022-02-26T06:25:27.966Z>.
+<https://stad.gent/id/agent/670000756/2022-02-26T06:25:32.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:25:32.967Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4675_16, _:df_4675_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "de Laville de Roulx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Laville de Roulx, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4675_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0739"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4675_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000756/2022-02-26T06:25:32.967Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+lav.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+lav.ttl>.

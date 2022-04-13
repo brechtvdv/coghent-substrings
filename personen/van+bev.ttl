@@ -1,0 +1,30 @@
+<https://stad.gent/id/agent/670002462/2022-02-26T08:47:46.731Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:47:46.731Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3658_15, _:df_3658_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "van Beveren";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Beveren, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3658_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2445"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3658_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002462/2022-02-26T08:47:46.731Z>.
+<https://stad.gent/id/agent/670002463/2022-02-26T08:47:51.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:47:51.732Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3658_23, _:df_3658_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "van Beveren";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Beveren";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3658_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2446"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3658_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002463/2022-02-26T08:47:51.732Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+bev.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+bev.ttl>.

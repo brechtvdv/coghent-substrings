@@ -1,0 +1,82 @@
+<https://stad.gent/id/agent/670002529/2022-03-30T09:03:55.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T09:03:55.752Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_655_2, _:df_655_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "van de Steene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van de Steene, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_655_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2512"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_655_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002529/2022-03-30T09:03:55.752Z>.
+<https://stad.gent/id/agent/670002528/2022-03-30T09:03:50.432Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T09:03:50.432Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_658_24, _:df_658_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "van de Sompele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van de Sompele, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_658_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2511"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_658_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002528/2022-03-30T09:03:50.432Z>.
+<https://stad.gent/id/agent/570031782/2022-03-30T05:14:10.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:14:10.317Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2209_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van de Steene Frères";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2209_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031782/2022-03-30T05:14:10.317Z>.
+<https://stad.gent/id/agent/670002528/2022-02-26T08:53:19.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:53:19.045Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3619_19, _:df_3619_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "van de Sompele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van de Sompele, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3619_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2511"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3619_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002528/2022-02-26T08:53:19.045Z>.
+<https://stad.gent/id/agent/670002529/2022-02-26T08:53:24.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:53:24.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3619_29, _:df_3619_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "van de Steene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van de Steene, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3619_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2512"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3619_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002529/2022-02-26T08:53:24.352Z>.
+<https://stad.gent/id/agent/570031782/2022-02-26T05:04:04.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:04:04.707Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5173_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van de Steene Frères";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5173_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031782/2022-02-26T05:04:04.707Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+de+s.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+de+s.ttl>.

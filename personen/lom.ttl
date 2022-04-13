@@ -1,0 +1,72 @@
+<https://stad.gent/id/agent/670001701/2022-02-26T07:44:15.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:44:15.992Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4111_10, _:df_4111_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Lombaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lombaert, Jean Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4111_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1684"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4111_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001701"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001701/2022-02-26T07:44:15.992Z>.
+<https://stad.gent/id/agent/670001702/2022-02-26T07:44:20.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:44:20.994Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4111_18, _:df_4111_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippus";
+    <http://xmlns.com/foaf/0.1/familyName> "Lombaerts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lombaerts, Philippus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4111_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1685"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4111_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001702/2022-02-26T07:44:20.994Z>.
+<https://stad.gent/id/agent/530023972/2022-02-25T23:26:05.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:26:05.509Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5935_14, _:df_5935_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Thomas";
+    <http://xmlns.com/foaf/0.1/familyName> "Lommée";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lommée, Thomas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5935_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5935_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5935_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03085"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5935_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023972/2022-02-25T23:26:05.509Z>.
+<https://stad.gent/id/agent/530013704/2022-02-25T19:48:46.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013704>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:48:46.776Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6934_10, _:df_6934_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6934_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Paolo";
+    <http://xmlns.com/foaf/0.1/familyName> "Lomazzi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lomazzi, Paolo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500460681>, <https://www.wikidata.org/entity/Q11940051>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6934_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6934_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_6934_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6934_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01481"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6934_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013704"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013704/2022-02-25T19:48:46.776Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lom.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lom.ttl>.

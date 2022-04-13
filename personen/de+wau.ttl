@@ -1,0 +1,16 @@
+<https://stad.gent/id/agent/670001042/2022-02-26T06:49:29.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:49:29.494Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4504_18, _:df_4504_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Everardus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Waudripont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Waudripont, Everardus";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4504_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1025"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4504_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001042/2022-02-26T06:49:29.494Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+wau.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+wau.ttl>.

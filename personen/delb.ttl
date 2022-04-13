@@ -1,0 +1,60 @@
+<https://stad.gent/id/agent/670001079/2022-03-30T07:02:58.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:02:58.393Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1516_36, _:df_1516_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Delbecq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delbecq, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1516_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1062"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1516_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001079/2022-03-30T07:02:58.393Z>.
+<https://stad.gent/id/agent/670001079/2022-02-26T06:52:35.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:52:35.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_2, _:df_4480_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Delbecq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delbecq, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4480_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1062"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4480_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001079/2022-02-26T06:52:35.978Z>.
+<https://stad.gent/id/agent/670001080/2022-02-26T06:52:40.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:52:40.979Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_7, _:df_4480_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Delbecq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delbecq, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4480_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1063"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4480_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001080/2022-02-26T06:52:40.979Z>.
+<https://stad.gent/id/agent/530022127/2022-02-25T22:24:38.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:24:38.683Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6226_25, _:df_6226_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frederik";
+    <http://xmlns.com/foaf/0.1/familyName> "Delbart";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delbart, Frederik";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6226_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02579"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6226_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022127/2022-02-25T22:24:38.683Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/delb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/delb.ttl>.

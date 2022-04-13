@@ -1,0 +1,210 @@
+<https://stad.gent/id/agent/570020238/2022-03-30T03:55:18.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:55:18.133Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2701_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2701_4;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2701_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volckrick Frères";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2701_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1871"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026571>.
+<http://vocab.getty.edu/tgn/1026571> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2701_4 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1866"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026571>.
+_:df_2701_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020238/2022-03-30T03:55:18.133Z>.
+<https://stad.gent/id/agent/670003115/2022-02-26T09:42:14.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:42:14.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_2, _:df_3268_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Volckaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volckaert, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3268_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3098"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3268_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003115/2022-02-26T09:42:14.353Z>.
+<https://stad.gent/id/agent/670003116/2022-02-26T09:42:19.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:42:19.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_7, _:df_3268_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Volckaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volckaert, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3268_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3099"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3268_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003116"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003116/2022-02-26T09:42:19.355Z>.
+<https://stad.gent/id/agent/670003117/2022-02-26T09:42:24.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:42:24.356Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_12, _:df_3268_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Volckerick";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volckerick, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3268_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3100"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3268_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003117/2022-02-26T09:42:24.356Z>.
+<https://stad.gent/id/agent/670003112/2022-02-26T09:41:59.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:41:59.062Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3271_15, _:df_3271_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernaert";
+    <http://xmlns.com/foaf/0.1/familyName> "Volaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volaert, Bernaert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3271_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3095"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3271_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003112/2022-02-26T09:41:59.062Z>.
+<https://stad.gent/id/agent/670003113/2022-02-26T09:42:04.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:42:04.351Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3271_20, _:df_3271_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillielmus";
+    <http://xmlns.com/foaf/0.1/familyName> "Volant";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volant, Guillielmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3271_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3096"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3271_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003113/2022-02-26T09:42:04.351Z>.
+<https://stad.gent/id/agent/670003114/2022-02-26T09:42:09.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:42:09.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3271_25, _:df_3271_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Volbracht";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volbracht, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3271_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3097"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3271_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003114/2022-02-26T09:42:09.352Z>.
+<https://stad.gent/id/agent/570032031/2022-02-26T05:09:56.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032031>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:09:56.942Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5164_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volt Information Sciences Inc.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5164_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032031"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032031/2022-02-26T05:09:56.942Z>.
+<https://stad.gent/id/agent/570031240/2022-02-26T04:59:28.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031240>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:59:28.024Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5194_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5194_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volkart Brothers";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1497231>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5194_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1851"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007301>.
+<http://vocab.getty.edu/tgn/7007301> a <http://purl.org/dc/terms/Location>.
+_:df_5194_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031240"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031240/2022-02-26T04:59:28.024Z>.
+<https://stad.gent/id/agent/570030753/2022-02-26T04:53:40.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:53:40.760Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5230_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volta";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5230_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030753/2022-02-26T04:53:40.760Z>.
+<https://stad.gent/id/agent/570020238/2022-02-26T03:45:04.614Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:45:04.614Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5668_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5668_16;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5668_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volckrick Frères";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5668_18 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1871"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026571>.
+<http://vocab.getty.edu/tgn/1026571> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5668_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1866"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026571>.
+_:df_5668_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020238/2022-02-26T03:45:04.614Z>.
+<https://stad.gent/id/agent/530001790/2022-02-25T18:54:13.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:54:13.832Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7183_12, _:df_7183_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7183_16;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volvo Cars Europe Industry";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q215293>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7183_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-04-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009954>.
+<http://vocab.getty.edu/tgn/7009954> a <http://purl.org/dc/terms/Location>.
+_:df_7183_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01093"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7183_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001790/2022-02-25T18:54:13.832Z>.
+<https://stad.gent/id/agent/530000910/2022-02-25T18:01:06.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:01:06.226Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7564_26, _:df_7564_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Volcker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volcker, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7564_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00461"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7564_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000910/2022-02-25T18:01:06.226Z>.
+<https://stad.gent/id/agent/470012379/2022-02-25T16:55:39.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470012379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:55:39.090Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7870_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Volkskundemuseum Antwerpen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q43140962>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7870_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470012379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470012379/2022-02-25T16:55:39.090Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vol.ttl>.

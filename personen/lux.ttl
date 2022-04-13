@@ -1,0 +1,38 @@
+<https://stad.gent/id/agent/530021980/2022-02-25T22:17:25.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:17:25.994Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6274_20, _:df_6274_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Luxval";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6274_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02498"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6274_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021980/2022-02-25T22:17:25.994Z>.
+<https://stad.gent/id/agent/530016906/2022-02-25T20:24:31.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:24:31.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6757_17, _:df_6757_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Luxus";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6757_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01756"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6757_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016906/2022-02-25T20:24:31.500Z>.
+<https://stad.gent/id/agent/530013559/2022-02-25T19:39:52.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:39:52.977Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6985_2, _:df_6985_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Luxo Italiana";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6985_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01395"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6985_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013559/2022-02-25T19:39:52.977Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lux.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lux.ttl>.

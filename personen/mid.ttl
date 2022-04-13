@@ -1,0 +1,36 @@
+<https://stad.gent/id/agent/570032464/2022-03-30T05:27:16.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:27:16.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Middleditch, Frank E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2170_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032464/2022-03-30T05:27:16.412Z>.
+<https://stad.gent/id/agent/670003520/2022-02-26T10:06:49.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:06:49.771Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_10, _:df_3094_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Middenstandshuis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Middenstandshuis";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25270>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3094_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0171"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3094_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003520/2022-02-26T10:06:49.771Z>.
+<https://stad.gent/id/agent/570032464/2022-02-26T05:17:09.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:17:09.946Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5137_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Middleditch, Frank E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5137_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032464/2022-02-26T05:17:09.946Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/mid.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/mid.ttl>.

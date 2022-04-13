@@ -1,0 +1,50 @@
+<https://stad.gent/id/agent/670002693/2022-02-26T09:07:10.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:07:10.198Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3520_17, _:df_3520_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "van Lancker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Lancker, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3520_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2676"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3520_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002693/2022-02-26T09:07:10.198Z>.
+<https://stad.gent/id/agent/670002694/2022-02-26T09:07:15.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:07:15.200Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3520_22, _:df_3520_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "van Lancker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Lancker, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3520_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2677"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3520_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002694/2022-02-26T09:07:15.200Z>.
+<https://stad.gent/id/agent/530016658/2022-02-25T20:10:50.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:10:50.910Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6829_2, _:df_6829_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charlotte";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Landeghem";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Landeghem, Charlotte";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6829_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6829_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6829_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01632"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6829_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016658/2022-02-25T20:10:50.910Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+lan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+lan.ttl>.

@@ -1,0 +1,49 @@
+<https://stad.gent/id/agent/530017851/2022-02-25T20:47:06.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:47:06.068Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6727_2, _:df_6727_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6727_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6727_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Vittorio";
+    <http://xmlns.com/foaf/0.1/familyName> "Gregotti";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gregotti, Vittorio";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500033063>, <https://www.wikidata.org/entity/Q679049>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6727_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6727_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_6727_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-03-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_6727_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-08-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005652>.
+<http://vocab.getty.edu/tgn/7005652> a <http://purl.org/dc/terms/Location>.
+_:df_6727_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01797"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6727_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017851/2022-02-25T20:47:06.068Z>.
+<https://stad.gent/id/agent/530000568/2022-02-25T17:38:11.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:38:11.719Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7726_2, _:df_7726_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7726_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gregotti, Meneghetti, Stoppino";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500212063>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7726_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7726_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00188"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7726_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000568/2022-02-25T17:38:11.719Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/greg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/greg.ttl>.

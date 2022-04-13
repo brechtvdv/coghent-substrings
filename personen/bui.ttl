@@ -1,0 +1,78 @@
+<https://stad.gent/id/agent/570022900/2022-03-30T04:07:58.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:07:58.730Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2614_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2614_14;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Buitenmuseum Zuiderzeemuseum";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q228640>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2614_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1950"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007064>.
+<http://vocab.getty.edu/tgn/7007064> a <http://purl.org/dc/terms/Location>.
+_:df_2614_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022900/2022-03-30T04:07:58.730Z>.
+<https://stad.gent/id/agent/670000280/2022-02-26T05:45:37.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:45:37.590Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4960_19, _:df_4960_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "George Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Buijck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Buijck, George Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4960_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0263"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4960_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000280/2022-02-26T05:45:37.590Z>.
+<https://stad.gent/id/agent/570022900/2022-02-26T03:57:45.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:57:45.888Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5581_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5581_22;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Buitenmuseum Zuiderzeemuseum";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q228640>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5581_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1950"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007064>.
+<http://vocab.getty.edu/tgn/7007064> a <http://purl.org/dc/terms/Location>.
+_:df_5581_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022900/2022-02-26T03:57:45.888Z>.
+<https://stad.gent/id/agent/530023238/2022-02-25T22:48:33.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:48:33.916Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6109_22, _:df_6109_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6109_26;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6109_28;
+    <http://xmlns.com/foaf/0.1/givenName> "Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "Buisseret";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Buisseret, Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500012669>, <https://www.wikidata.org/entity/Q2205928>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6109_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6109_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6109_28 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1986-05-25"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_6109_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1888-03-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007863>.
+<http://vocab.getty.edu/tgn/7007863> a <http://purl.org/dc/terms/Location>.
+_:df_6109_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02762"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6109_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023238/2022-02-25T22:48:33.916Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bui.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bui.ttl>.

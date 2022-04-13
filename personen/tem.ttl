@@ -1,0 +1,61 @@
+<https://stad.gent/id/agent/670002354/2022-02-26T08:38:47.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:38:47.381Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3721_2, _:df_3721_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Temmerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Temmerman, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3721_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2337"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3721_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002354/2022-02-26T08:38:47.381Z>.
+<https://stad.gent/id/agent/670002355/2022-02-26T08:38:52.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:38:52.383Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3721_7, _:df_3721_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Temmerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Temmerman, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3721_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2338"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3721_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002355/2022-02-26T08:38:52.383Z>.
+<https://stad.gent/id/agent/670002353/2022-02-26T08:38:42.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:38:42.379Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3724_31, _:df_3724_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joachim";
+    <http://xmlns.com/foaf/0.1/familyName> "Temmerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Temmerman, Joachim";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3724_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2336"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3724_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002353/2022-02-26T08:38:42.379Z>.
+<https://stad.gent/id/agent/530000893/2022-02-25T17:59:55.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:59:55.868Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7573_50, _:df_7573_52;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "Temmerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Temmerman, G.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7573_52 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00447"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7573_50 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000893"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000893/2022-02-25T17:59:55.868Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tem.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tem.ttl>.

@@ -1,0 +1,106 @@
+<https://stad.gent/id/agent/670003650/2022-02-26T10:17:44.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:17:44.983Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3016_22, _:df_3016_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Raymand";
+    <http://xmlns.com/foaf/0.1/familyName> "Vanden Heede";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanden Heede, Raymand";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3016_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0302"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3016_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003650/2022-02-26T10:17:44.983Z>.
+<https://stad.gent/id/agent/670002894/2022-02-26T09:23:41.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:41.822Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3400_2, _:df_3400_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Heuvel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Heuvel, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3400_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2877"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3400_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002894/2022-02-26T09:23:41.822Z>.
+<https://stad.gent/id/agent/670002889/2022-02-26T09:23:16.526Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:16.526Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_2, _:df_3403_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Franchoys";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Haute";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Haute, Franchoys";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3403_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2872"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3403_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002889/2022-02-26T09:23:16.526Z>.
+<https://stad.gent/id/agent/670002890/2022-02-26T09:23:21.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002890>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:21.527Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_10, _:df_3403_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Haute";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Haute, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3403_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2873"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3403_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002890"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002890/2022-02-26T09:23:21.527Z>.
+<https://stad.gent/id/agent/670002891/2022-02-26T09:23:26.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:26.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_15, _:df_3403_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Louis weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Heeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Heeke, Louis weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3403_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2874"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3403_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002891/2022-02-26T09:23:26.529Z>.
+<https://stad.gent/id/agent/670002892/2022-02-26T09:23:31.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:31.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_20, _:df_3403_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Hende";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Hende, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3403_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2875"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3403_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002892/2022-02-26T09:23:31.530Z>.
+<https://stad.gent/id/agent/670002893/2022-02-26T09:23:36.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:36.820Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_25, _:df_3403_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludovicus";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Hende";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Hende, Ludovicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3403_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2876"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3403_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002893"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002893/2022-02-26T09:23:36.820Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vanden+h.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vanden+h.ttl>.

@@ -1,0 +1,97 @@
+<https://stad.gent/id/agent/530020621/2022-02-25T21:29:51.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:29:51.168Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6544_35, _:df_6544_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6544_39;
+    <http://xmlns.com/foaf/0.1/givenName> "Rhonda";
+    <http://xmlns.com/foaf/0.1/familyName> "Zwillingr";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zwillingr, Rhonda";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24188907>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6544_43;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6544_43 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_6544_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1950"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012149>.
+<http://vocab.getty.edu/tgn/7012149> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6544_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01210"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6544_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020621/2022-02-25T21:29:51.168Z>.
+<https://stad.gent/id/agent/530018301/2022-02-25T20:50:17.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530018301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:50:17.420Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6712_14, _:df_6712_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Piet";
+    <http://xmlns.com/foaf/0.1/familyName> "Zwart";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zwart, Piet";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q529366>, <https://rkd.nl/explore/artists/86727>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6712_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03404"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6712_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530018301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530018301/2022-02-25T20:50:17.420Z>.
+<https://stad.gent/id/agent/530001669/2022-02-25T18:47:15.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:47:15.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7234_33, _:df_7234_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7234_37;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zwilling J.A. Henckels";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q244736>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7234_37 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1731-06-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004940>.
+<http://vocab.getty.edu/tgn/7004940> a <http://purl.org/dc/terms/Location>.
+_:df_7234_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01010"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7234_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001669/2022-02-25T18:47:15.840Z>.
+<https://stad.gent/id/agent/530001565/2022-02-25T18:40:48.213Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:40:48.213Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7279_10, _:df_7279_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7279_14;
+    <http://xmlns.com/foaf/0.1/givenName> "Rhonda";
+    <http://xmlns.com/foaf/0.1/familyName> "Zwillinger";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zwillinger, Rhonda";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500066479>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7279_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7279_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_7279_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1950"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7015822>.
+<http://vocab.getty.edu/tgn/7015822> a <http://purl.org/dc/terms/Location>.
+_:df_7279_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00933"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7279_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001565/2022-02-25T18:40:48.213Z>.
+<https://stad.gent/id/agent/530001399/2022-02-25T18:30:03.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:30:03.866Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7357_16, _:df_7357_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "E.";
+    <http://xmlns.com/foaf/0.1/familyName> "Zwaneveld";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zwaneveld, E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7357_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00806"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7357_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001399/2022-02-25T18:30:03.866Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/zw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/zw.ttl>.

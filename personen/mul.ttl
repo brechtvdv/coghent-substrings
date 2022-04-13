@@ -1,0 +1,308 @@
+<https://stad.gent/id/agent/670001893/2022-02-26T08:00:22.948Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:00:22.948Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3997_20, _:df_3997_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Mulle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mulle, Pieter weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3997_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1876"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3997_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001893"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001893/2022-02-26T08:00:22.948Z>.
+<https://stad.gent/id/agent/670001894/2022-02-26T08:00:28.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:00:28.217Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3997_25, _:df_3997_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "L.";
+    <http://xmlns.com/foaf/0.1/familyName> "Mullie Apers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mullie Apers, L.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3997_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1877"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3997_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001894/2022-02-26T08:00:28.217Z>.
+<https://stad.gent/id/agent/570028673/2022-02-26T04:32:12.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:32:12.065Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5368_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mülhens Ferd.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5368_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028673/2022-02-26T04:32:12.065Z>.
+<https://stad.gent/id/agent/530024320/2022-02-25T23:50:41.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024320>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:50:41.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5839_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5839_24;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5839_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Peter";
+    <http://xmlns.com/foaf/0.1/familyName> "Müller Munk";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Müller Munk, Peter";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/wikiQ52157072>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5839_26 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7013927>.
+<http://vocab.getty.edu/tgn/7013927> a <http://purl.org/dc/terms/Location>.
+_:df_5839_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+<http://vocab.getty.edu/tgn/7003712> a <http://purl.org/dc/terms/Location>.
+_:df_5839_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024320"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024320/2022-02-25T23:50:41.565Z>.
+<https://stad.gent/id/agent/530024228/2022-02-25T23:43:58.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024228>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:43:58.630Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5866_2, _:df_5866_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5866_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5866_7;
+    <http://xmlns.com/foaf/0.1/givenName> "Gerard";
+    <http://xmlns.com/foaf/0.1/familyName> "Muller";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Muller, Gerard";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/nl/explore/artists/58340>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5866_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5866_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_5866_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5866_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1877"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006952>.
+<http://vocab.getty.edu/tgn/7006952> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5866_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03176"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5866_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024228"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024228/2022-02-25T23:43:58.630Z>.
+<https://stad.gent/id/agent/530024231/2022-02-25T23:44:08.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:44:08.635Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5866_16, _:df_5866_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5866_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Multi-Art Press";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5866_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5866_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5866_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_5866_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03206"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5866_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024231/2022-02-25T23:44:08.635Z>.
+<https://stad.gent/id/agent/530023171/2022-02-25T22:43:56.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:43:56.937Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6136_29, _:df_6136_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6136_32;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Muller Van Severen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55236250>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6136_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6136_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02717"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6136_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023171/2022-02-25T22:43:56.937Z>.
+<https://stad.gent/id/agent/530021921/2022-02-25T22:14:39.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:14:39.876Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6292_9, _:df_6292_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6292_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Fien";
+    <http://xmlns.com/foaf/0.1/familyName> "Muller";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Muller, Fien";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q53109183>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6292_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6292_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6292_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1978"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026571>.
+<http://vocab.getty.edu/tgn/1026571> a <http://purl.org/dc/terms/Location>.
+_:df_6292_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02466"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6292_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021921/2022-02-25T22:14:39.876Z>.
+<https://stad.gent/id/agent/530020661/2022-02-25T21:32:27.152Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:32:27.152Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6529_14, _:df_6529_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mulot";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6529_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02079"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6529_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020661/2022-02-25T21:32:27.152Z>.
+<https://stad.gent/id/agent/530019979/2022-02-25T21:09:01.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:09:01.821Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6655_8, _:df_6655_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6655_12;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6655_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Gerd Alfred";
+    <http://xmlns.com/foaf/0.1/familyName> "Müller";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Müller, Gerd Alfred";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55219445>, <http://vocab.getty.edu/ulan/500468282>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6655_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6655_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_6655_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1991-12-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6655_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005293>.
+<http://vocab.getty.edu/tgn/7005293> a <http://purl.org/dc/terms/Location>.
+_:df_6655_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01876"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6655_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019979/2022-02-25T21:09:01.821Z>.
+<https://stad.gent/id/agent/530016854/2022-02-25T20:21:25.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:21:25.307Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6775_12, _:df_6775_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6775_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Monika";
+    <http://xmlns.com/foaf/0.1/familyName> "Mulder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mulder, Monika";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6775_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6775_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6775_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6775_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01724"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6775_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016854/2022-02-25T20:21:25.307Z>.
+<https://stad.gent/id/agent/530016639/2022-02-25T20:09:50.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:09:50.503Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6835_2, _:df_6835_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6835_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6835_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Theodor";
+    <http://xmlns.com/foaf/0.1/familyName> "Müller";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Müller, Theodor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6835_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6835_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_6835_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6835_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1863"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6835_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01622"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6835_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016639/2022-02-25T20:09:50.503Z>.
+<https://stad.gent/id/agent/530003110/2022-02-25T19:04:32.929Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530003110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:04:32.929Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7117_13, _:df_7117_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7117_17;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7117_19;
+    <http://xmlns.com/foaf/0.1/givenName> "Antonia";
+    <http://xmlns.com/foaf/0.1/familyName> "Mulas";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mulas, Antonia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500379563>, <https://www.wikidata.org/entity/Q30127814>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7117_23;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7117_23 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7117_19 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2014"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7117_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1939"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7057082>.
+<http://vocab.getty.edu/tgn/7057082> a <http://purl.org/dc/terms/Location>.
+_:df_7117_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01205"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7117_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530003110/2022-02-25T19:04:32.929Z>.
+<https://stad.gent/id/agent/530001223/2022-02-25T18:20:35.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:20:35.064Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7423_2, _:df_7423_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7423_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7423_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Muller frères";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3089453>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7423_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7423_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_7423_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1952"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7423_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1897"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7423_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00693"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7423_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001223/2022-02-25T18:20:35.064Z>.
+<https://stad.gent/id/agent/530000659/2022-02-25T17:45:09.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:45:09.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7678_19, _:df_7678_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "Mulder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mulder, G.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7678_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00271"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7678_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000659/2022-02-25T17:45:09.554Z>.
+<https://stad.gent/id/agent/470019205/2022-02-25T16:58:55.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:58:55.324Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7846_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Müller, Gerd Alfred";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55219445>, <http://vocab.getty.edu/page/ulan/500468282>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7846_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019205/2022-02-25T16:58:55.324Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/mul.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/mul.ttl>.

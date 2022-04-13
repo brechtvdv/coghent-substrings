@@ -1,0 +1,53 @@
+<https://stad.gent/id/agent/670001297/2022-02-26T07:10:42.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:10:42.858Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4351_7, _:df_4351_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "David";
+    <http://xmlns.com/foaf/0.1/familyName> "Farasie";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Farasie, David";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4351_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1280"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4351_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001297/2022-02-26T07:10:42.858Z>.
+<https://stad.gent/id/agent/670001298/2022-02-26T07:10:47.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:10:47.860Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4351_12, _:df_4351_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer vander Dijcke Frans Farasijn";
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Farasijn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Farasijn, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4351_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1281"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4351_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001298/2022-02-26T07:10:47.860Z>.
+<https://stad.gent/id/agent/570028677/2022-02-26T04:32:32.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028677>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:32:32.370Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5365_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Farina am Dom";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5365_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028677"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028677/2022-02-26T04:32:32.370Z>.
+<https://stad.gent/id/agent/570028538/2022-02-26T04:27:30.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:27:30.413Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5401_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "FAR";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5401_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028538/2022-02-26T04:27:30.413Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/far.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/far.ttl>.

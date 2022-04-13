@@ -1,0 +1,141 @@
+<https://stad.gent/id/agent/670001753/2022-03-30T07:59:01.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:59:01.427Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1117_11, _:df_1117_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus Benedictus";
+    <http://xmlns.com/foaf/0.1/familyName> "Maillard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maillard, Jacobus Benedictus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1117_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1736"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1117_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001753/2022-03-30T07:59:01.427Z>.
+<https://stad.gent/id/agent/670001754/2022-03-30T07:59:06.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:59:06.430Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1117_19, _:df_1117_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Mailliaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mailliaert";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1117_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1737"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1117_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001754/2022-03-30T07:59:06.430Z>.
+<https://stad.gent/id/agent/570028336/2022-03-30T04:30:13.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:30:13.868Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maineck";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2470_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028336/2022-03-30T04:30:13.868Z>.
+<https://stad.gent/id/agent/670001753/2022-02-26T07:48:37.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:48:37.692Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_16, _:df_4081_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus Benedictus";
+    <http://xmlns.com/foaf/0.1/familyName> "Maillard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maillard, Jacobus Benedictus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4081_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1736"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4081_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001753/2022-02-26T07:48:37.692Z>.
+<https://stad.gent/id/agent/670001754/2022-02-26T07:48:43.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:48:43.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_24, _:df_4081_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Mailliaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mailliaert";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4081_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1737"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4081_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001754/2022-02-26T07:48:43.003Z>.
+<https://stad.gent/id/agent/570028336/2022-02-26T04:20:05.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:20:05.387Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5437_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maineck";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5437_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028336/2022-02-26T04:20:05.387Z>.
+<https://stad.gent/id/agent/530023397/2022-02-25T22:59:48.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:59:48.244Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6034_2, _:df_6034_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6034_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "MaisonCaro";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6034_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007888>.
+<http://vocab.getty.edu/tgn/7007888> a <http://purl.org/dc/terms/Location>.
+_:df_6034_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02883"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6034_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023397/2022-02-25T22:59:48.244Z>.
+<https://stad.gent/id/agent/530023148/2022-02-25T22:42:31.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023148>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:42:31.589Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6142_17, _:df_6142_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maison Marie Mees Cathérine Biasino";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6142_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02706"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6142_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023148"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023148/2022-02-25T22:42:31.589Z>.
+<https://stad.gent/id/agent/530020660/2022-02-25T21:32:22.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020660>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:32:22.150Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6529_10, _:df_6529_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maison Leseigneur";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6529_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02078"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6529_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020660"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020660/2022-02-25T21:32:22.150Z>.
+<https://stad.gent/id/agent/530014354/2022-02-25T19:53:38.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530014354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:53:38.818Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6910_21, _:df_6910_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6910_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Hans";
+    <http://xmlns.com/foaf/0.1/familyName> "Maier-Aichen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maier-Aichen, Hans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500462621>, <https://www.wikidata.org/entity/Q55219304>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6910_28;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6910_28 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_6910_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6910_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01520"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6910_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530014354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530014354/2022-02-25T19:53:38.818Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/mai.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/mai.ttl>.

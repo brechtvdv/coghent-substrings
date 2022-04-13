@@ -1,0 +1,143 @@
+<https://stad.gent/id/agent/530020619/2022-03-17T00:05:38.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:05:38.520Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2905_2, _:df_2905_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2905_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Lionel";
+    <http://xmlns.com/foaf/0.1/familyName> "Milton";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Milton, Lionel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28871672>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2905_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014214>.
+<http://vocab.getty.edu/tgn/7014214> a <http://purl.org/dc/terms/Location>.
+_:df_2905_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02055"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2905_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020619/2022-03-17T00:05:38.520Z>.
+<https://stad.gent/id/agent/670001828/2022-02-26T07:54:55.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:54:55.775Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4036_23, _:df_4036_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Millecam";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Millecam, Pieter Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4036_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1811"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4036_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001828"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001828/2022-02-26T07:54:55.775Z>.
+<https://stad.gent/id/agent/670001829/2022-02-26T07:55:00.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:00.777Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4036_31, _:df_4036_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Milleville";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Milleville, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4036_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1812"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4036_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001829/2022-02-26T07:55:00.777Z>.
+<https://stad.gent/id/agent/530023218/2022-02-25T22:46:53.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:46:53.263Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6121_30, _:df_6121_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Milord";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6121_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02742"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6121_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023218/2022-02-25T22:46:53.263Z>.
+<https://stad.gent/id/agent/530023097/2022-02-25T22:39:20.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:39:20.167Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6157_2, _:df_6157_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "H.";
+    <http://xmlns.com/foaf/0.1/familyName> "Mills";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mills, H.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6157_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02678"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6157_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023097/2022-02-25T22:39:20.167Z>.
+<https://stad.gent/id/agent/530020619/2022-02-25T21:29:41.166Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:29:41.166Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6544_21, _:df_6544_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6544_25;
+    <http://xmlns.com/foaf/0.1/givenName> "Lionel";
+    <http://xmlns.com/foaf/0.1/familyName> "Milton";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Milton, Lionel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28871672>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6544_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012149>.
+<http://vocab.getty.edu/tgn/7012149> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6544_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02055"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6544_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020619/2022-02-25T21:29:41.166Z>.
+<https://stad.gent/id/agent/530013503/2022-02-25T19:35:46.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:35:46.324Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7012_10, _:df_7012_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Yves";
+    <http://xmlns.com/foaf/0.1/familyName> "Milen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Milen, Yves";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500281307>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7012_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7012_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7012_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01351"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7012_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013503/2022-02-25T19:35:46.324Z>.
+<https://stad.gent/id/agent/530001574/2022-02-25T18:41:23.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:41:23.226Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7276_28, _:df_7276_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7276_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Glaser";
+    <http://xmlns.com/foaf/0.1/familyName> "Milton";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Milton, Glaser";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500011653>, <https://www.wikidata.org/entity/Q1351481>, <https://rkd.nl/explore/artists/105735>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7276_36;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7276_36 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_7276_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1929-06-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007567>.
+<http://vocab.getty.edu/tgn/7007567> a <http://purl.org/dc/terms/Location>.
+_:df_7276_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00940"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7276_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001574/2022-02-25T18:41:23.226Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/mil.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/mil.ttl>.

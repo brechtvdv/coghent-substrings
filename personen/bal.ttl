@@ -1,0 +1,223 @@
+<https://stad.gent/id/agent/670000086/2022-03-30T05:39:49.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:39:49.287Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2110_25, _:df_2110_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker, heer van Cattenaye Guislain George Balde";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2110_29;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2110_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Guislain George";
+    <http://xmlns.com/foaf/0.1/familyName> "Balde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Balde, Guislain George";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2110_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1780-02-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2110_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1713-02-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2110_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0069"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2110_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000086"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000086/2022-03-30T05:39:49.287Z>.
+<https://stad.gent/id/agent/570029926/2022-03-30T04:58:14.525Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:58:14.525Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2302_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Balay";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2302_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029926/2022-03-30T04:58:14.525Z>.
+<https://stad.gent/id/agent/570028237/2022-03-30T04:26:07.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:26:07.039Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2497_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ballon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2497_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028237/2022-03-30T04:26:07.039Z>.
+<https://stad.gent/id/agent/550003972/2022-03-30T00:16:16.046Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/550003972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T00:16:16.046Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2836_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q980285>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jeannine";
+    <http://xmlns.com/foaf/0.1/familyName> "Baldewijns";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baldewijns, Jeannine";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/undefined>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2836_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/550003972/2022-03-30T00:16:16.046Z>.
+<https://stad.gent/id/agent/670000086/2022-02-26T05:29:21.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:21.086Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5077_25, _:df_5077_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker, heer van Cattenaye Guislain George Balde";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5077_29;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5077_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Guislain George";
+    <http://xmlns.com/foaf/0.1/familyName> "Balde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Balde, Guislain George";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5077_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1780-02-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5077_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1713-02-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5077_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0069"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5077_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000086"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000086/2022-02-26T05:29:21.086Z>.
+<https://stad.gent/id/agent/570029926/2022-02-26T04:48:08.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:48:08.485Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5266_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Balay";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5266_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029926/2022-02-26T04:48:08.485Z>.
+<https://stad.gent/id/agent/570028237/2022-02-26T04:15:58.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:15:58.768Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5464_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ballon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5464_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028237/2022-02-26T04:15:58.768Z>.
+<https://stad.gent/id/agent/550003972/2022-02-26T00:06:53.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/550003972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T00:06:53.866Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5800_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q980285>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jeannine";
+    <http://xmlns.com/foaf/0.1/familyName> "Baldewijns";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baldewijns, Jeannine";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/undefined>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5800_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/550003972/2022-02-26T00:06:53.866Z>.
+<https://stad.gent/id/agent/530023204/2022-02-25T22:45:52.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:45:52.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6127_19, _:df_6127_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6127_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "Baltensperger";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baltensperger, Pierre";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500383534>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6127_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6127_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zwitsers"@nl.
+_:df_6127_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007329>.
+<http://vocab.getty.edu/tgn/7007329> a <http://purl.org/dc/terms/Location>.
+_:df_6127_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02732"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6127_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023204/2022-02-25T22:45:52.975Z>.
+<https://stad.gent/id/agent/530021984/2022-02-25T22:17:45.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:17:45.998Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6271_14, _:df_6271_16;
+    <http://www.w3.org/2004/02/skos/core#note> "artistiek duo bestaande uit Monica Guggisberg (1955, Bern, Zwitserland) en Philip Baldwin (1947, New York, Verenigde Staten).";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6271_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baldwin & Guggisberg";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6271_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6271_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zwitsers"@nl.
+_:df_6271_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1980"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6271_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02501"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6271_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021984/2022-02-25T22:17:45.998Z>.
+<https://stad.gent/id/agent/530013465/2022-02-25T19:33:25.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:33:25.215Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7027_9, _:df_7027_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7027_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baleri Italia";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/198559796>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7027_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1984"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7050981>.
+<http://vocab.getty.edu/tgn/7050981> a <http://purl.org/dc/terms/Location>.
+_:df_7027_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01326"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7027_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013465/2022-02-25T19:33:25.215Z>.
+<https://stad.gent/id/agent/530013466/2022-02-25T19:33:30.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:33:30.523Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7027_16, _:df_7027_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7027_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Enrico";
+    <http://xmlns.com/foaf/0.1/familyName> "Baleri";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baleri, Enrico";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500107527>, <https://www.wikidata.org/entity/Q3725605>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7027_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7027_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7027_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942-02-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005811>.
+<http://vocab.getty.edu/tgn/7005811> a <http://purl.org/dc/terms/Location>.
+_:df_7027_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01327"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7027_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013466/2022-02-25T19:33:30.523Z>.
+<https://stad.gent/id/agent/530000813/2022-02-25T17:54:33.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:54:33.676Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7609_2, _:df_7609_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "F.R.";
+    <http://xmlns.com/foaf/0.1/familyName> "Baldwin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baldwin, F.R.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7609_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00383"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7609_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000813/2022-02-25T17:54:33.676Z>.
+<https://stad.gent/id/agent/530000544/2022-02-25T17:36:46.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:36:46.004Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7738_32, _:df_7738_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Balmoral Castle Pottery";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7738_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00171"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7738_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000544/2022-02-25T17:36:46.004Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bal.ttl>.

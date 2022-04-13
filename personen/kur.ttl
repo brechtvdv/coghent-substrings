@@ -1,0 +1,58 @@
+<https://stad.gent/id/agent/530013511/2022-02-25T19:36:16.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:36:16.650Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7009_17, _:df_7009_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7009_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7009_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Juan";
+    <http://xmlns.com/foaf/0.1/familyName> "Kurchan";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kurchan, Juan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5950628>, <http://vocab.getty.edu/ulan/500072714>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7009_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7009_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Argentijns"@nl.
+_:df_7009_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972-11-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1019188>.
+<http://vocab.getty.edu/tgn/1019188> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7009_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1913-11-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1019188>.
+_:df_7009_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01356"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7009_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013511/2022-02-25T19:36:16.650Z>.
+<https://stad.gent/id/agent/530001529/2022-02-25T18:38:17.201Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:38:17.201Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7297_12, _:df_7297_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7297_16;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7297_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Shirō";
+    <http://xmlns.com/foaf/0.1/familyName> "Kuramata";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kuramata, Shirō";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500093619>, <https://www.wikidata.org/entity/Q2759674>, <https://rkd.nl/explore/artists/301887>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7297_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7297_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_7297_18 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1991-02-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004472>.
+<http://vocab.getty.edu/tgn/7004472> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7297_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1934-11-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004472>.
+_:df_7297_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00903"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7297_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001529/2022-02-25T18:38:17.201Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/kur.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/kur.ttl>.

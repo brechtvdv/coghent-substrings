@@ -1,0 +1,124 @@
+<https://stad.gent/id/agent/530024110/2022-02-25T23:35:49.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:35:49.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5902_28, _:df_5902_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Art Vannes France";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5902_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03152"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5902_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024110/2022-02-25T23:35:49.792Z>.
+<https://stad.gent/id/agent/530013715/2022-02-25T19:49:16.788Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:49:16.788Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6931_14, _:df_6931_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6931_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Artek";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500261915>, <https://www.wikidata.org/entity/Q2703882>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6931_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1935"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_6931_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01487"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6931_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013715/2022-02-25T19:49:16.788Z>.
+<https://stad.gent/id/agent/530001844/2022-02-25T18:57:30.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:57:30.224Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7159_2, _:df_7159_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Milanees bedrijf, gesticht in 1959 door Ernesto Gismondi en Sergio Mazza.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7159_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Artemide";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q368790>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7159_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7159_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7159_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/page/tgn/1046196>.
+<http://vocab.getty.edu/page/tgn/1046196> a <http://purl.org/dc/terms/Location>.
+_:df_7159_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01132"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7159_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001844"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001844/2022-02-25T18:57:30.224Z>.
+<https://stad.gent/id/agent/530001619/2022-02-25T18:44:09.718Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:44:09.718Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7255_6, _:df_7255_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7255_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Artuft BC";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7255_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1995"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7255_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00973"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7255_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001619/2022-02-25T18:44:09.718Z>.
+<https://stad.gent/id/agent/530000561/2022-02-25T17:37:46.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:37:46.711Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7729_2, _:df_7729_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Opgericht door Gino Sarfatti. Verkocht aan Flos in 1973.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7729_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Arteluce";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q4797408>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7729_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1939-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7729_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00183"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7729_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000561/2022-02-25T17:37:46.711Z>.
+<https://stad.gent/id/agent/530000543/2022-02-25T17:36:41.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:36:41.001Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7738_26, _:df_7738_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7738_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Artifort";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/wiki/Q28758291>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7738_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1890"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7738_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00170"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7738_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000543/2022-02-25T17:36:41.001Z>.
+<https://stad.gent/id/agent/530000215/2022-02-25T17:13:21.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:13:21.385Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7822_13, _:df_7822_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7822_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Artcurial";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500310052>, <https://www.wikidata.org/entity/Q2864808>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7822_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2001"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_7822_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00029"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7822_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000215/2022-02-25T17:13:21.385Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/art.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/art.ttl>.

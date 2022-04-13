@@ -1,0 +1,88 @@
+<https://stad.gent/id/agent/670000554/2022-03-30T06:19:01.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:19:01.322Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_9, _:df_1828_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Bisschop";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Bisschop, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1828_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0537"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1828_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000554/2022-03-30T06:19:01.322Z>.
+<https://stad.gent/id/agent/570032348/2022-03-30T05:25:35.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:25:35.680Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2179_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bijenkorf Stijfselfabriek nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2179_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032348/2022-03-30T05:25:35.680Z>.
+<https://stad.gent/id/agent/570020901/2022-03-30T03:58:29.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:58:29.913Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2680_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bisschop";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2680_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020901/2022-03-30T03:58:29.913Z>.
+<https://stad.gent/id/agent/670000554/2022-02-26T06:08:33.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:08:33.946Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4795_9, _:df_4795_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Bisschop";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Bisschop, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4795_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0537"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4795_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000554/2022-02-26T06:08:33.946Z>.
+<https://stad.gent/id/agent/570032348/2022-02-26T05:15:29.276Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:15:29.276Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5146_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bijenkorf Stijfselfabriek nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5146_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032348/2022-02-26T05:15:29.276Z>.
+<https://stad.gent/id/agent/570020901/2022-02-26T03:48:16.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:48:16.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5647_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bisschop";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5647_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020901/2022-02-26T03:48:16.026Z>.
+<https://stad.gent/id/agent/530000898/2022-02-25T18:00:15.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:00:15.877Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7570_35, _:df_7570_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joris";
+    <http://xmlns.com/foaf/0.1/familyName> "De Bisschop";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bisschop, Joris";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/288919106>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7570_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00451"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7570_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000898/2022-02-25T18:00:15.877Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+bi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+bi.ttl>.

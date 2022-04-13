@@ -1,0 +1,81 @@
+<https://stad.gent/id/agent/530024448/2022-03-30T00:05:11.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024448>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T00:05:11.279Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2845_2, _:df_2845_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Halewijn";
+    <http://xmlns.com/foaf/0.1/familyName> "Lievens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lievens, Halewijn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2845_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2845_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2845_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03262"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2845_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024448"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024448/2022-03-30T00:05:11.279Z>.
+<https://stad.gent/id/agent/670001690/2022-02-26T07:43:20.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001690>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:20.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4117_2, _:df_4117_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillielmus";
+    <http://xmlns.com/foaf/0.1/familyName> "Liedts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Liedts, Guillielmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4117_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1673"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4117_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001690"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001690/2022-02-26T07:43:20.664Z>.
+<https://stad.gent/id/agent/670001691/2022-02-26T07:43:25.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:25.665Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4117_10, _:df_4117_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Liedts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Liedts";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4117_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1674"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4117_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001691/2022-02-26T07:43:25.665Z>.
+<https://stad.gent/id/agent/670001692/2022-02-26T07:43:30.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:30.668Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4117_14, _:df_4117_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernardus";
+    <http://xmlns.com/foaf/0.1/familyName> "Liedts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Liedts, Bernardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4117_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1675"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4117_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001692/2022-02-26T07:43:30.668Z>.
+<https://stad.gent/id/agent/530024448/2022-02-25T23:56:39.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024448>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:56:39.028Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5812_30, _:df_5812_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Halewijn";
+    <http://xmlns.com/foaf/0.1/familyName> "Lievens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lievens, Halewijn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5812_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5812_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5812_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03262"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5812_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024448"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024448/2022-02-25T23:56:39.028Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lie.ttl>.

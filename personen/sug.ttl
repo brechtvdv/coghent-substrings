@@ -1,0 +1,41 @@
+<https://stad.gent/id/agent/570019785/2022-02-26T03:41:23.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:41:23.165Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5692_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sugg William & Co Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5692_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019785/2022-02-26T03:41:23.165Z>.
+<https://stad.gent/id/agent/530020756/2022-02-25T21:38:14.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:38:14.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6496_29, _:df_6496_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Sugg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sugg, Jean Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6496_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02135"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6496_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020756/2022-02-25T21:38:14.564Z>.
+<https://stad.gent/id/agent/530000875/2022-02-25T17:58:40.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:58:40.522Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7582_28, _:df_7582_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "E.";
+    <http://xmlns.com/foaf/0.1/familyName> "Sugg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sugg, E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7582_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00432"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7582_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000875/2022-02-25T17:58:40.522Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/sug.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/sug.ttl>.

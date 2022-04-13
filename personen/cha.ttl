@@ -1,0 +1,320 @@
+<https://stad.gent/id/agent/670000373/2022-02-26T05:53:21.008Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:53:21.008Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4903_2, _:df_4903_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Chauvet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chauvet";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4903_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0356"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4903_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000373/2022-02-26T05:53:21.008Z>.
+<https://stad.gent/id/agent/670000368/2022-02-26T05:52:56.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:52:56.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4906_2, _:df_4906_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Champon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Champon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4906_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0351"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4906_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000368/2022-02-26T05:52:56.000Z>.
+<https://stad.gent/id/agent/670000369/2022-02-26T05:53:01.002Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:53:01.002Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4906_6, _:df_4906_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gaspard";
+    <http://xmlns.com/foaf/0.1/familyName> "Champon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Champon, Gaspard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4906_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0352"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4906_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000369/2022-02-26T05:53:01.002Z>.
+<https://stad.gent/id/agent/670000370/2022-02-26T05:53:06.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:53:06.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4906_11, _:df_4906_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Champon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Champon, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4906_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0353"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4906_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000370/2022-02-26T05:53:06.003Z>.
+<https://stad.gent/id/agent/670000371/2022-02-26T05:53:11.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:53:11.004Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4906_19, _:df_4906_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean";
+    <http://xmlns.com/foaf/0.1/familyName> "Chaslain";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chaslain, Jean";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4906_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0354"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4906_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000371/2022-02-26T05:53:11.004Z>.
+<https://stad.gent/id/agent/670000372/2022-02-26T05:53:16.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:53:16.006Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4906_24, _:df_4906_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan";
+    <http://xmlns.com/foaf/0.1/familyName> "Chauvet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chauvet, Joan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4906_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0355"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4906_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000372/2022-02-26T05:53:16.006Z>.
+<https://stad.gent/id/agent/670000367/2022-02-26T05:52:50.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:52:50.998Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4909_24, _:df_4909_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Chabotau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chabotau, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4909_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0350"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4909_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000367/2022-02-26T05:52:50.998Z>.
+<https://stad.gent/id/agent/570031355/2022-02-26T04:59:58.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:59:58.335Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5191_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5191_9;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5191_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Claude";
+    <http://xmlns.com/foaf/0.1/familyName> "Chappe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chappe, Claude";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q361305>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5191_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1805-01-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_5191_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1763-12-25"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5191_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031355/2022-02-26T04:59:58.335Z>.
+<https://stad.gent/id/agent/570030324/2022-02-26T04:49:19.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:49:19.115Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5260_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chaix Imprimerie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5260_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030324/2022-02-26T04:49:19.115Z>.
+<https://stad.gent/id/agent/570029924/2022-02-26T04:47:58.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:47:58.481Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5269_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chappée";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5269_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029924/2022-02-26T04:47:58.481Z>.
+<https://stad.gent/id/agent/570029539/2022-02-26T04:43:56.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:43:56.869Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5296_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chaudoir H.J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5296_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029539/2022-02-26T04:43:56.869Z>.
+<https://stad.gent/id/agent/570029158/2022-02-26T04:38:34.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:38:34.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5326_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Charbonnages de Monceau-Fontaine";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5326_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029158/2022-02-26T04:38:34.927Z>.
+<https://stad.gent/id/agent/570028533/2022-02-26T04:27:15.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028533>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:27:15.406Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5401_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Champion";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5401_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028533"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028533/2022-02-26T04:27:15.406Z>.
+<https://stad.gent/id/agent/570021381/2022-02-26T03:53:58.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:53:58.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5605_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chaumont E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5605_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021381/2022-02-26T03:53:58.352Z>.
+<https://stad.gent/id/agent/530023479/2022-02-25T23:05:25.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:05:25.998Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6007_22, _:df_6007_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6007_26;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6007_28;
+    <http://xmlns.com/foaf/0.1/givenName> "Jules Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "Chadel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chadel, Jules Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500130184>, <https://www.wikidata.org/entity/Q27925670>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6007_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6007_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_6007_28 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941-12-16"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_6007_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1870-06-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008202>.
+<http://vocab.getty.edu/tgn/7008202> a <http://purl.org/dc/terms/Location>.
+_:df_6007_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02932"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6007_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023479/2022-02-25T23:05:25.998Z>.
+<https://stad.gent/id/agent/530017740/2022-02-25T20:46:31.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:46:31.056Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6733_31, _:df_6733_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6733_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Donald T.";
+    <http://xmlns.com/foaf/0.1/familyName> "Chadwick";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chadwick, Donald T.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5292407>, <http://vocab.getty.edu/ulan/500284463>, <http://vocab.getty.edu/ulan/500460713>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6733_39;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6733_39 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_6733_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7023900>.
+<http://vocab.getty.edu/tgn/7023900> a <http://purl.org/dc/terms/Location>.
+_:df_6733_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01792"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6733_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017740/2022-02-25T20:46:31.056Z>.
+<https://stad.gent/id/agent/530016594/2022-02-25T20:07:09.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:07:09.370Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6850_35, _:df_6850_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Charles & Ray Eames";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500373343>, <https://www.wikidata.org/entity/Q14634037>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530020349>, <https://stad.gent/id/concept/530013339>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530013339> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Eames, Charles and Ray"@nl.
+<https://stad.gent/id/concept/530020349> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Charles and Ray Eames"@nl.
+_:df_6850_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01601"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6850_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016594/2022-02-25T20:07:09.370Z>.
+<https://stad.gent/id/agent/530015205/2022-02-25T19:57:20.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:57:20.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6895_22, _:df_6895_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Peter";
+    <http://xmlns.com/foaf/0.1/familyName> "Chang";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chang, Peter";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q7173232>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6895_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03395"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6895_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015205/2022-02-25T19:57:20.112Z>.
+<https://stad.gent/id/agent/530013686/2022-02-25T19:47:46.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013686>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:47:46.467Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6940_14, _:df_6940_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6940_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6940_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Henri Michel Antoine";
+    <http://xmlns.com/foaf/0.1/familyName> "Chapu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chapu, Henri Michel Antoine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q654201>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6940_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6940_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_6940_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1891-04-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6940_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1833-09-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1033884>.
+<http://vocab.getty.edu/tgn/1033884> a <http://purl.org/dc/terms/Location>.
+_:df_6940_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01471"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6940_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013686"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013686/2022-02-25T19:47:46.467Z>.
+<https://stad.gent/id/agent/530001077/2022-02-25T18:12:21.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001077>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:12:21.434Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7483_15, _:df_7483_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chapuis";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7483_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00595"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7483_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001077"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001077/2022-02-25T18:12:21.434Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/cha.ttl> <https://w3id.org/tree#relation> _:df_1_2126.
+_:df_1_2126 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/chap.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "chap".
+<https://brechtvdv.github.io/coghent-substrings/personen/cha.ttl> <https://w3id.org/tree#relation> _:df_1_2127.
+_:df_1_2127 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/char.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "char".
+<https://brechtvdv.github.io/coghent-substrings/personen/cha.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/cha.ttl>.

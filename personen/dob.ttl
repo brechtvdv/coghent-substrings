@@ -1,0 +1,85 @@
+<https://stad.gent/id/agent/570021378/2022-03-30T04:03:57.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:03:57.121Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2641_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dobbelman nv";
+    <http://www.w3.org/2004/02/skos/core#related> <http://vocab.getty.edu/tgn/7013257>;
+    a <http://purl.org/dc/terms/Agent>.
+<http://vocab.getty.edu/tgn/7013257> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Koninklijke Dobbelman nv"@nl.
+_:df_2641_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021378/2022-03-30T04:03:57.121Z>.
+<https://stad.gent/id/agent/670001185/2022-02-26T07:01:24.058Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001185>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:01:24.058Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4417_2, _:df_4417_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carolus";
+    <http://xmlns.com/foaf/0.1/familyName> "Dobbeleer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dobbeleer, Carolus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4417_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1168"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4417_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001185"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001185/2022-02-26T07:01:24.058Z>.
+<https://stad.gent/id/agent/670001186/2022-02-26T07:01:29.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001186>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:01:29.061Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4417_7, _:df_4417_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Dobbeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dobbeleere, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4417_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1169"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4417_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001186"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001186/2022-02-26T07:01:29.061Z>.
+<https://stad.gent/id/agent/670001184/2022-02-26T07:01:19.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:01:19.056Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4420_28, _:df_4420_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Dobbelaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dobbelaere, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4420_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1167"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4420_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001184/2022-02-26T07:01:19.056Z>.
+<https://stad.gent/id/agent/570021378/2022-02-26T03:53:43.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:53:43.346Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5608_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dobbelman nv";
+    <http://www.w3.org/2004/02/skos/core#related> <http://vocab.getty.edu/tgn/7013257>;
+    a <http://purl.org/dc/terms/Agent>.
+<http://vocab.getty.edu/tgn/7013257> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Koninklijke Dobbelman nv"@nl.
+_:df_5608_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021378/2022-02-26T03:53:43.346Z>.
+<https://stad.gent/id/agent/530021978/2022-02-25T22:17:15.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:17:15.991Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6274_15, _:df_6274_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "C.";
+    <http://xmlns.com/foaf/0.1/familyName> "Dobbs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dobbs, C.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6274_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02497"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6274_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021978/2022-02-25T22:17:15.991Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dob.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dob.ttl>.

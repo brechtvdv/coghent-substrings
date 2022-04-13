@@ -1,0 +1,228 @@
+<https://stad.gent/id/agent/670000413/2022-03-30T06:07:11.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:07:11.111Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_2, _:df_1912_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Joannes Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1912_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0396"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1912_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000413/2022-03-30T06:07:11.111Z>.
+<https://stad.gent/id/agent/670000414/2022-03-30T06:07:16.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:07:16.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_10, _:df_1912_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Baudewyn";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Baudewyn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1912_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0397"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1912_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000414/2022-03-30T06:07:16.112Z>.
+<https://stad.gent/id/agent/670000415/2022-03-30T06:07:21.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:07:21.114Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_15, _:df_1912_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Albert";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Albert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1912_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0398"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1912_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000415/2022-03-30T06:07:21.114Z>.
+<https://stad.gent/id/agent/670000416/2022-03-30T06:07:26.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:07:26.114Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_23, _:df_1912_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Joannes Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1912_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0399"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1912_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000416/2022-03-30T06:07:26.114Z>.
+<https://stad.gent/id/agent/670000410/2022-03-30T06:06:56.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:06:56.108Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_18, _:df_1915_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1915_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0393"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1915_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000410/2022-03-30T06:06:56.108Z>.
+<https://stad.gent/id/agent/670000411/2022-03-30T06:07:01.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:07:01.109Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_22, _:df_1915_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philips";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Philips";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1915_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0394"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1915_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000411/2022-03-30T06:07:01.109Z>.
+<https://stad.gent/id/agent/670000412/2022-03-30T06:07:06.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:07:06.111Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_30, _:df_1915_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Carel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1915_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0395"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1915_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000412/2022-03-30T06:07:06.111Z>.
+<https://stad.gent/id/agent/570028500/2022-03-30T04:36:00.826Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:36:00.826Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "CNEO";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2443_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028500"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028500/2022-03-30T04:36:00.826Z>.
+<https://stad.gent/id/agent/670000413/2022-02-26T05:56:44.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:44.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_2, _:df_4879_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Joannes Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4879_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0396"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4879_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000413/2022-02-26T05:56:44.022Z>.
+<https://stad.gent/id/agent/670000414/2022-02-26T05:56:49.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:49.025Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_10, _:df_4879_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Baudewyn";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Baudewyn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4879_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0397"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4879_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000414/2022-02-26T05:56:49.025Z>.
+<https://stad.gent/id/agent/670000415/2022-02-26T05:56:54.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:54.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_15, _:df_4879_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Albert";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Albert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4879_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0398"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4879_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000415/2022-02-26T05:56:54.027Z>.
+<https://stad.gent/id/agent/670000416/2022-02-26T05:56:59.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:59.029Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_23, _:df_4879_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Joannes Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4879_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0399"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4879_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000416/2022-02-26T05:56:59.029Z>.
+<https://stad.gent/id/agent/670000410/2022-02-26T05:56:29.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:29.017Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4882_18, _:df_4882_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4882_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0393"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4882_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000410/2022-02-26T05:56:29.017Z>.
+<https://stad.gent/id/agent/670000411/2022-02-26T05:56:34.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:34.019Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4882_22, _:df_4882_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philips";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Philips";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4882_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0394"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4882_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000411/2022-02-26T05:56:34.019Z>.
+<https://stad.gent/id/agent/670000412/2022-02-26T05:56:39.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:56:39.021Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4882_30, _:df_4882_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel";
+    <http://xmlns.com/foaf/0.1/familyName> "Cnudde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cnudde, Carel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4882_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0395"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4882_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000412/2022-02-26T05:56:39.021Z>.
+<https://stad.gent/id/agent/570028500/2022-02-26T04:25:54.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:25:54.314Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5410_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "CNEO";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5410_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028500"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028500/2022-02-26T04:25:54.314Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/cn.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/cn.ttl>.

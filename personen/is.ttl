@@ -1,0 +1,86 @@
+<https://stad.gent/id/agent/570029273/2022-02-26T04:40:45.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:40:45.878Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5311_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Isorex";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5311_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029273"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029273/2022-02-26T04:40:45.878Z>.
+<https://stad.gent/id/agent/530016853/2022-02-25T20:21:20.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:21:20.305Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6775_2, _:df_6775_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6775_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Kristina";
+    <http://xmlns.com/foaf/0.1/familyName> "Isola";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Isola, Kristina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500481199>, <https://www.wikidata.org/entity/Q11873074>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6775_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6775_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_6775_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946-01-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_6775_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01723"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6775_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016853/2022-02-25T20:21:20.305Z>.
+<https://stad.gent/id/agent/530016852/2022-02-25T20:21:14.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:21:14.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6778_30, _:df_6778_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6778_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6778_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Maija";
+    <http://xmlns.com/foaf/0.1/familyName> "Isola";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Isola, Maija";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q455111>, <http://vocab.getty.edu/ulan/500489781>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6778_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6778_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_6778_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2001-03-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1031539>.
+<http://vocab.getty.edu/tgn/1031539> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6778_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-03-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1031539>.
+_:df_6778_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01722"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6778_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016852/2022-02-25T20:21:14.978Z>.
+<https://stad.gent/id/agent/530016780/2022-02-25T20:16:33.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:16:33.344Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6805_25, _:df_6805_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6805_28;
+    <http://xmlns.com/foaf/0.1/givenName> "Fujiwo";
+    <http://xmlns.com/foaf/0.1/familyName> "Ishimoto";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ishimoto, Fujiwo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500481198>, <https://www.wikidata.org/entity/Q4409552>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6805_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6805_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_6805_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6805_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01676"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6805_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016780/2022-02-25T20:16:33.344Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/is.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/is.ttl>.

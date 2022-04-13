@@ -1,0 +1,33 @@
+<https://stad.gent/id/agent/670003375/2022-02-26T09:54:44.214Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:54:44.214Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_17, _:df_3181_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Faculteit Wetenschappen (Universiteit Gent)";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Faculteit Wetenschappen (Universiteit Gent)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3181_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0026"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3181_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003375/2022-02-26T09:54:44.214Z>.
+<https://stad.gent/id/agent/530023525/2022-02-25T23:08:12.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:08:12.211Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5992_25, _:df_5992_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5992_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Factum Arte";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21015698>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5992_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2001"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_5992_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02956"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5992_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023525/2022-02-25T23:08:12.211Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/fac.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/fac.ttl>.

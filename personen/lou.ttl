@@ -1,0 +1,134 @@
+<https://stad.gent/id/agent/570029115/2022-02-26T04:37:44.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:37:44.608Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5329_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5329_20;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5329_21;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lousbergs Ferdinand nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5329_21 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1933"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5329_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1785"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5329_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029115/2022-02-26T04:37:44.608Z>.
+<https://stad.gent/id/agent/530020764/2022-02-25T21:38:44.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:38:44.867Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6493_30, _:df_6493_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6493_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6493_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Louis Wolfers (Père et Fils)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6493_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1897"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6493_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1850"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6493_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02140"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6493_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020764/2022-02-25T21:38:44.867Z>.
+<https://stad.gent/id/agent/530020698/2022-02-25T21:34:28.180Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:34:28.180Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6517_28, _:df_6517_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6517_32;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6517_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Louis Wolfers Père et Fils";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q62067421>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6517_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1897"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6517_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1885"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+_:df_6517_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02100"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6517_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020698/2022-02-25T21:34:28.180Z>.
+<https://stad.gent/id/agent/530020622/2022-02-25T21:29:56.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:29:56.170Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6541_2, _:df_6541_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6541_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6541_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "Lourioux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lourioux, Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3262556>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6541_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6541_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_6541_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1033125>.
+<http://vocab.getty.edu/tgn/1033125> a <http://purl.org/dc/terms/Location>.
+_:df_6541_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1874"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7608546>.
+<http://vocab.getty.edu/tgn/7608546> a <http://purl.org/dc/terms/Location>.
+_:df_6541_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02057"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6541_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020622/2022-02-25T21:29:56.170Z>.
+<https://stad.gent/id/agent/530020041/2022-02-25T21:13:34.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020041>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:13:34.043Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6631_18, _:df_6631_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6631_22;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Loudordesign studio";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6631_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2003"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_6631_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01918"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6631_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020041"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020041/2022-02-25T21:13:34.043Z>.
+<https://stad.gent/id/agent/530001046/2022-02-25T18:10:10.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:10:10.346Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7498_14, _:df_7498_16;
+    <http://www.w3.org/2004/02/skos/core#note> "Bronsgieterij in Parijs, zeker werkzaam vanaf eind 19de eeuw tot en met het eerste kwart van de 20ste eeuw. Vervaardigden bronzen driedimensionale beeldjes van verschillende ontwerpers.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Louchet";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7498_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00569"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7498_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001046/2022-02-25T18:10:10.346Z>.
+<https://stad.gent/id/agent/530000575/2022-02-25T17:38:42.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:38:42.049Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7723_7, _:df_7723_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7723_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Louis De Poortere N.V.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7723_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1929"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007962>.
+<http://vocab.getty.edu/tgn/7007962> a <http://purl.org/dc/terms/Location>.
+_:df_7723_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00194"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7723_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000575/2022-02-25T17:38:42.049Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lou.ttl>.

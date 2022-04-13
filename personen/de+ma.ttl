@@ -1,0 +1,217 @@
+<https://stad.gent/id/agent/670000774/2022-03-30T06:37:25.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:37:25.644Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1696_2, _:df_1696_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Valerie Robertina";
+    <http://xmlns.com/foaf/0.1/familyName> "de Masijn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Masijn, Valerie Robertina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1696_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0757"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1696_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000774/2022-03-30T06:37:25.644Z>.
+<https://stad.gent/id/agent/670000769/2022-03-30T06:37:00.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000769>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:37:00.639Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_2, _:df_1699_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Maeght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Maeght, Jacques weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0752"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000769"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000769/2022-03-30T06:37:00.639Z>.
+<https://stad.gent/id/agent/670000770/2022-03-30T06:37:05.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000770>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:37:05.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_7, _:df_1699_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Maeght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Maeght, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0753"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000770"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000770/2022-03-30T06:37:05.640Z>.
+<https://stad.gent/id/agent/670000771/2022-03-30T06:37:10.641Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:37:10.641Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_12, _:df_1699_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Maeght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Maeght";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0754"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000771/2022-03-30T06:37:10.641Z>.
+<https://stad.gent/id/agent/670000772/2022-03-30T06:37:15.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:37:15.642Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_16, _:df_1699_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Man";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Man, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0755"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000772/2022-03-30T06:37:15.642Z>.
+<https://stad.gent/id/agent/670000773/2022-03-30T06:37:20.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:37:20.643Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_21, _:df_1699_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Mangeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Mangeleere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0756"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000773"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000773/2022-03-30T06:37:20.643Z>.
+<https://stad.gent/id/agent/670000773/2022-02-26T06:26:58.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:26:58.650Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4663_2, _:df_4663_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Mangeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Mangeleere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4663_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0756"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4663_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000773"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000773/2022-02-26T06:26:58.650Z>.
+<https://stad.gent/id/agent/670000774/2022-02-26T06:27:03.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:27:03.651Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4663_10, _:df_4663_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Valerie Robertina";
+    <http://xmlns.com/foaf/0.1/familyName> "de Masijn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Masijn, Valerie Robertina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4663_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0757"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4663_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000774/2022-02-26T06:27:03.651Z>.
+<https://stad.gent/id/agent/670000769/2022-02-26T06:26:38.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000769>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:26:38.639Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4666_8, _:df_4666_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Maeght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Maeght, Jacques weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4666_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0752"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4666_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000769"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000769/2022-02-26T06:26:38.639Z>.
+<https://stad.gent/id/agent/670000770/2022-02-26T06:26:43.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000770>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:26:43.642Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4666_13, _:df_4666_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Maeght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Maeght, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4666_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0753"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4666_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000770"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000770/2022-02-26T06:26:43.642Z>.
+<https://stad.gent/id/agent/670000771/2022-02-26T06:26:48.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:26:48.644Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4666_18, _:df_4666_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Maeght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Maeght";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4666_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0754"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4666_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000771/2022-02-26T06:26:48.644Z>.
+<https://stad.gent/id/agent/670000772/2022-02-26T06:26:53.648Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:26:53.648Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4666_22, _:df_4666_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Man";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Man, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4666_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0755"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4666_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000772/2022-02-26T06:26:53.648Z>.
+<https://stad.gent/id/agent/530016772/2022-02-25T20:15:58.038Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:15:58.038Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6808_12, _:df_6808_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6808_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Nicola";
+    <http://xmlns.com/foaf/0.1/familyName> "De Maria";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Maria, Nicola";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500053943>, <https://www.wikidata.org/entity/Q3876195>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6808_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6808_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_6808_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1954-12-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1044634>.
+<http://vocab.getty.edu/tgn/1044634> a <http://purl.org/dc/terms/Location>.
+_:df_6808_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01670"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6808_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016772/2022-02-25T20:15:58.038Z>.
+<https://stad.gent/id/agent/530014270/2022-02-25T19:53:18.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530014270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:53:18.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6913_47, _:df_6913_49;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul";
+    <http://xmlns.com/foaf/0.1/familyName> "De Maere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Maere, Paul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6913_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01518"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6913_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530014270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530014270/2022-02-25T19:53:18.500Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+ma.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+ma.ttl>.

@@ -1,0 +1,95 @@
+<https://stad.gent/id/agent/570019267/2022-03-30T03:47:29.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:47:29.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2752_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gyselynck F. & E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2752_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019267/2022-03-30T03:47:29.595Z>.
+<https://stad.gent/id/agent/670001422/2022-02-26T07:21:12.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:21:12.378Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4276_9, _:df_4276_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Gyman (of Tyman?)";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gyman (of Tyman?), Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4276_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1405"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4276_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001422/2022-02-26T07:21:12.378Z>.
+<https://stad.gent/id/agent/670001423/2022-02-26T07:21:17.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:21:17.381Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4276_14, _:df_4276_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Gyselinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gyselinck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4276_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1406"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4276_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001423/2022-02-26T07:21:17.381Z>.
+<https://stad.gent/id/agent/570019267/2022-02-26T03:37:16.482Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:37:16.482Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5719_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gyselynck F. & E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5719_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019267/2022-02-26T03:37:16.482Z>.
+<https://stad.gent/id/agent/530024081/2022-02-25T23:33:49.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:33:49.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5911_10, _:df_5911_12;
+    <http://www.w3.org/2004/02/skos/core#note> "Gymna is een groothandel voor kinesitherapiemateriaal.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gymna";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5911_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03135"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5911_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024081/2022-02-25T23:33:49.022Z>.
+<https://stad.gent/id/agent/530000972/2022-02-25T18:05:03.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:05:03.147Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7534_2, _:df_7534_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gyokuzan";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7534_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00508"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7534_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000972/2022-02-25T18:05:03.147Z>.
+<https://stad.gent/id/agent/530000460/2022-02-25T17:30:43.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000460>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:30:43.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7771_2, _:df_7771_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martine";
+    <http://xmlns.com/foaf/0.1/familyName> "Gyselbrecht";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gyselbrecht, Martine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97908159>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7771_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7771_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7771_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00113"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7771_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000460"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000460/2022-02-25T17:30:43.501Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/gy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/gy.ttl>.

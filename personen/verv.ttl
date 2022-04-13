@@ -1,0 +1,45 @@
+<https://stad.gent/id/agent/670003085/2022-02-26T09:39:43.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:39:43.331Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_2, _:df_3286_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Vervennet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vervennet";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3286_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3068"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3286_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003085/2022-02-26T09:39:43.331Z>.
+<https://stad.gent/id/agent/670003086/2022-02-26T09:39:48.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:39:48.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_6, _:df_3286_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Vervynck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vervynck, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3286_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3069"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3286_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003086"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003086/2022-02-26T09:39:48.333Z>.
+<https://stad.gent/id/agent/670003084/2022-02-26T09:39:38.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:39:38.330Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3289_21, _:df_3289_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Vervaet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vervaet, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3289_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3067"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3289_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003084/2022-02-26T09:39:38.330Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/verv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/verv.ttl>.

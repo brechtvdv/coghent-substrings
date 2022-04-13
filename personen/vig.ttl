@@ -1,0 +1,102 @@
+<https://stad.gent/id/agent/570028651/2022-03-30T04:41:02.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:41:02.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2410_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vigor";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2410_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028651/2022-03-30T04:41:02.640Z>.
+<https://stad.gent/id/agent/530001534/2022-03-17T00:00:50.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:50.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_31, _:df_2941_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2941_35;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2941_37;
+    <http://xmlns.com/foaf/0.1/givenName> "Nanda";
+    <http://xmlns.com/foaf/0.1/familyName> "Vigo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vigo, Nanda";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3870106>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2941_41;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2941_41 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_2941_37 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-05-16"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2941_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936-11-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+_:df_2941_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00907"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2941_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001534/2022-03-17T00:00:50.543Z>.
+<https://stad.gent/id/agent/570028651/2022-02-26T04:30:56.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:30:56.711Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5377_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vigor";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5377_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028651/2022-02-26T04:30:56.711Z>.
+<https://stad.gent/id/agent/530001534/2022-02-25T18:38:37.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:38:37.205Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7294_2, _:df_7294_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7294_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Nanda";
+    <http://xmlns.com/foaf/0.1/familyName> "Vigo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vigo, Nanda";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3870106>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7294_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7294_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7294_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_7294_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00907"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7294_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001534/2022-02-25T18:38:37.205Z>.
+<https://stad.gent/id/agent/530000569/2022-02-25T17:38:16.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000569>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:38:16.721Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7726_9, _:df_7726_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7726_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7726_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Vittoriano";
+    <http://xmlns.com/foaf/0.1/familyName> "Viganò";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Viganò, Vittoriano";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500016823>, <https://www.wikidata.org/entity/Q4015244>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7726_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7726_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7726_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1996-01-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7726_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1919-12-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+_:df_7726_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00189"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7726_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000569"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000569/2022-02-25T17:38:16.721Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vig.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vig.ttl>.

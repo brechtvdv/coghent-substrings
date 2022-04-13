@@ -1,0 +1,91 @@
+<https://stad.gent/id/agent/670003227/2022-02-26T09:51:22.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003227>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:51:22.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3205_27, _:df_3205_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "L.";
+    <http://xmlns.com/foaf/0.1/familyName> "de Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Kimpe, L.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3205_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3195"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3205_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003227"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003227/2022-02-26T09:51:22.975Z>.
+<https://stad.gent/id/agent/670000728/2022-02-26T06:23:12.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:23:12.250Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4690_2, _:df_4690_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Kimpe, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4690_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0711"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4690_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000728/2022-02-26T06:23:12.250Z>.
+<https://stad.gent/id/agent/670000729/2022-02-26T06:23:17.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:23:17.251Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4690_10, _:df_4690_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lucas";
+    <http://xmlns.com/foaf/0.1/familyName> "de Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Kimpe, Lucas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4690_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0712"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4690_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000729/2022-02-26T06:23:17.251Z>.
+<https://stad.gent/id/agent/670000730/2022-02-26T06:23:22.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:23:22.253Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4690_15, _:df_4690_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Kimpe, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4690_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0713"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4690_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000730/2022-02-26T06:23:22.253Z>.
+<https://stad.gent/id/agent/670000726/2022-02-26T06:23:01.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000726>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:23:01.943Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4693_20, _:df_4693_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paulo";
+    <http://xmlns.com/foaf/0.1/familyName> "de Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Kimpe, Paulo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4693_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0709"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4693_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000726"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000726/2022-02-26T06:23:01.943Z>.
+<https://stad.gent/id/agent/670000727/2022-02-26T06:23:07.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:23:07.249Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4693_25, _:df_4693_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Kimpe, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4693_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0710"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4693_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000727/2022-02-26T06:23:07.249Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+ki.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+ki.ttl>.

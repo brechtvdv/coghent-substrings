@@ -1,0 +1,160 @@
+<https://stad.gent/id/agent/570029608/2022-03-30T04:55:18.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:55:18.322Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2320_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vynconorm";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2320_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029608/2022-03-30T04:55:18.322Z>.
+<https://stad.gent/id/agent/570028415/2022-03-30T04:32:59.912Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:32:59.912Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2455_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vyncke & zonen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2455_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028415/2022-03-30T04:32:59.912Z>.
+<https://stad.gent/id/agent/570014613/2022-03-30T03:40:15.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:40:15.246Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2797_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vynckier Frères & Compagnie SA";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570028576>, <https://stad.gent/id/concept/570029580>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570029580> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Vynckier"@nl.
+<https://stad.gent/id/concept/570028576> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "VFC"@nl.
+_:df_2797_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014613/2022-03-30T03:40:15.246Z>.
+<https://stad.gent/id/agent/530020616/2022-03-17T00:05:33.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:05:33.519Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2908_39, _:df_2908_41;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2908_43;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2908_45;
+    <http://xmlns.com/foaf/0.1/givenName> "Acharya";
+    <http://xmlns.com/foaf/0.1/familyName> "Vyakul";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vyakul, Acharya";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/227196>, <https://www.wikidata.org/entity/Q2822994>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2908_49;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2908_49 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Indisch"@nl.
+_:df_2908_45 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/page/tgn/7574355>.
+<http://vocab.getty.edu/page/tgn/7574355> a <http://purl.org/dc/terms/Location>.
+_:df_2908_43 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930-09-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/page/tgn/7016788>.
+<http://vocab.getty.edu/page/tgn/7016788> a <http://purl.org/dc/terms/Location>.
+_:df_2908_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02053"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2908_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020616/2022-03-17T00:05:33.519Z>.
+<https://stad.gent/id/agent/570029608/2022-02-26T04:45:12.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:45:12.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5287_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vynconorm";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5287_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029608/2022-02-26T04:45:12.533Z>.
+<https://stad.gent/id/agent/570028415/2022-02-26T04:22:51.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:22:51.324Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5422_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vyncke & zonen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5422_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028415/2022-02-26T04:22:51.324Z>.
+<https://stad.gent/id/agent/570014613/2022-02-26T03:30:03.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:30:03.493Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5764_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vynckier Frères & Compagnie SA";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570028576>, <https://stad.gent/id/concept/570029580>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570029580> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Vynckier"@nl.
+<https://stad.gent/id/concept/570028576> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "VFC"@nl.
+_:df_5764_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014613/2022-02-26T03:30:03.493Z>.
+<https://stad.gent/id/agent/530021377/2022-02-25T21:55:31.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:55:31.650Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6412_27, _:df_6412_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vynckier Frères & Co";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6412_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02269"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6412_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021377/2022-02-25T21:55:31.650Z>.
+<https://stad.gent/id/agent/530020616/2022-02-25T21:29:26.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:29:26.162Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6544_2, _:df_6544_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6544_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6544_7;
+    <http://xmlns.com/foaf/0.1/givenName> "Acharya";
+    <http://xmlns.com/foaf/0.1/familyName> "Vyakul";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vyakul, Acharya";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/227196>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6544_11;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6544_11 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Indisch"@nl.
+_:df_6544_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2000"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6544_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7000198>.
+<http://vocab.getty.edu/tgn/7000198> a <http://purl.org/dc/terms/Location>.
+_:df_6544_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02053"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6544_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020616/2022-02-25T21:29:26.162Z>.
+<https://stad.gent/id/agent/530013430/2022-02-25T19:31:14.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:31:14.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7039_2, _:df_7039_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vynckier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7039_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01305"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7039_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013430/2022-02-25T19:31:14.564Z>.
+<https://stad.gent/id/agent/530006276/2022-02-25T19:07:13.974Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530006276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:07:13.974Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7111_2, _:df_7111_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vyncke";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7111_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01209"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7111_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530006276/2022-02-25T19:07:13.974Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vy.ttl>.

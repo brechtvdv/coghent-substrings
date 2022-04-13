@@ -1,0 +1,62 @@
+<https://stad.gent/id/agent/670001236/2022-03-30T07:15:59.532Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:15:59.532Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_23, _:df_1423_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Alexius";
+    <http://xmlns.com/foaf/0.1/familyName> "Duhayon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duhayon, Alexius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1423_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1219"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1423_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001236/2022-03-30T07:15:59.532Z>.
+<https://stad.gent/id/agent/670001237/2022-03-30T07:16:04.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:16:04.534Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_31, _:df_1423_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan";
+    <http://xmlns.com/foaf/0.1/familyName> "Duhot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duhot, Joan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1423_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1220"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1423_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001237/2022-03-30T07:16:04.534Z>.
+<https://stad.gent/id/agent/670001236/2022-02-26T07:05:40.817Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:05:40.817Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4387_10, _:df_4387_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Alexius";
+    <http://xmlns.com/foaf/0.1/familyName> "Duhayon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duhayon, Alexius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4387_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1219"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4387_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001236/2022-02-26T07:05:40.817Z>.
+<https://stad.gent/id/agent/670001237/2022-02-26T07:05:45.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:05:45.818Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4387_18, _:df_4387_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan";
+    <http://xmlns.com/foaf/0.1/familyName> "Duhot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duhot, Joan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4387_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1220"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4387_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001237/2022-02-26T07:05:45.818Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/duh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/duh.ttl>.

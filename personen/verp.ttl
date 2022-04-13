@@ -1,0 +1,76 @@
+<https://stad.gent/id/agent/670003065/2022-02-26T09:38:02.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:38:02.678Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3298_2, _:df_3298_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Verpoest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verpoest, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3298_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3048"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3298_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003065/2022-02-26T09:38:02.678Z>.
+<https://stad.gent/id/agent/670003066/2022-02-26T09:38:07.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:38:07.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3298_12, _:df_3298_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Antonius Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "Verpoest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verpoest, Antonius Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3298_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3049"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3298_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003066/2022-02-26T09:38:07.679Z>.
+<https://stad.gent/id/agent/670003062/2022-02-26T09:37:46.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:37:46.911Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_17, _:df_3301_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Verplaetsche";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verplaetsche, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3301_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3045"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3301_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003062/2022-02-26T09:37:46.911Z>.
+<https://stad.gent/id/agent/670003063/2022-02-26T09:37:52.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:37:52.674Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_22, _:df_3301_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Verplanken";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verplanken";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3301_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3046"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3301_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003063"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003063/2022-02-26T09:37:52.674Z>.
+<https://stad.gent/id/agent/670003064/2022-02-26T09:37:57.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:37:57.677Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_26, _:df_3301_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Verpoest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verpoest, Joannes Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3301_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3047"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3301_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003064/2022-02-26T09:37:57.677Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/verp.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/verp.ttl>.

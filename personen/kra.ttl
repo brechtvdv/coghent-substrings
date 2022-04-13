@@ -1,0 +1,45 @@
+<https://stad.gent/id/agent/530021795/2022-02-25T22:13:04.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:13:04.198Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6298_37, _:df_6298_39;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bettina";
+    <http://xmlns.com/foaf/0.1/familyName> "Krans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Krans, Bettina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6298_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02459"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6298_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021795/2022-02-25T22:13:04.198Z>.
+<https://stad.gent/id/agent/530001122/2022-02-25T18:14:47.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:14:47.647Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7465_10, _:df_7465_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7465_14;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7465_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Friso";
+    <http://xmlns.com/foaf/0.1/familyName> "Kramer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kramer, Friso";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500028736>, <https://www.wikidata.org/entity/Q2285049>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7465_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7465_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_7465_16 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2019-02-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006952>.
+<http://vocab.getty.edu/tgn/7006952> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7465_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1922-08-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006952>.
+_:df_7465_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00624"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7465_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001122/2022-02-25T18:14:47.647Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/kra.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/kra.ttl>.

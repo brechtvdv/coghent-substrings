@@ -1,0 +1,119 @@
+<https://stad.gent/id/agent/670000743/2022-02-26T06:24:27.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:24:27.563Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4681_2, _:df_4681_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "de Langhe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Langhe, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4681_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0726"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4681_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000743/2022-02-26T06:24:27.563Z>.
+<https://stad.gent/id/agent/670000744/2022-02-26T06:24:32.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:24:32.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4681_7, _:df_4681_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "of Sanghere?";
+    <http://xmlns.com/foaf/0.1/givenName> "Lucas weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Langhere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Langhere, Lucas weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4681_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0727"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4681_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000744/2022-02-26T06:24:32.564Z>.
+<https://stad.gent/id/agent/670000745/2022-02-26T06:24:37.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:24:37.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4681_13, _:df_4681_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "gravin gravin de Lanoy";
+    <http://xmlns.com/foaf/0.1/givenName> "gravin";
+    <http://xmlns.com/foaf/0.1/familyName> "de Lanoy";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Lanoy, gravin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4681_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0728"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4681_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000745/2022-02-26T06:24:37.565Z>.
+<https://stad.gent/id/agent/670000746/2022-02-26T06:24:42.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:24:42.567Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4681_19, _:df_4681_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois Ignace";
+    <http://xmlns.com/foaf/0.1/familyName> "de Lantsheer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Lantsheer, Francois Ignace";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4681_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0729"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4681_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000746/2022-02-26T06:24:42.567Z>.
+<https://stad.gent/id/agent/670000740/2022-02-26T06:24:12.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:24:12.559Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4684_15, _:df_4684_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Landtheer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Landtheer, Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4684_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0723"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4684_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000740/2022-02-26T06:24:12.559Z>.
+<https://stad.gent/id/agent/670000741/2022-02-26T06:24:17.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:24:17.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4684_23, _:df_4684_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "de Landtheere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Landtheere, Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4684_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0724"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4684_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000741/2022-02-26T06:24:17.560Z>.
+<https://stad.gent/id/agent/670000742/2022-02-26T06:24:22.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:24:22.562Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4684_28, _:df_4684_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "de Langhe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Langhe, Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4684_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0725"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4684_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000742/2022-02-26T06:24:22.562Z>.
+<https://stad.gent/id/agent/570030756/2022-02-26T04:53:55.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:53:55.765Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5227_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Landtsheer-Duez";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5227_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030756/2022-02-26T04:53:55.765Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+lan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+lan.ttl>.

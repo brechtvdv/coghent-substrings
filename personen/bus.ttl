@@ -1,0 +1,166 @@
+<https://stad.gent/id/agent/570028395/2022-03-30T04:31:54.470Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:31:54.470Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2461_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2461_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bush Radio";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5001365>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2461_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2461_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028395/2022-03-30T04:31:54.470Z>.
+<https://stad.gent/id/agent/530024415/2022-03-30T00:03:45.502Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T00:03:45.502Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2854_17, _:df_2854_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2854_20;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2854_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Zéphir";
+    <http://xmlns.com/foaf/0.1/familyName> "Busine";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Busine, Zéphir";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q22032513>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2854_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2854_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2854_21 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976-02-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2854_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2854_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03254"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2854_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024415/2022-03-30T00:03:45.502Z>.
+<https://stad.gent/id/agent/530024415/2022-03-08T00:03:21.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:03:21.918Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_40, _:df_2977_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2977_43;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2977_44;
+    <http://xmlns.com/foaf/0.1/givenName> "Zéphir";
+    <http://xmlns.com/foaf/0.1/familyName> "Busine";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Busine, Zéphir";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q22032513>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2977_48;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2977_48 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2977_44 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976-02-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2977_43 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2977_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03254"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2977_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024415/2022-03-08T00:03:21.918Z>.
+<https://stad.gent/id/agent/670003617/2022-02-26T10:14:58.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:14:58.417Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3037_40, _:df_3037_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gustave";
+    <http://xmlns.com/foaf/0.1/familyName> "Bussens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bussens, Gustave";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3037_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0269"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3037_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003617/2022-02-26T10:14:58.417Z>.
+<https://stad.gent/id/agent/670000287/2022-02-26T05:46:12.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000287>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:46:12.888Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4954_2, _:df_4954_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "Busso";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Busso, Jean Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4954_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0270"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4954_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000287"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000287/2022-02-26T05:46:12.888Z>.
+<https://stad.gent/id/agent/670000286/2022-02-26T05:46:07.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:46:07.886Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4957_21, _:df_4957_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Busier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Busier, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4957_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0269"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4957_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000286/2022-02-26T05:46:07.886Z>.
+<https://stad.gent/id/agent/570028395/2022-02-26T04:21:46.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:21:46.007Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5428_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5428_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bush Radio";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5001365>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5428_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5428_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028395/2022-02-26T04:21:46.007Z>.
+<https://stad.gent/id/agent/530024415/2022-02-25T23:55:13.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:55:13.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5818_6, _:df_5818_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5818_9;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5818_10;
+    <http://xmlns.com/foaf/0.1/givenName> "Zéphir";
+    <http://xmlns.com/foaf/0.1/familyName> "Busine";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Busine, Zéphir";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q22032513>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5818_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5818_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5818_10 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976-02-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5818_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5818_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03254"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5818_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024415/2022-02-25T23:55:13.333Z>.
+<https://stad.gent/id/agent/530013723/2022-02-25T19:49:52.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013723>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:49:52.103Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6928_36, _:df_6928_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6928_40;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Busnelli";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6928_40 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006001>.
+<http://vocab.getty.edu/tgn/7006001> a <http://purl.org/dc/terms/Location>.
+_:df_6928_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01494"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6928_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013723"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013723/2022-02-25T19:49:52.103Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bus.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bus.ttl>.

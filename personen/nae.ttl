@@ -1,0 +1,18 @@
+<https://stad.gent/id/agent/530001858/2022-02-25T18:58:35.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:58:35.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7153_31, _:df_7153_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7153_35;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Naef Spiele AG";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7153_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1064547>.
+<http://vocab.getty.edu/tgn/1064547> a <http://purl.org/dc/terms/Location>.
+_:df_7153_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01145"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7153_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001858/2022-02-25T18:58:35.561Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/nae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/nae.ttl>.

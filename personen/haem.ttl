@@ -1,0 +1,33 @@
+<https://stad.gent/id/agent/670001434/2022-02-26T07:22:12.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001434>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:22:12.673Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4270_27, _:df_4270_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernard Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Haemerlynck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Haemerlynck, Bernard Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4270_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1417"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4270_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001434"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001434/2022-02-26T07:22:12.673Z>.
+<https://stad.gent/id/agent/670001430/2022-02-26T07:21:52.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:21:52.667Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4273_24, _:df_4273_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker Pieter Haemelinck";
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Haemelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Haemelinck, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4273_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1413"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4273_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001430/2022-02-26T07:21:52.667Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/haem.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/haem.ttl>.

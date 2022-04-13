@@ -1,0 +1,88 @@
+<https://stad.gent/id/agent/570008636/2022-02-26T03:25:41.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570008636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:25:41.827Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5794_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5794_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rieter";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q681782>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5794_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1795"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011731>.
+<http://vocab.getty.edu/tgn/7011731> a <http://purl.org/dc/terms/Location>.
+_:df_5794_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570008636/2022-02-26T03:25:41.827Z>.
+<https://stad.gent/id/agent/530022525/2022-02-25T22:29:10.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:29:10.838Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6205_26, _:df_6205_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Reinhold";
+    <http://xmlns.com/foaf/0.1/familyName> "Rieckmann";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rieckmann, Reinhold";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6205_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03349"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6205_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022525/2022-02-25T22:29:10.838Z>.
+<https://stad.gent/id/agent/530015784/2022-02-25T19:59:25.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:59:25.852Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6886_9, _:df_6886_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6886_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6886_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Gerrit Thomas";
+    <http://xmlns.com/foaf/0.1/familyName> "Rietveld";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rietveld, Gerrit Thomas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500009183>, <https://www.wikidata.org/entity/Q160435>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6886_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6886_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6886_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1964-06-25"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006926>.
+<http://vocab.getty.edu/tgn/7006926> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6886_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1888-06-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006926>.
+_:df_6886_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01546"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6886_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015784/2022-02-25T19:59:25.852Z>.
+<https://stad.gent/id/agent/530001254/2022-02-25T18:21:55.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:21:55.421Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7414_13, _:df_7414_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7414_17;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7414_19;
+    <http://xmlns.com/foaf/0.1/givenName> "Richard";
+    <http://xmlns.com/foaf/0.1/familyName> "Riemerschmid";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Riemerschmid, Richard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500009989>, <https://www.wikidata.org/entity/Q64104>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7414_23;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7414_23 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_7414_19 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957-04-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004333>.
+<http://vocab.getty.edu/tgn/7004333> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7414_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1868-06-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004333>.
+_:df_7414_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00709"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7414_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001254/2022-02-25T18:21:55.421Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/rie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/rie.ttl>.

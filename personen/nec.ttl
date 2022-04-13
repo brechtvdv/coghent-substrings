@@ -1,0 +1,60 @@
+<https://stad.gent/id/agent/670001910/2022-02-26T08:01:48.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:48.590Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3985_2, _:df_3985_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Neckebroek";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Neckebroek";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3985_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1893"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3985_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001910/2022-02-26T08:01:48.590Z>.
+<https://stad.gent/id/agent/670001911/2022-02-26T08:01:53.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:53.592Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3985_6, _:df_3985_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Neckelbrouck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Neckelbrouck, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3985_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1894"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3985_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001911/2022-02-26T08:01:53.592Z>.
+<https://stad.gent/id/agent/670001912/2022-02-26T08:01:58.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001912>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:58.593Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3985_11, _:df_3985_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Neckelput";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Neckelput, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3985_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1895"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3985_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001912"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001912/2022-02-26T08:01:58.593Z>.
+<https://stad.gent/id/agent/670001909/2022-02-26T08:01:43.588Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:43.588Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_25, _:df_3988_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Nechelput";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nechelput";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3988_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1892"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3988_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001909/2022-02-26T08:01:43.588Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/nec.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/nec.ttl>.

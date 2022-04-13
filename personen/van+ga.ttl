@@ -1,0 +1,33 @@
+<https://stad.gent/id/agent/670002620/2022-02-26T09:01:02.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:02.769Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3562_2, _:df_3562_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker G. van Gazele";
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "van Gazele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Gazele, G.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3562_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2603"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3562_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002620/2022-02-26T09:01:02.769Z>.
+<https://stad.gent/id/agent/670002619/2022-02-26T09:00:57.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:00:57.767Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3565_32, _:df_3565_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "van Gansberghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Gansberghe, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3565_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2602"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3565_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002619/2022-02-26T09:00:57.767Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+ga.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+ga.ttl>.

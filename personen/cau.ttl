@@ -1,0 +1,84 @@
+<https://stad.gent/id/agent/570029238/2022-03-30T04:49:56.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:49:56.478Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2353_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caussemille jeune & Cie et Roche & Cie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2353_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029238/2022-03-30T04:49:56.478Z>.
+<https://stad.gent/id/agent/670000359/2022-02-26T05:52:10.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:52:10.676Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4912_9, _:df_4912_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Cauwenberghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cauwenberghe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4912_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0342"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4912_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000359/2022-02-26T05:52:10.676Z>.
+<https://stad.gent/id/agent/670000360/2022-02-26T05:52:15.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:52:15.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4912_13, _:df_4912_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter (sr.)";
+    <http://xmlns.com/foaf/0.1/familyName> "Cauwerijck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cauwerijck, Pieter (sr.)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4912_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0343"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4912_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000360/2022-02-26T05:52:15.679Z>.
+<https://stad.gent/id/agent/670000361/2022-02-26T05:52:20.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:52:20.681Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4912_21, _:df_4912_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Cauwerijck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cauwerijck, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4912_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0344"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4912_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000361/2022-02-26T05:52:20.681Z>.
+<https://stad.gent/id/agent/570029238/2022-02-26T04:39:50.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:39:50.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5320_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caussemille jeune & Cie et Roche & Cie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5320_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029238/2022-02-26T04:39:50.595Z>.
+<https://stad.gent/id/agent/530001854/2022-02-25T18:58:20.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:58:20.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7153_2, _:df_7153_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Vic";
+    <http://xmlns.com/foaf/0.1/familyName> "Cautereels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cautereels, Vic";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/>, <https://www.wikidata.org/entity/Q2392272>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7153_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7153_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7153_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01142"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7153_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001854/2022-02-25T18:58:20.554Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/cau.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/cau.ttl>.

@@ -1,0 +1,32 @@
+<https://stad.gent/id/agent/670000225/2022-02-26T05:41:00.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:41:00.630Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4993_20, _:df_4993_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Botte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Botte, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4993_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0208"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4993_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000225/2022-02-26T05:41:00.630Z>.
+<https://stad.gent/id/agent/670000226/2022-02-26T05:41:05.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:41:05.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4993_25, _:df_4993_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Bottelier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bottelier, Francies Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4993_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0209"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4993_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000226/2022-02-26T05:41:05.924Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bot.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bot.ttl>.

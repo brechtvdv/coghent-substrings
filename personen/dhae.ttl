@@ -1,0 +1,216 @@
+<https://stad.gent/id/agent/670001144/2022-02-26T06:58:02.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:58:02.806Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4441_2, _:df_4441_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharina";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhaese, Catharina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4441_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1127"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4441_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001144/2022-02-26T06:58:02.806Z>.
+<https://stad.gent/id/agent/670001145/2022-02-26T06:58:07.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001145>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:58:07.807Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4441_7, _:df_4441_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Dhaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhaese";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4441_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1128"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4441_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001145"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001145/2022-02-26T06:58:07.807Z>.
+<https://stad.gent/id/agent/670001139/2022-02-26T06:57:37.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001139>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:37.798Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4444_2, _:df_4444_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "d'Hane; Dhaene; de Hane";
+    <http://xmlns.com/foaf/0.1/givenName> "Hieronimus Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Haene de Tervarent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Haene de Tervarent, Hieronimus Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4444_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1122"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4444_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001139"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001139/2022-02-26T06:57:37.798Z>.
+<https://stad.gent/id/agent/670001140/2022-02-26T06:57:42.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001140>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:42.800Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4444_11, _:df_4444_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhaenens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhaenens, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4444_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1123"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4444_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001140"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001140/2022-02-26T06:57:42.800Z>.
+<https://stad.gent/id/agent/670001141/2022-02-26T06:57:47.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:47.801Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4444_19, _:df_4444_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhaese, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4444_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1124"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4444_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001141/2022-02-26T06:57:47.801Z>.
+<https://stad.gent/id/agent/670001142/2022-02-26T06:57:52.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:52.802Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4444_27, _:df_4444_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhaese, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4444_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1125"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4444_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001142/2022-02-26T06:57:52.802Z>.
+<https://stad.gent/id/agent/670001143/2022-02-26T06:57:57.804Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:57.804Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4444_32, _:df_4444_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhaese, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4444_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1126"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4444_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001143/2022-02-26T06:57:57.804Z>.
+<https://stad.gent/id/agent/670001134/2022-02-26T06:57:12.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:12.494Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_2, _:df_4447_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "d'Hane; Dhaene; de Hane", "jonker, heer van Avry en Haine Sebastiaen Frans Joseph d'Haene";
+    <http://xmlns.com/foaf/0.1/givenName> "Sebastiaen Frans Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Haene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Haene, Sebastiaen Frans Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4447_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1117"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4447_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001134/2022-02-26T06:57:12.494Z>.
+<https://stad.gent/id/agent/670001135/2022-02-26T06:57:17.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:17.497Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_8, _:df_4447_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "d'Hane de Leeuwerghem; d'Hane; Dhaene; de Hane", "graaf François, graaf d'Haene";
+    <http://xmlns.com/foaf/0.1/givenName> "François, graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Haene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Haene, François, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4447_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1118"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4447_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001135/2022-02-26T06:57:17.497Z>.
+<https://stad.gent/id/agent/670001136/2022-02-26T06:57:22.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:22.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_14, _:df_4447_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "d'Hane; Dhaene, de Hane", "graaf, heer van Poelvoorde, Nieuwland Emanuel Ignatius, graaf d'Haene";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4447_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4447_19;
+    <http://xmlns.com/foaf/0.1/givenName> "Emanuel Ignatius, graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Haene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Haene, Emanuel Ignatius, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4447_19 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1771"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4447_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1702"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4447_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1119"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4447_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001136/2022-02-26T06:57:22.500Z>.
+<https://stad.gent/id/agent/670001137/2022-02-26T06:57:27.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001137>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:27.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_22, _:df_4447_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Pierre Emmanuel d'Hane de Leeuwergem; d'Hane; Dhaene; de Hane", "graaf, heer van Leeuwergem, Eeckhoven Pieter Emmanuel Joseph, graaf d'Haene";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4447_26;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4447_27;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Emmanuel Joseph, graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Haene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Haene, Pieter Emmanuel Joseph, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4447_27 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1786"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4447_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1726"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4447_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1120"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4447_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001137"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001137/2022-02-26T06:57:27.501Z>.
+<https://stad.gent/id/agent/670001138/2022-02-26T06:57:32.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:57:32.796Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_30, _:df_4447_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "d'Hane; Dhaene; de Hane";
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Haene de Stuijvenberge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Haene de Stuijvenberge, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4447_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1121"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4447_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001138/2022-02-26T06:57:32.796Z>.
+<https://stad.gent/id/agent/530020935/2022-02-25T21:45:22.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:45:22.776Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6460_20, _:df_6460_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martine";
+    <http://xmlns.com/foaf/0.1/familyName> "D'Haeseleer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "D'Haeseleer, Martine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6460_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6460_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6460_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02195"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6460_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020935/2022-02-25T21:45:22.776Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dhae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dhae.ttl>.

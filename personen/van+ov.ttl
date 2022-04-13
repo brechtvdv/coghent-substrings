@@ -1,0 +1,93 @@
+<https://stad.gent/id/agent/670002755/2022-02-26T09:12:17.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:12:17.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3484_34, _:df_3484_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter (fs. Jacques)";
+    <http://xmlns.com/foaf/0.1/familyName> "van Overwaele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Overwaele, Pieter (fs. Jacques)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3484_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2738"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3484_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002755/2022-02-26T09:12:17.334Z>.
+<https://stad.gent/id/agent/670002746/2022-02-26T09:11:32.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:32.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_2, _:df_3487_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catherine";
+    <http://xmlns.com/foaf/0.1/familyName> "van Overbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Overbeke, Catherine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3487_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2729"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3487_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002746/2022-02-26T09:11:32.003Z>.
+<https://stad.gent/id/agent/670002747/2022-02-26T09:11:37.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:37.005Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_7, _:df_3487_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "van Overbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Overbeke, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3487_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2730"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3487_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002747/2022-02-26T09:11:37.005Z>.
+<https://stad.gent/id/agent/670002748/2022-02-26T09:11:42.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002748>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:42.007Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_12, _:df_3487_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "François";
+    <http://xmlns.com/foaf/0.1/familyName> "van Overloope";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Overloope, François";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3487_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2731"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3487_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002748"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002748/2022-02-26T09:11:42.007Z>.
+<https://stad.gent/id/agent/670002749/2022-02-26T09:11:47.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:47.010Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_20, _:df_3487_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker G. Francois van Overloope de Ronsefal";
+    <http://xmlns.com/foaf/0.1/givenName> "G. Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "van Overloope de Ronsefal";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Overloope de Ronsefal, G. Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3487_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2732"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3487_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002749/2022-02-26T09:11:47.010Z>.
+<https://stad.gent/id/agent/670002750/2022-02-26T09:11:52.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:52.326Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_26, _:df_3487_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "van Overwaele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Overwaele, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3487_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2733"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3487_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002750/2022-02-26T09:11:52.326Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+ov.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+ov.ttl>.

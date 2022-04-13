@@ -1,0 +1,51 @@
+<https://stad.gent/id/agent/530024459/2022-02-25T23:57:24.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:57:24.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5809_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/familyName> "Jarosh";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Jarosh";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5809_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5809_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Tsjechisch"@nl.
+_:df_5809_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024459/2022-02-25T23:57:24.353Z>.
+<https://stad.gent/id/agent/530013391/2022-02-25T19:28:58.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:28:58.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7051_2, _:df_7051_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7051_5;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Jarilux s.a.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7051_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7051_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01285"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7051_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013391/2022-02-25T19:28:58.507Z>.
+<https://stad.gent/id/agent/530001759/2022-02-25T18:52:12.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001759>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:52:12.849Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7198_16, _:df_7198_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Karin";
+    <http://xmlns.com/foaf/0.1/familyName> "Järvinen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Järvinen, Karin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500382048>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7198_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7198_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_7198_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01069"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7198_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001759"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001759/2022-02-25T18:52:12.849Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/jar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/jar.ttl>.

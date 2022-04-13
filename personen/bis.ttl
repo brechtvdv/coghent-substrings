@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/670000166/2022-02-26T05:36:03.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:36:03.951Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5029_24, _:df_5029_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bisschop van Gent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bisschop van Gent";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5029_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0149"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5029_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000166/2022-02-26T05:36:03.951Z>.
+<https://stad.gent/id/agent/530021650/2022-02-25T22:04:50.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:04:50.534Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6352_30, _:df_6352_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6352_33;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "BISlighting";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6352_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1999"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6352_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02369"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6352_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021650/2022-02-25T22:04:50.534Z>.
+<https://stad.gent/id/agent/530000783/2022-02-25T17:52:58.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:52:58.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7621_6, _:df_7621_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Thomas";
+    <http://xmlns.com/foaf/0.1/familyName> "Bishton";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bishton, Thomas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7621_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00364"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7621_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000783/2022-02-25T17:52:58.027Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bis.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bis.ttl>.

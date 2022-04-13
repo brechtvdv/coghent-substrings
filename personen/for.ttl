@@ -1,0 +1,119 @@
+<https://stad.gent/id/agent/670001315/2022-02-26T07:12:13.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:12:13.717Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4342_22, _:df_4342_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Fortergill";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Fortergill, Joannes weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4342_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1298"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4342_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001315/2022-02-26T07:12:13.717Z>.
+<https://stad.gent/id/agent/570021150/2022-02-26T03:50:22.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:50:22.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5632_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Fort Produkten nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5632_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021150/2022-02-26T03:50:22.012Z>.
+<https://stad.gent/id/agent/530023813/2022-02-25T23:18:06.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:18:06.777Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5947_20, _:df_5947_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5947_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Forbel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5947_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026388>.
+<http://vocab.getty.edu/tgn/1026388> a <http://purl.org/dc/terms/Location>.
+_:df_5947_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03030"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5947_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023813/2022-02-25T23:18:06.777Z>.
+<https://stad.gent/id/agent/530021684/2022-02-25T22:07:26.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:07:26.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6331_2, _:df_6331_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6331_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Forge de Laguiole";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6331_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1829"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1033751>.
+<http://vocab.getty.edu/tgn/1033751> a <http://purl.org/dc/terms/Location>.
+_:df_6331_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02400"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6331_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021684/2022-02-25T22:07:26.657Z>.
+<https://stad.gent/id/agent/530021328/2022-02-25T21:52:15.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:52:15.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6430_27, _:df_6430_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6430_30;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6430_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Gordon Mitchell";
+    <http://xmlns.com/foaf/0.1/familyName> "Forsyth";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Forsyth, Gordon Mitchell";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500026241>, <https://www.wikidata.org/entity/Q5585139>, <https://rkd.nl/explore/artists/28695>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6430_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6430_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_6430_31 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1952-12-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6430_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1879-11-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6430_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02237"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6430_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021328/2022-02-25T21:52:15.355Z>.
+<https://stad.gent/id/agent/530020065/2022-02-25T21:15:34.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:15:34.789Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6616_7, _:df_6616_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6616_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Formfjord";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6616_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2006"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+<http://vocab.getty.edu/tgn/7003712> a <http://purl.org/dc/terms/Location>.
+_:df_6616_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01940"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6616_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020065/2022-02-25T21:15:34.789Z>.
+<https://stad.gent/id/agent/530001104/2022-02-25T18:13:57.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:13:57.217Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7471_14, _:df_7471_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7471_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Forensische Psychiatrisch Centrum  (FPC) Guislain";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7471_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7471_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00614"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7471_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001104/2022-02-25T18:13:57.217Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/for.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/for.ttl>.

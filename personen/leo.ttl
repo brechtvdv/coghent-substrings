@@ -1,0 +1,86 @@
+<https://stad.gent/id/agent/670003408/2022-02-26T09:57:30.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003408>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:57:30.357Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_7, _:df_3160_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Leopoldskazerne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leopoldskazerne";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2854400>, <https://id.erfgoed.net/erfgoedobjecten/20194>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3160_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0059"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3160_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003408"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003408/2022-02-26T09:57:30.357Z>.
+<https://stad.gent/id/agent/530023250/2022-02-25T22:49:19.272Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:49:19.272Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6103_32, _:df_6103_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6103_36;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6103_38;
+    <http://xmlns.com/foaf/0.1/givenName> "Jos";
+    <http://xmlns.com/foaf/0.1/familyName> "Leonard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leonard, Jos";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q13739003>, <http://vocab.getty.edu/ulan/500091742>, <https://rkd.nl/explore/artists/49437>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6103_42;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6103_42 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6103_38 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957-05-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026511>.
+<http://vocab.getty.edu/tgn/1026511> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6103_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1892-11-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_6103_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02771"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6103_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023250/2022-02-25T22:49:19.272Z>.
+<https://stad.gent/id/agent/530023191/2022-02-25T22:45:07.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:45:07.644Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6130_7, _:df_6130_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6130_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6130_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Georg";
+    <http://xmlns.com/foaf/0.1/familyName> "Leowald";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leowald, Georg";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/wiki/Q1505178Q1505178>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6130_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6130_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_6130_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1969"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6130_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1908"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6130_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02724"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6130_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023191/2022-02-25T22:45:07.644Z>.
+<https://stad.gent/id/agent/530001456/2022-02-25T18:33:30.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:33:30.160Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7333_32, _:df_7333_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7333_35;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leolux";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2572520>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7333_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1934"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7333_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00847"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7333_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001456/2022-02-25T18:33:30.160Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/leo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/leo.ttl>.

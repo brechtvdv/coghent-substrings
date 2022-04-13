@@ -1,0 +1,222 @@
+<https://stad.gent/id/agent/570023034/2022-03-30T04:08:39.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:08:39.050Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2608_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Therma";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2608_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023034/2022-03-30T04:08:39.050Z>.
+<https://stad.gent/id/agent/570020258/2022-03-30T03:56:23.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:56:23.819Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2695_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2695_38;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2695_40;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul";
+    <http://xmlns.com/foaf/0.1/familyName> "Théry";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Théry, Paul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2695_46;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2695_46 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2695_40 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2695_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1837"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2695_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020258/2022-03-30T03:56:23.819Z>.
+<https://stad.gent/id/agent/670003572/2022-02-26T10:11:11.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:11.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_20, _:df_3064_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "theaterzaal Het Gangsken";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "theaterzaal Het Gangsken";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3064_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0224"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3064_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003572/2022-02-26T10:11:11.657Z>.
+<https://stad.gent/id/agent/670002363/2022-02-26T08:39:33.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:39:33.362Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3718_25, _:df_3718_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Andries";
+    <http://xmlns.com/foaf/0.1/familyName> "Theeus";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Theeus, Andries";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3718_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2346"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3718_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002363/2022-02-26T08:39:33.362Z>.
+<https://stad.gent/id/agent/570032035/2022-02-26T05:10:02.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:10:02.238Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5161_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "The Monotype Corporation Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5161_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032035/2022-02-26T05:10:02.238Z>.
+<https://stad.gent/id/agent/570031954/2022-02-26T05:07:31.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:07:31.307Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5167_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Theisen & Bonitz";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5167_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031954/2022-02-26T05:07:31.307Z>.
+<https://stad.gent/id/agent/570029586/2022-02-26T04:44:32.208Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:44:32.208Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5290_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Theimer Siegfried GmbH";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5290_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029586/2022-02-26T04:44:32.208Z>.
+<https://stad.gent/id/agent/570028317/2022-02-26T04:19:34.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:19:34.981Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5440_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thermor";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5440_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028317/2022-02-26T04:19:34.981Z>.
+<https://stad.gent/id/agent/570028221/2022-02-26T04:14:53.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:14:53.404Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5470_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5470_9;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thermos Ltd";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3523904>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570032494>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570032494> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Thermos"@nl.
+_:df_5470_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1980"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5470_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028221/2022-02-26T04:14:53.404Z>.
+<https://stad.gent/id/agent/570023034/2022-02-26T03:58:26.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:58:26.188Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5575_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Therma";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5575_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023034/2022-02-26T03:58:26.188Z>.
+<https://stad.gent/id/agent/570020258/2022-02-26T03:46:10.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:46:10.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5662_47;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5662_49;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5662_51;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul";
+    <http://xmlns.com/foaf/0.1/familyName> "Théry";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Théry, Paul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5662_57;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5662_57 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5662_51 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5662_49 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1837"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_5662_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020258/2022-02-26T03:46:10.333Z>.
+<https://stad.gent/id/agent/530023099/2022-02-25T22:39:30.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:39:30.171Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6157_7, _:df_6157_9;
+    <http://www.w3.org/2004/02/skos/core#note> "The Adler Company was started in 1896 and began with a focus in making bicycles, automobiles, and motorcycles. Later on, the company was merged with the Triumph-Werke Company to form the TA Triumph-Adler AG company.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6157_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6157_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "The Adler Company";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6157_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1995"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6157_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1896"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6157_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02679"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6157_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023099/2022-02-25T22:39:30.171Z>.
+<https://stad.gent/id/agent/530020725/2022-02-25T21:36:08.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020725>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:36:08.906Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6508_25, _:df_6508_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6508_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "The General Fireproofing Compagny";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6508_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1902"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014656>.
+<http://vocab.getty.edu/tgn/7014656> a <http://purl.org/dc/terms/Location>.
+_:df_6508_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02116"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6508_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020725"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020725/2022-02-25T21:36:08.906Z>.
+<https://stad.gent/id/agent/530013737/2022-02-25T19:50:27.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:50:27.462Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6925_40, _:df_6925_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6925_44;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "The Gallery Mourmans";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q108513154>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6925_44 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1986"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006862>.
+<http://vocab.getty.edu/tgn/7006862> a <http://purl.org/dc/terms/Location>.
+_:df_6925_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01500"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6925_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013737/2022-02-25T19:50:27.462Z>.
+<https://stad.gent/id/agent/530013282/2022-02-25T19:23:01.175Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:23:01.175Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7093_19, _:df_7093_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thema";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7093_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01220"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7093_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013282/2022-02-25T19:23:01.175Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/the.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/the.ttl>.

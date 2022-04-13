@@ -1,0 +1,196 @@
+<https://stad.gent/id/agent/530001778/2022-03-08T00:00:45.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:00:45.372Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_35, _:df_2995_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2995_39;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2995_40;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiener Werkstätte";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q241338>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2995_40 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2995_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1903"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>.
+_:df_2995_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01081"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2995_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001778/2022-03-08T00:00:45.372Z>.
+<https://stad.gent/id/agent/670003157/2022-02-26T09:45:45.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003157>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:45:45.615Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_15, _:df_3244_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pauwel Lieven";
+    <http://xmlns.com/foaf/0.1/familyName> "Wieme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wieme, Pauwel Lieven";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3244_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3140"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3244_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003157"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003157/2022-02-26T09:45:45.615Z>.
+<https://stad.gent/id/agent/670003158/2022-02-26T09:45:50.617Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:45:50.617Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_20, _:df_3244_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Franchois";
+    <http://xmlns.com/foaf/0.1/familyName> "Wiesbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiesbeke, Franchois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3244_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3141"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3244_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003158/2022-02-26T09:45:50.617Z>.
+<https://stad.gent/id/agent/530023232/2022-02-25T22:48:03.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:48:03.602Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6112_24, _:df_6112_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6112_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6112_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Edgar";
+    <http://xmlns.com/foaf/0.1/familyName> "Wiethase";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiethase, Edgar";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/84260>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6112_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6112_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6112_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1965"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008815>.
+<http://vocab.getty.edu/tgn/7008815> a <http://purl.org/dc/terms/Location>.
+_:df_6112_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1881-01-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_6112_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02756"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6112_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023232/2022-02-25T22:48:03.602Z>.
+<https://stad.gent/id/agent/530021683/2022-02-25T22:07:21.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:07:21.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6334_30, _:df_6334_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Sawzuck";
+    <http://xmlns.com/foaf/0.1/familyName> "Wiezlaw";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiezlaw, Sawzuck";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6334_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02399"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6334_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021683/2022-02-25T22:07:21.653Z>.
+<https://stad.gent/id/agent/530001820/2022-02-25T18:56:09.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:56:09.495Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7171_32, _:df_7171_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Hartmut";
+    <http://xmlns.com/foaf/0.1/familyName> "Wiese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiese, Hartmut";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7171_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01116"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7171_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001820"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001820/2022-02-25T18:56:09.495Z>.
+<https://stad.gent/id/agent/530001778/2022-02-25T18:53:13.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:53:13.491Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7192_34, _:df_7192_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7192_38;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7192_39;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiener Werkstätte";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q241338>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7192_39 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7192_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1903"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>.
+_:df_7192_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01081"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7192_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001778/2022-02-25T18:53:13.491Z>.
+<https://stad.gent/id/agent/530001346/2022-02-25T18:27:27.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:27:27.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7375_23, _:df_7375_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bert";
+    <http://xmlns.com/foaf/0.1/familyName> "Wienhuis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wienhuis, Bert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7375_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00775"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7375_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001346/2022-02-25T18:27:27.840Z>.
+<https://stad.gent/id/agent/530001270/2022-02-25T18:22:45.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:22:45.745Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7408_12, _:df_7408_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7408_16;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7408_17;
+    <http://xmlns.com/foaf/0.1/givenName> "Karl";
+    <http://xmlns.com/foaf/0.1/familyName> "Wiedmann";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiedmann, Karl";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q40804286>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7408_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7408_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_7408_17 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1992"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7408_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1905"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7147945>.
+<http://vocab.getty.edu/tgn/7147945> a <http://purl.org/dc/terms/Location>.
+_:df_7408_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00719"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7408_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001270/2022-02-25T18:22:45.745Z>.
+<https://stad.gent/id/agent/530001041/2022-02-25T18:09:45.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001041>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:09:45.337Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7501_17, _:df_7501_19;
+    <http://www.w3.org/2004/02/skos/core#note> "Opgericht door Michael Powolny tesamen met Bertold Löffler; na één jaar geïncorporeerd bij de Wiener Werkstätte; in 1913 gefuseerd met Gmundner Keramik.\r\n[http://de.wikipedia.org/wiki/Michael_Powolny]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7501_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7501_23;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wiener Keramik";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7501_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1913"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7501_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1906"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+_:df_7501_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00564"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7501_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001041"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001041/2022-02-25T18:09:45.337Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/wie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/wie.ttl>.

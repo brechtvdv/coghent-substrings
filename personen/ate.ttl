@@ -1,0 +1,189 @@
+<https://stad.gent/id/agent/530021341/2022-02-25T21:53:10.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021341>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:53:10.681Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6424_18, _:df_6424_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ateliers Pierre Disderot";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/NKN"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6424_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6424_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_6424_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02247"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6424_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021341"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021341/2022-02-25T21:53:10.681Z>.
+<https://stad.gent/id/agent/530020885/2022-02-25T21:44:27.382Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:44:27.382Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6466_20, _:df_6466_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6466_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Atelier Polyhedre";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6466_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2007"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008482>.
+<http://vocab.getty.edu/tgn/7008482> a <http://purl.org/dc/terms/Location>.
+_:df_6466_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02185"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6466_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020885"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020885/2022-02-25T21:44:27.382Z>.
+<https://stad.gent/id/agent/530020129/2022-02-25T21:20:27.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:20:27.414Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6592_10, _:df_6592_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6592_14;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6592_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Atelier De Vuurhaard";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6592_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2012-06-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6592_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1989-11-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/page/tgn/7246188>.
+<http://vocab.getty.edu/page/tgn/7246188> a <http://purl.org/dc/terms/Location>.
+_:df_6592_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01980"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6592_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020129/2022-02-25T21:20:27.414Z>.
+<https://stad.gent/id/agent/530016942/2022-02-25T20:26:42.623Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:26:42.623Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6745_2, _:df_6745_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6745_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Atelier Blink";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6745_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_6745_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01773"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6745_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016942/2022-02-25T20:26:42.623Z>.
+<https://stad.gent/id/agent/530016825/2022-02-25T20:19:29.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:19:29.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6790_30, _:df_6790_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6790_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Atelier Vera Vermeersch-Werner Gilson";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6790_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1989"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_6790_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01702"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6790_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016825/2022-02-25T20:19:29.310Z>.
+<https://stad.gent/id/agent/530013445/2022-02-25T19:32:14.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013445>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:32:14.883Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7036_27, _:df_7036_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7036_31;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ateliers d'Art de Maredsous";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/>, <https://www.wikidata.org/entity/Q2719216>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7036_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1872"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7249062>.
+<http://vocab.getty.edu/tgn/7249062> a <http://purl.org/dc/terms/Location>.
+_:df_7036_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01313"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7036_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013445"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013445/2022-02-25T19:32:14.883Z>.
+<https://stad.gent/id/agent/530001797/2022-02-25T18:54:43.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:54:43.845Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7180_20, _:df_7180_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7180_24;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7180_26;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Atelier Mendini";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500246389>, <https://www.wikidata.org/entity/Q25245512>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7180_26 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2019-02-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7180_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1989"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+_:df_7180_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01099"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7180_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001797/2022-02-25T18:54:43.845Z>.
+<https://stad.gent/id/agent/530001760/2022-02-25T18:52:17.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:52:17.850Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7198_24, _:df_7198_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7198_28;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Atelier Vera Vermeersch";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7198_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959-02-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026493>.
+<http://vocab.getty.edu/tgn/1026493> a <http://purl.org/dc/terms/Location>.
+_:df_7198_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01070"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7198_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001760/2022-02-25T18:52:17.850Z>.
+<https://stad.gent/id/agent/530001272/2022-02-25T18:22:50.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:22:50.747Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7408_23, _:df_7408_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ateliers van Steinschönau";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7408_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00720"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7408_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001272/2022-02-25T18:22:50.747Z>.
+<https://stad.gent/id/agent/530000591/2022-02-25T17:39:47.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:39:47.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7717_53, _:df_7717_55;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7717_57;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "atelier van de Velde";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7717_57 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_7717_55 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00207"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7717_53 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000591/2022-02-25T17:39:47.355Z>.
+<https://stad.gent/id/agent/530000536/2022-02-25T17:36:10.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:36:10.989Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7741_8, _:df_7741_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7741_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Atelier De Coene";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7741_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007934>.
+<http://vocab.getty.edu/tgn/7007934> a <http://purl.org/dc/terms/Location>.
+_:df_7741_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00164"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7741_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000536/2022-02-25T17:36:10.989Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ate.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ate.ttl>.

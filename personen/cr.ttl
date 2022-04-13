@@ -1,0 +1,282 @@
+<https://stad.gent/id/agent/670000499/2022-03-30T06:14:24.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:14:24.286Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1861_7, _:df_1861_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Augustyn";
+    <http://xmlns.com/foaf/0.1/familyName> "Cruyl";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cruyl, Augustyn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1861_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0482"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1861_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000499/2022-03-30T06:14:24.286Z>.
+<https://stad.gent/id/agent/670000493/2022-03-30T06:13:53.915Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:13:53.915Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_2, _:df_1864_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Cremens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cremens, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1864_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0476"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1864_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000493/2022-03-30T06:13:53.915Z>.
+<https://stad.gent/id/agent/670000494/2022-03-30T06:13:58.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000494>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:13:58.917Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_7, _:df_1864_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cremers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cremers, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1864_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0477"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1864_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000494"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000494/2022-03-30T06:13:58.917Z>.
+<https://stad.gent/id/agent/670000495/2022-03-30T06:14:03.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:14:03.920Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_12, _:df_1864_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Crivaels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crivaels, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1864_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0478"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1864_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000495/2022-03-30T06:14:03.920Z>.
+<https://stad.gent/id/agent/670000496/2022-03-30T06:14:08.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:14:08.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_17, _:df_1864_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Clara";
+    <http://xmlns.com/foaf/0.1/familyName> "Croone";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Croone, Clara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1864_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0479"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1864_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000496/2022-03-30T06:14:08.924Z>.
+<https://stad.gent/id/agent/670000497/2022-03-30T06:14:13.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:14:13.926Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_22, _:df_1864_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillielmus";
+    <http://xmlns.com/foaf/0.1/familyName> "Crul";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crul, Guillielmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1864_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0480"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1864_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000497/2022-03-30T06:14:13.926Z>.
+<https://stad.gent/id/agent/570028663/2022-03-30T04:41:52.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:41:52.933Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2404_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crackfree";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2404_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028663/2022-03-30T04:41:52.933Z>.
+<https://stad.gent/id/agent/570028261/2022-03-30T04:27:42.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:27:42.628Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2488_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crapsey, Arthur H.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2488_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028261/2022-03-30T04:27:42.628Z>.
+<https://stad.gent/id/agent/570021255/2022-03-30T04:01:46.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:01:46.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2656_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crompton Parkinson Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2656_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021255/2022-03-30T04:01:46.405Z>.
+<https://stad.gent/id/agent/570019356/2022-03-30T03:48:09.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019356>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:48:09.607Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2749_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cristel-Windey";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2749_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019356"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019356/2022-03-30T03:48:09.607Z>.
+<https://stad.gent/id/agent/670000498/2022-02-26T06:03:52.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:03:52.388Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4828_2, _:df_4828_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dominicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cruydt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cruydt, Dominicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4828_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0481"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4828_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000498/2022-02-26T06:03:52.388Z>.
+<https://stad.gent/id/agent/670000499/2022-02-26T06:03:57.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:03:57.389Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4828_7, _:df_4828_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Augustyn";
+    <http://xmlns.com/foaf/0.1/familyName> "Cruyl";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cruyl, Augustyn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4828_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0482"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4828_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000499/2022-02-26T06:03:57.389Z>.
+<https://stad.gent/id/agent/670000493/2022-02-26T06:03:27.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:03:27.051Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4831_2, _:df_4831_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Cremens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cremens, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4831_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0476"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4831_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000493/2022-02-26T06:03:27.051Z>.
+<https://stad.gent/id/agent/670000494/2022-02-26T06:03:32.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000494>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:03:32.052Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4831_7, _:df_4831_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cremers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cremers, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4831_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0477"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4831_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000494"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000494/2022-02-26T06:03:32.052Z>.
+<https://stad.gent/id/agent/670000495/2022-02-26T06:03:37.053Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:03:37.053Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4831_12, _:df_4831_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Crivaels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crivaels, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4831_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0478"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4831_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000495/2022-02-26T06:03:37.053Z>.
+<https://stad.gent/id/agent/670000496/2022-02-26T06:03:42.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:03:42.054Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4831_17, _:df_4831_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Clara";
+    <http://xmlns.com/foaf/0.1/familyName> "Croone";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Croone, Clara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4831_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0479"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4831_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000496/2022-02-26T06:03:42.054Z>.
+<https://stad.gent/id/agent/670000497/2022-02-26T06:03:47.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:03:47.386Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4831_22, _:df_4831_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillielmus";
+    <http://xmlns.com/foaf/0.1/familyName> "Crul";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crul, Guillielmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4831_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0480"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4831_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000497/2022-02-26T06:03:47.386Z>.
+<https://stad.gent/id/agent/570028663/2022-02-26T04:31:47.053Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:31:47.053Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5371_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crackfree";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5371_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028663/2022-02-26T04:31:47.053Z>.
+<https://stad.gent/id/agent/570028261/2022-02-26T04:17:34.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:17:34.368Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5452_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crapsey, Arthur H.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5452_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028261/2022-02-26T04:17:34.368Z>.
+<https://stad.gent/id/agent/570021255/2022-02-26T03:51:32.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:51:32.345Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5623_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Crompton Parkinson Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5623_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021255/2022-02-26T03:51:32.345Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/cr.ttl> <https://w3id.org/tree#relation> _:df_1_1920.
+_:df_1_1920 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/cri.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "cri".
+<https://brechtvdv.github.io/coghent-substrings/personen/cr.ttl> <https://w3id.org/tree#relation> _:df_1_1921.
+_:df_1_1921 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/cre.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "cre".
+<https://brechtvdv.github.io/coghent-substrings/personen/cr.ttl> <https://w3id.org/tree#relation> _:df_1_1922.
+_:df_1_1922 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/cra.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "cra".
+<https://brechtvdv.github.io/coghent-substrings/personen/cr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/cr.ttl>.

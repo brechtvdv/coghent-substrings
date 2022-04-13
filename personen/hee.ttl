@@ -1,0 +1,118 @@
+<https://stad.gent/id/agent/670001464/2022-03-30T07:34:58.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:58.916Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_25, _:df_1288_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Heerts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heerts";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1288_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1447"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1288_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001464/2022-03-30T07:34:58.916Z>.
+<https://stad.gent/id/agent/670003208/2022-02-26T09:49:57.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:49:57.325Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3214_8, _:df_3214_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "heerlijkheid Ledeberg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "heerlijkheid Ledeberg";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3214_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3186"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3214_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003208/2022-02-26T09:49:57.325Z>.
+<https://stad.gent/id/agent/670001464/2022-02-26T07:24:43.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:43.662Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4252_20, _:df_4252_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Heerts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heerts";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4252_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1447"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4252_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001464/2022-02-26T07:24:43.662Z>.
+<https://stad.gent/id/agent/530023021/2022-02-25T22:35:03.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:35:03.365Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6181_19, _:df_6181_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6181_22;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6181_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Henri";
+    <http://xmlns.com/foaf/0.1/familyName> "Heemskerk";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heemskerk, Henri";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6181_26;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6181_26 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6181_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6181_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6181_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02641"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6181_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023021/2022-02-25T22:35:03.365Z>.
+<https://stad.gent/id/agent/530021990/2022-02-25T22:18:16.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021990>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:18:16.326Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6268_7, _:df_6268_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6268_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6268_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Willem";
+    <http://xmlns.com/foaf/0.1/familyName> "Heesen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heesen, Willem";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1920364>, <https://rkd.nl/explore/artists/36930>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6268_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6268_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6268_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2007-05-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6268_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925-02-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006926>.
+<http://vocab.getty.edu/tgn/7006926> a <http://purl.org/dc/terms/Location>.
+_:df_6268_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02506"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6268_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021990"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021990/2022-02-25T22:18:16.326Z>.
+<https://stad.gent/id/agent/530021598/2022-02-25T22:01:24.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:01:24.158Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6376_35, _:df_6376_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6376_39;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernard";
+    <http://xmlns.com/foaf/0.1/familyName> "Heesen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heesen, Bernard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2409876>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6376_43;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6376_43 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6376_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006806>.
+<http://vocab.getty.edu/tgn/7006806> a <http://purl.org/dc/terms/Location>.
+_:df_6376_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02329"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6376_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021598/2022-02-25T22:01:24.158Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/hee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/hee.ttl>.

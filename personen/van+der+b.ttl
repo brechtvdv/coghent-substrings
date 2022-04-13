@@ -1,0 +1,72 @@
+<https://stad.gent/id/agent/670002573/2022-02-26T08:57:05.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:57:05.597Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_21, _:df_3592_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joos";
+    <http://xmlns.com/foaf/0.1/familyName> "van der Biest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van der Biest, Joos";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3592_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2556"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3592_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002573/2022-02-26T08:57:05.597Z>.
+<https://stad.gent/id/agent/670002574/2022-02-26T08:57:10.599Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:57:10.599Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_29, _:df_3592_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Theresia";
+    <http://xmlns.com/foaf/0.1/familyName> "van der Borst";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van der Borst, Theresia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3592_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2557"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3592_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002574/2022-02-26T08:57:10.599Z>.
+<https://stad.gent/id/agent/530017695/2022-02-25T20:46:15.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:46:15.735Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6733_11, _:df_6733_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francine";
+    <http://xmlns.com/foaf/0.1/familyName> "Van der Biest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van der Biest, Francine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6733_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6733_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6733_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00646"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6733_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017695"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017695/2022-02-25T20:46:15.735Z>.
+<https://stad.gent/id/agent/530013418/2022-02-25T19:30:14.212Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:30:14.212Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7048_25, _:df_7048_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7048_28;
+    <http://xmlns.com/foaf/0.1/givenName> "Francine";
+    <http://xmlns.com/foaf/0.1/familyName> "Van der Biest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van der Biest, Francine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q107076686>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7048_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7048_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7048_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7048_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01294"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7048_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013418/2022-02-25T19:30:14.212Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+der+b.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+der+b.ttl>.

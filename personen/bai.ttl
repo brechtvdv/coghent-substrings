@@ -1,0 +1,80 @@
+<https://stad.gent/id/agent/670000084/2022-03-30T05:39:39.284Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:39:39.284Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2110_12, _:df_2110_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Bailly";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bailly, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2110_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0067"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2110_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000084/2022-03-30T05:39:39.284Z>.
+<https://stad.gent/id/agent/670000085/2022-03-30T05:39:44.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:39:44.286Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2110_17, _:df_2110_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Bailly";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bailly, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2110_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0068"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2110_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000085/2022-03-30T05:39:44.286Z>.
+<https://stad.gent/id/agent/670000084/2022-02-26T05:29:10.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:10.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5077_12, _:df_5077_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Bailly";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bailly, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5077_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0067"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5077_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000084/2022-02-26T05:29:10.022Z>.
+<https://stad.gent/id/agent/670000085/2022-02-26T05:29:15.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:15.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5077_17, _:df_5077_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Bailly";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bailly, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5077_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0068"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5077_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000085/2022-02-26T05:29:15.023Z>.
+<https://stad.gent/id/agent/530023796/2022-02-25T23:17:51.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023796>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:17:51.771Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5947_2, _:df_5947_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carole";
+    <http://xmlns.com/foaf/0.1/familyName> "Baijings";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baijings, Carole";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5947_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5947_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_5947_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03027"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5947_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023796"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023796/2022-02-25T23:17:51.771Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bai.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bai.ttl>.

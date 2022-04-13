@@ -1,0 +1,32 @@
+<https://stad.gent/id/agent/670002743/2022-02-26T09:11:16.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:16.997Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_16, _:df_3490_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catheline";
+    <http://xmlns.com/foaf/0.1/familyName> "van Opstaele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Opstaele, Catheline";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3490_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2726"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3490_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002743/2022-02-26T09:11:16.997Z>.
+<https://stad.gent/id/agent/670002744/2022-02-26T09:11:21.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:21.999Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_21, _:df_3490_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharine";
+    <http://xmlns.com/foaf/0.1/familyName> "van Opstalle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Opstalle, Catharine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3490_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2727"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3490_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002744/2022-02-26T09:11:21.999Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+op.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+op.ttl>.

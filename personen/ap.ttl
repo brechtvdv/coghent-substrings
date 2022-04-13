@@ -1,0 +1,216 @@
+<https://stad.gent/id/agent/670000052/2022-03-30T05:37:03.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:37:03.174Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2128_7, _:df_2128_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Apers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apers, Pieter Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2128_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0035"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2128_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000052/2022-03-30T05:37:03.174Z>.
+<https://stad.gent/id/agent/570020199/2022-03-30T03:54:07.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:54:07.326Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apple Computer Ltd";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q312>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2707_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020199/2022-03-30T03:54:07.326Z>.
+<https://stad.gent/id/agent/570020052/2022-03-30T03:53:21.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:53:21.888Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2713_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2713_5;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apple Computer Inc";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q312>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2713_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976-04-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2713_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020052/2022-03-30T03:53:21.888Z>.
+<https://stad.gent/id/agent/570020010/2022-03-30T03:53:06.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:53:06.585Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2716_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "AP";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2716_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020010/2022-03-30T03:53:06.585Z>.
+<https://stad.gent/id/agent/530001604/2022-03-17T00:03:47.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:03:47.662Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2920_31, _:df_2920_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Yael";
+    <http://xmlns.com/foaf/0.1/familyName> "Applefeld";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Applefeld, Yael";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97819864>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2920_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2920_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Israelisch"@nl.
+_:df_2920_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00961"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2920_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001604/2022-03-17T00:03:47.662Z>.
+<https://stad.gent/id/agent/670000052/2022-02-26T05:26:33.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:26:33.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5095_7, _:df_5095_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Apers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apers, Pieter Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5095_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0035"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5095_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000052/2022-02-26T05:26:33.905Z>.
+<https://stad.gent/id/agent/570020199/2022-02-26T03:43:54.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:43:54.293Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5674_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apple Computer Ltd";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q312>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5674_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020199/2022-02-26T03:43:54.293Z>.
+<https://stad.gent/id/agent/570020052/2022-02-26T03:43:08.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:43:08.904Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5680_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5680_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apple Computer Inc";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q312>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5680_7 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976-04-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5680_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020052/2022-02-26T03:43:08.904Z>.
+<https://stad.gent/id/agent/570020010/2022-02-26T03:42:53.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:42:53.898Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5683_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "AP";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5683_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020010/2022-02-26T03:42:53.898Z>.
+<https://stad.gent/id/agent/530021102/2022-02-25T21:47:43.468Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021102>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:47:43.468Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6451_27, _:df_6451_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6451_31;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6451_33;
+    <http://xmlns.com/foaf/0.1/givenName> "Sandor";
+    <http://xmlns.com/foaf/0.1/familyName> "Apáti-Abt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apáti-Abt, Sandor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500132980>, <https://www.wikidata.org/entity/Q12355544>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6451_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6451_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Hongaars"@nl.
+_:df_6451_33 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916-03-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7017994>.
+<http://vocab.getty.edu/tgn/7017994> a <http://purl.org/dc/terms/Location>.
+_:df_6451_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1870-01-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005773>.
+<http://vocab.getty.edu/tgn/7005773> a <http://purl.org/dc/terms/Location>.
+_:df_6451_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02208"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6451_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021102"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021102/2022-02-25T21:47:43.468Z>.
+<https://stad.gent/id/agent/530016785/2022-02-25T20:16:58.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:16:58.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6802_18, _:df_6802_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6802_22;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Apple";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500335330>, <https://www.wikidata.org/entity/Q312>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6802_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976-04-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/2012294>.
+<http://vocab.getty.edu/tgn/2012294> a <http://purl.org/dc/terms/Location>.
+_:df_6802_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01680"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6802_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016785/2022-02-25T20:16:58.353Z>.
+<https://stad.gent/id/agent/530013289/2022-02-25T19:23:16.182Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:23:16.182Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7090_6, _:df_7090_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Appart";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7090_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01223"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7090_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013289/2022-02-25T19:23:16.182Z>.
+<https://stad.gent/id/agent/530001771/2022-02-25T18:52:43.161Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:52:43.161Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7195_38, _:df_7195_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7195_42;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Aprilia";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q622062>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7195_42 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1945"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003048>.
+<http://vocab.getty.edu/tgn/7003048> a <http://purl.org/dc/terms/Location>.
+_:df_7195_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01075"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7195_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001771/2022-02-25T18:52:43.161Z>.
+<https://stad.gent/id/agent/530001604/2022-02-25T18:43:09.318Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:43:09.318Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7264_42, _:df_7264_44;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Yael";
+    <http://xmlns.com/foaf/0.1/familyName> "Applefeld";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Applefeld, Yael";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7264_47;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7264_47 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Israelisch"@nl.
+_:df_7264_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00961"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7264_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001604/2022-02-25T18:43:09.318Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ap.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ap.ttl>.

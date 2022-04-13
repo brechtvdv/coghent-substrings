@@ -1,0 +1,17 @@
+<https://stad.gent/id/agent/670001101/2022-02-26T06:54:26.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:54:26.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4468_10, _:df_4468_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Delwaerde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delwaerde, Michiel weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4468_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1084"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4468_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001101/2022-02-26T06:54:26.554Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/delw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/delw.ttl>.

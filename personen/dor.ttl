@@ -1,0 +1,148 @@
+<https://stad.gent/id/agent/570028676/2022-03-30T04:42:33.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028676>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:42:33.252Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2398_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Or";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2398_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028676"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028676/2022-03-30T04:42:33.252Z>.
+<https://stad.gent/id/agent/530000880/2022-03-08T00:00:15.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:00:15.362Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2998_30, _:df_2998_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2998_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2998_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Michel";
+    <http://xmlns.com/foaf/0.1/familyName> "Dorigny";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dorigny, Michel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500032412>, <https://www.wikidata.org/entity/Q3309511>, <https://rkd.nl/explore/artists/23913>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2998_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2998_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_2998_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1665-02-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_2998_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1617"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7609111>.
+<http://vocab.getty.edu/tgn/7609111> a <http://purl.org/dc/terms/Location>.
+_:df_2998_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00437"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2998_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000880/2022-03-08T00:00:15.362Z>.
+<https://stad.gent/id/agent/670001199/2022-02-26T07:02:34.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:02:34.693Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4411_31, _:df_4411_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Dore";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dore, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4411_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1182"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4411_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001199/2022-02-26T07:02:34.693Z>.
+<https://stad.gent/id/agent/570030477/2022-02-26T04:51:14.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:51:14.778Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5245_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dorlastan Fibers & Monofil GmbH";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5245_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030477/2022-02-26T04:51:14.778Z>.
+<https://stad.gent/id/agent/570028676/2022-02-26T04:32:27.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028676>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:32:27.368Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5365_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Or";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5365_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028676"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028676/2022-02-26T04:32:27.368Z>.
+<https://stad.gent/id/agent/530020042/2022-02-25T21:13:39.044Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:13:39.044Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6631_24, _:df_6631_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6631_27;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean-François";
+    <http://xmlns.com/foaf/0.1/familyName> "D'Or";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "D'Or, Jean-François";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6631_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6631_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6631_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6631_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01919"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6631_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020042/2022-02-25T21:13:39.044Z>.
+<https://stad.gent/id/agent/530001327/2022-02-25T18:26:32.498Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:26:32.498Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7381_9, _:df_7381_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7381_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7381_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dordtsche Kunstpotterij";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2195030>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7381_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1908"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006798>.
+<http://vocab.getty.edu/tgn/7006798> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7381_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1903"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006798>.
+_:df_7381_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00764"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7381_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001327/2022-02-25T18:26:32.498Z>.
+<https://stad.gent/id/agent/530000880/2022-02-25T17:59:05.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:59:05.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7579_29, _:df_7579_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7579_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7579_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Michel";
+    <http://xmlns.com/foaf/0.1/familyName> "Dorigny";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dorigny, Michel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500032412>, <https://www.wikidata.org/entity/Q3309511>, <https://rkd.nl/explore/artists/23913>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7579_39;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7579_39 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_7579_35 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1665-02-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_7579_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1617"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7609111>.
+<http://vocab.getty.edu/tgn/7609111> a <http://purl.org/dc/terms/Location>.
+_:df_7579_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00437"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7579_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000880/2022-02-25T17:59:05.533Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dor.ttl>.

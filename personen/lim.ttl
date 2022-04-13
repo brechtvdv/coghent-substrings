@@ -1,0 +1,116 @@
+<https://stad.gent/id/agent/670001695/2022-02-26T07:43:45.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:45.977Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4114_2, _:df_4114_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charlotte";
+    <http://xmlns.com/foaf/0.1/familyName> "Limmenander";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Limmenander, Charlotte";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4114_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1678"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4114_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001695"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001695/2022-02-26T07:43:45.977Z>.
+<https://stad.gent/id/agent/670001696/2022-02-26T07:43:50.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001696>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:50.980Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4114_7, _:df_4114_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Limmenander";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Limmenander";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4114_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1679"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4114_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001696"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001696/2022-02-26T07:43:50.980Z>.
+<https://stad.gent/id/agent/670001697/2022-02-26T07:43:55.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:55.983Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4114_11, _:df_4114_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Jeroom-Olivier; Jérôme Olivier", "jonker, heer van Zulte, Laecke Jeron Olivier Limnander";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4114_15;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4114_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Jeron Olivier";
+    <http://xmlns.com/foaf/0.1/familyName> "Limnander";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Limnander, Jeron Olivier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4114_16 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1768"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4114_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1697"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4114_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1680"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4114_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001697/2022-02-26T07:43:55.983Z>.
+<https://stad.gent/id/agent/670001698/2022-02-26T07:44:00.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:44:00.986Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4114_19, _:df_4114_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Nieuwenhoven Gérard Joseph Ghislain Limnander";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4114_23;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4114_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Gérard Joseph Ghislain";
+    <http://xmlns.com/foaf/0.1/familyName> "Limnander";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Limnander, Gérard Joseph Ghislain";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4114_24 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1811-12-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4114_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1742-04-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4114_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1681"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4114_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001698/2022-02-26T07:44:00.986Z>.
+<https://stad.gent/id/agent/670001694/2022-02-26T07:43:40.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:40.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4117_27, _:df_4117_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Louys";
+    <http://xmlns.com/foaf/0.1/familyName> "Limgo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Limgo, Louys";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4117_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1677"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4117_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001694/2022-02-26T07:43:40.975Z>.
+<https://stad.gent/id/agent/530001008/2022-02-25T18:07:34.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:07:34.129Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7516_2, _:df_7516_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7516_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Limoges";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7516_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008410>.
+<http://vocab.getty.edu/tgn/7008410> a <http://purl.org/dc/terms/Location>.
+_:df_7516_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00538"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7516_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001008/2022-02-25T18:07:34.129Z>.
+<https://stad.gent/id/agent/470000987/2022-02-25T16:48:10.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470000987>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:48:10.852Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7924_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Limburgs Museum";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2798268>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7924_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000987"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470000987/2022-02-25T16:48:10.852Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lim.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lim.ttl>.

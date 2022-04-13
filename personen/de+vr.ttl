@@ -1,0 +1,202 @@
+<https://stad.gent/id/agent/670001023/2022-02-26T06:47:58.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:47:58.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4513_2, _:df_4513_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vreese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vreese, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4513_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1006"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4513_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001023/2022-02-26T06:47:58.759Z>.
+<https://stad.gent/id/agent/670001024/2022-02-26T06:48:03.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:48:03.760Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4513_10, _:df_4513_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joos";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vriendt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vriendt, Joos";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4513_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1007"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4513_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001024/2022-02-26T06:48:03.760Z>.
+<https://stad.gent/id/agent/670001025/2022-02-26T06:48:08.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:48:08.761Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4513_15, _:df_4513_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vriese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vriese, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4513_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1008"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4513_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001025/2022-02-26T06:48:08.761Z>.
+<https://stad.gent/id/agent/670001020/2022-02-26T06:47:43.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:47:43.754Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4516_15, _:df_4516_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vraet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vraet, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4516_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1003"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4516_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001020/2022-02-26T06:47:43.754Z>.
+<https://stad.gent/id/agent/670001021/2022-02-26T06:47:48.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:47:48.756Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4516_20, _:df_4516_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vreese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vreese, J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4516_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1004"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4516_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001021/2022-02-26T06:47:48.756Z>.
+<https://stad.gent/id/agent/670001022/2022-02-26T06:47:53.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:47:53.758Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4516_25, _:df_4516_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vreese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vreese, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4516_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1005"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4516_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001022/2022-02-26T06:47:53.758Z>.
+<https://stad.gent/id/agent/530021720/2022-02-25T22:09:47.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:09:47.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6316_19, _:df_6316_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6316_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Judith";
+    <http://xmlns.com/foaf/0.1/familyName> "De Vries";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Vries, Judith";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6316_26;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6316_26 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6316_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957-11-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006809>.
+<http://vocab.getty.edu/tgn/7006809> a <http://purl.org/dc/terms/Location>.
+_:df_6316_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02428"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6316_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021720/2022-02-25T22:09:47.743Z>.
+<https://stad.gent/id/agent/530019046/2022-02-25T20:52:33.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:52:33.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6703_2, _:df_6703_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Tom";
+    <http://xmlns.com/foaf/0.1/familyName> "De Vrieze";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Vrieze, Tom";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6703_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01825"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6703_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019046/2022-02-25T20:52:33.405Z>.
+<https://stad.gent/id/agent/530001743/2022-02-25T18:51:22.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:51:22.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7204_10, _:df_7204_12;
+    <http://www.w3.org/2004/02/skos/core#note> "Lucie De Vriendt-De Cock\r\nDochter van een welstellend rentenier-amateur-bloemist Ekkergem\r\nOpleiding zoals in het Gentse Liberaal milieu past aan het instituut de Kerkhove ,\r\nSluit studies af met extra cursussen Engels, piano, tekenen, koken naaien.\r\nZij borduurt naar eigen ontwerp dus zonder voorbeeld. Deed aan liefdadigheidswerk (weeshuizen).\r\nTrouwt op 04.06.1904 met Edouard De Vriendt, samen met broers leidt hij  houthandel gebroeders Devriendt,  rechter bij koophandelsrechtbank en consul van Zweden\r\n1908 verhuizen naar woning Boulevard du Jardin Zoologique (thans Pres.Rooseveltlaan)  nr. 36,  uit 1870. De woonkamer daar, toen salle de thé genoemd, werd gemeubeld in “modern style\". Het echtpaar De Vriendt-de Cock gaf in 1915 voor deze woning aan Albert Van huffel de opdracht om twee deurgordijnen te ontwerpen (project nr. 45). Het borduurwerk op deze gordjnen werd uitgevoerd door Lucie De Vriendt-de Cock . Van deze deurgordijnen bewaart het museum twee fragmenten inv. 1980-0307_1-2 en 2-2.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7204_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7204_14;
+    <http://xmlns.com/foaf/0.1/givenName> "Lucie";
+    <http://xmlns.com/foaf/0.1/familyName> "De Vriendt-de Cock";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Vriendt-de Cock, Lucie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7204_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7204_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7204_14 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948-02-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7204_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1882-02-09"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7204_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01059"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7204_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001743/2022-02-25T18:51:22.533Z>.
+<https://stad.gent/id/agent/530001390/2022-02-25T18:29:38.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:29:38.575Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7360_31, _:df_7360_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J. Ph.";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vries";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vries, J. Ph.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7360_36;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7360_36 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_7360_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00801"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7360_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001390/2022-02-25T18:29:38.575Z>.
+<https://stad.gent/id/agent/530001108/2022-02-25T18:14:07.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:14:07.221Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7471_25, _:df_7471_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ed.";
+    <http://xmlns.com/foaf/0.1/familyName> "De Vriendt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Vriendt, Ed.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7471_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00616"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7471_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001108/2022-02-25T18:14:07.221Z>.
+<https://stad.gent/id/agent/530001109/2022-02-25T18:14:12.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:14:12.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7471_30, _:df_7471_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "E.";
+    <http://xmlns.com/foaf/0.1/familyName> "De Vriendt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Vriendt, E.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7471_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00617"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7471_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001109/2022-02-25T18:14:12.223Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+vr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+vr.ttl>.

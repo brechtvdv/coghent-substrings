@@ -1,0 +1,275 @@
+<https://stad.gent/id/agent/670001627/2022-03-30T07:48:31.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:48:31.415Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1192_15, _:df_1192_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies Premier";
+    <http://xmlns.com/foaf/0.1/familyName> "Lammens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lammens, Francies Premier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1192_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1610"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1192_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001627/2022-03-30T07:48:31.415Z>.
+<https://stad.gent/id/agent/670001628/2022-03-30T07:48:36.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:48:36.415Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1192_23, _:df_1192_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Lammens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lammens, Joannes Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1192_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1611"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1192_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001628/2022-03-30T07:48:36.415Z>.
+<https://stad.gent/id/agent/670001629/2022-03-30T07:48:41.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:48:41.418Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1192_28, _:df_1192_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "Lammens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lammens, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1192_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1612"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1192_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001629/2022-03-30T07:48:41.418Z>.
+<https://stad.gent/id/agent/570029618/2022-03-30T04:55:38.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:55:38.603Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2317_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lampe Z";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2317_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029618/2022-03-30T04:55:38.603Z>.
+<https://stad.gent/id/agent/570028702/2022-03-30T04:43:43.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:43:43.923Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2389_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lamb's";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2389_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028702/2022-03-30T04:43:43.923Z>.
+<https://stad.gent/id/agent/570028545/2022-03-30T04:38:11.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:38:11.681Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2428_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Laminoirs de Thiméon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2428_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028545/2022-03-30T04:38:11.681Z>.
+<https://stad.gent/id/agent/570024777/2022-03-30T04:15:07.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570024777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:15:07.315Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2566_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lampe Lietar";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2566_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570024777/2022-03-30T04:15:07.315Z>.
+<https://stad.gent/id/agent/570022489/2022-03-30T04:05:17.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:05:17.758Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2632_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lamont";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2632_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022489/2022-03-30T04:05:17.758Z>.
+<https://stad.gent/id/agent/530022432/2022-03-08T00:02:41.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:02:41.907Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2980_25, _:df_2980_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2980_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2980_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Antonio";
+    <http://xmlns.com/foaf/0.1/familyName> "Lampecco";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lampecco, Antonio";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28084837>, <https://rkd.nl/explore/artists/47707>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2980_29 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2019-08-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2980_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2980_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03316"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2980_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022432/2022-03-08T00:02:41.907Z>.
+<https://stad.gent/id/agent/670001629/2022-02-26T07:38:18.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:38:18.865Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4153_2, _:df_4153_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "Lammens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lammens, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4153_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1612"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4153_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001629/2022-02-26T07:38:18.865Z>.
+<https://stad.gent/id/agent/670001625/2022-02-26T07:37:58.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:37:58.860Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_6, _:df_4156_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Lamarcke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lamarcke, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4156_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1608"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4156_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001625/2022-02-26T07:37:58.860Z>.
+<https://stad.gent/id/agent/670001626/2022-02-26T07:38:03.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:38:03.861Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_11, _:df_4156_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Lammens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lammens, Pieter Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4156_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1609"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4156_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001626/2022-02-26T07:38:03.861Z>.
+<https://stad.gent/id/agent/670001627/2022-02-26T07:38:08.862Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:38:08.862Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_19, _:df_4156_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies Premier";
+    <http://xmlns.com/foaf/0.1/familyName> "Lammens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lammens, Francies Premier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4156_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1610"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4156_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001627/2022-02-26T07:38:08.862Z>.
+<https://stad.gent/id/agent/670001628/2022-02-26T07:38:13.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:38:13.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_27, _:df_4156_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Lammens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lammens, Joannes Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4156_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1611"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4156_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001628/2022-02-26T07:38:13.863Z>.
+<https://stad.gent/id/agent/570029618/2022-02-26T04:45:32.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:45:32.540Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5284_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lampe Z";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5284_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029618/2022-02-26T04:45:32.540Z>.
+<https://stad.gent/id/agent/570028702/2022-02-26T04:33:37.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:33:37.787Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5356_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lamb's";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5356_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028702/2022-02-26T04:33:37.787Z>.
+<https://stad.gent/id/agent/570028545/2022-02-26T04:28:05.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:28:05.764Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5395_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Laminoirs de Thiméon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5395_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028545/2022-02-26T04:28:05.764Z>.
+<https://stad.gent/id/agent/570024777/2022-02-26T04:04:53.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570024777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:04:53.887Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5530_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lampe Lietar";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5530_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570024777/2022-02-26T04:04:53.887Z>.
+<https://stad.gent/id/agent/570022489/2022-02-26T03:55:03.675Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:55:03.675Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5599_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lamont";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5599_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022489/2022-02-26T03:55:03.675Z>.
+<https://stad.gent/id/agent/530023587/2022-02-25T23:12:29.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:12:29.331Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5968_2, _:df_5968_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5968_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Max";
+    <http://xmlns.com/foaf/0.1/familyName> "Lamb";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lamb, Max";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q27830074>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5968_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5968_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_5968_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1980"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5968_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02992"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5968_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023587/2022-02-25T23:12:29.331Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lam.ttl> <https://w3id.org/tree#relation> _:df_1_1970.
+_:df_1_1970 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/lamp.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "lamp".
+<https://brechtvdv.github.io/coghent-substrings/personen/lam.ttl> <https://w3id.org/tree#relation> _:df_1_1971.
+_:df_1_1971 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/lamb.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "lamb".
+<https://brechtvdv.github.io/coghent-substrings/personen/lam.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lam.ttl>.

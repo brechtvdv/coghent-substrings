@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/670003087/2022-02-26T09:39:53.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:39:53.335Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_11, _:df_3286_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Viervoet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Viervoet, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3286_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3070"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3286_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003087/2022-02-26T09:39:53.335Z>.
+<https://stad.gent/id/agent/530001136/2022-02-25T18:15:37.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:15:37.981Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7459_7, _:df_7459_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "M.";
+    <http://xmlns.com/foaf/0.1/familyName> "Vietti";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vietti, M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7459_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00634"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7459_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001136/2022-02-25T18:15:37.981Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vie.ttl>.

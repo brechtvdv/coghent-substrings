@@ -1,0 +1,37 @@
+<https://stad.gent/id/agent/570028179/2022-02-26T04:11:56.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:11:56.999Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5485_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Iridinoid";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5485_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028179/2022-02-26T04:11:56.999Z>.
+<https://stad.gent/id/agent/570021372/2022-02-26T03:53:18.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:53:18.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5611_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Irresistible";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5611_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021372/2022-02-26T03:53:18.023Z>.
+<https://stad.gent/id/agent/530017961/2022-02-25T20:48:01.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:48:01.408Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6724_32, _:df_6724_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "James";
+    <http://xmlns.com/foaf/0.1/familyName> "Irvine";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Irvine, James";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1680600>, <https://rkd.nl/explore/artists/313980>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6724_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03312"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6724_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017961/2022-02-25T20:48:01.408Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ir.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ir.ttl>.

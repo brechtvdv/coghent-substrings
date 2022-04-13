@@ -1,0 +1,54 @@
+<https://stad.gent/id/agent/670002575/2022-02-26T08:57:15.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:57:15.602Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_2, _:df_3589_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "van der Cruijcen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van der Cruijcen, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3589_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2558"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3589_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002575/2022-02-26T08:57:15.602Z>.
+<https://stad.gent/id/agent/670002576/2022-02-26T08:57:20.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:57:20.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_10, _:df_3589_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "van der Cruijcen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van der Cruijcen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3589_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2559"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3589_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002576/2022-02-26T08:57:20.604Z>.
+<https://stad.gent/id/agent/570020037/2022-02-26T03:43:03.903Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:43:03.903Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5680_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van der Cruyssen nv (VDC)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5680_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020037/2022-02-26T03:43:03.903Z>.
+<https://stad.gent/id/agent/530000637/2022-02-25T17:43:23.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:43:23.770Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7690_12, _:df_7690_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.C.";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Der Chijs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Der Chijs, P.C.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7690_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00250"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7690_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000637/2022-02-25T17:43:23.770Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+der+c.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+der+c.ttl>.

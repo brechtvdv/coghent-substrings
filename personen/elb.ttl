@@ -1,0 +1,104 @@
+<https://stad.gent/id/agent/670001270/2022-02-26T07:08:32.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:32.118Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4366_2, _:df_4366_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livijne";
+    <http://xmlns.com/foaf/0.1/familyName> "Elbo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elbo, Livijne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4366_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1253"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4366_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001270/2022-02-26T07:08:32.118Z>.
+<https://stad.gent/id/agent/670001271/2022-02-26T07:08:37.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:37.120Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4366_7, _:df_4366_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Elbo juffrouwen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elbo juffrouwen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4366_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1254"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4366_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001271/2022-02-26T07:08:37.120Z>.
+<https://stad.gent/id/agent/670001266/2022-02-26T07:08:11.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:11.712Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4369_10, _:df_4369_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van ter Gouwen Pieter Elbo", "d'heer Elbo, heer van ter Gouwen";
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Elbo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elbo, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4369_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1249"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4369_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001266/2022-02-26T07:08:11.712Z>.
+<https://stad.gent/id/agent/670001267/2022-02-26T07:08:16.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:16.713Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4369_16, _:df_4369_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Elbo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elbo, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4369_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1250"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4369_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001267/2022-02-26T07:08:16.713Z>.
+<https://stad.gent/id/agent/670001268/2022-02-26T07:08:21.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:21.714Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4369_21, _:df_4369_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan (sr.)";
+    <http://xmlns.com/foaf/0.1/familyName> "Elbo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elbo, Jan (sr.)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4369_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1251"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4369_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001268/2022-02-26T07:08:21.714Z>.
+<https://stad.gent/id/agent/670001269/2022-02-26T07:08:27.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:27.114Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4369_26, _:df_4369_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanna";
+    <http://xmlns.com/foaf/0.1/familyName> "Elbo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elbo, Joanna";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4369_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1252"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4369_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001269/2022-02-26T07:08:27.114Z>.
+<https://stad.gent/id/agent/530001876/2022-02-25T18:59:45.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:59:45.891Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7144_10, _:df_7144_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elbo";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7144_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01159"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7144_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001876/2022-02-25T18:59:45.891Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/elb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/elb.ttl>.

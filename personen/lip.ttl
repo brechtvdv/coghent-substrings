@@ -1,0 +1,71 @@
+<https://stad.gent/id/agent/670003588/2022-02-26T10:12:32.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:12:32.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3052_2, _:df_3052_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Oscar";
+    <http://xmlns.com/foaf/0.1/familyName> "Lippens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lippens, Oscar";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3052_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0240"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3052_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003588/2022-02-26T10:12:32.359Z>.
+<https://stad.gent/id/agent/670001700/2022-02-26T07:44:10.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:44:10.989Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4111_2, _:df_4111_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nicolais weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Lippens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lippens, Nicolais weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4111_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1683"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4111_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001700/2022-02-26T07:44:10.989Z>.
+<https://stad.gent/id/agent/670001699/2022-02-26T07:44:05.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:44:05.988Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4114_30, _:df_4114_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Lippens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lippens, Joannes Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4114_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1682"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4114_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001699/2022-02-26T07:44:05.988Z>.
+<https://stad.gent/id/agent/530001746/2022-02-25T18:51:32.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:51:32.832Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7204_36, _:df_7204_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7204_39;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7204_40;
+    <http://xmlns.com/foaf/0.1/givenName> "Jules";
+    <http://xmlns.com/foaf/0.1/familyName> "Lippens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lippens, Jules";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q13739850>, <http://www.odis.be/lnk/PS_98681>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7204_44;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7204_44 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7204_40 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1961-10-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7204_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893-10-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7204_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01061"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7204_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001746/2022-02-25T18:51:32.832Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lip.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lip.ttl>.

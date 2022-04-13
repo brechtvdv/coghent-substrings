@@ -1,0 +1,83 @@
+<https://stad.gent/id/agent/670001418/2022-02-26T07:20:52.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:20:52.066Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4279_12, _:df_4279_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Grijpdonck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grijpdonck, Pieter Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4279_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1401"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4279_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001418/2022-02-26T07:20:52.066Z>.
+<https://stad.gent/id/agent/670001419/2022-02-26T07:20:57.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:20:57.067Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4279_20, _:df_4279_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Grijx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grijx, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4279_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1402"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4279_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001419/2022-02-26T07:20:57.067Z>.
+<https://stad.gent/id/agent/670001420/2022-02-26T07:21:02.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:21:02.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4279_25, _:df_4279_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Remaculus Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "Grimieaux dit Beautier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grimieaux dit Beautier, Remaculus Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4279_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1403"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4279_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001420/2022-02-26T07:21:02.376Z>.
+<https://stad.gent/id/agent/530023446/2022-02-25T23:03:20.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:03:20.052Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6019_25, _:df_6019_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "GRiNT";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6019_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02911"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6019_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023446/2022-02-25T23:03:20.052Z>.
+<https://stad.gent/id/agent/530000894/2022-02-25T18:00:00.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:00:00.871Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7570_2, _:df_7570_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7570_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7570_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Eduard";
+    <http://xmlns.com/foaf/0.1/familyName> "Grielens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grielens, Eduard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7570_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7570_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7570_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1901"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7570_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1845"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7570_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00448"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7570_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000894/2022-02-25T18:00:00.871Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/gri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/gri.ttl>.

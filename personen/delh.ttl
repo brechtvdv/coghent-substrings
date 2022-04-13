@@ -1,0 +1,62 @@
+<https://stad.gent/id/agent/670001082/2022-02-26T06:52:50.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:52:50.982Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_20, _:df_4480_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Delheye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delheye, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4480_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1065"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4480_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001082/2022-02-26T06:52:50.982Z>.
+<https://stad.gent/id/agent/530016705/2022-02-25T20:13:01.969Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016705>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:13:01.969Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6820_2, _:df_6820_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6820_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6820_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delheid Frères";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2780365>, <https://rkd.nl/explore/artists/370735>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6820_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1980"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6820_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1862"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_6820_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01647"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6820_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016705"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016705/2022-02-25T20:13:01.969Z>.
+<https://stad.gent/id/agent/530013571/2022-02-25T19:40:48.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:40:48.340Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6982_21, _:df_6982_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6982_25;
+    <http://xmlns.com/foaf/0.1/givenName> "Nicole";
+    <http://xmlns.com/foaf/0.1/familyName> "Delhalleux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delhalleux, Nicole";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/21445>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6982_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6982_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6982_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955-10-25"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_6982_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01403"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6982_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013571"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013571/2022-02-25T19:40:48.340Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/delh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/delh.ttl>.

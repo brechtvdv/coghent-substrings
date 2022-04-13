@@ -1,0 +1,304 @@
+<https://stad.gent/id/agent/570031797/2022-03-30T05:14:55.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:14:55.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2206_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danse La Pluie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2206_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031797/2022-03-30T05:14:55.664Z>.
+<https://stad.gent/id/agent/570028154/2022-03-30T04:20:24.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:20:24.752Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2530_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dandy A.M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2530_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028154/2022-03-30T04:20:24.752Z>.
+<https://stad.gent/id/agent/670003658/2022-02-26T10:18:25.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:18:25.315Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3010_2, _:df_3010_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ad.";
+    <http://xmlns.com/foaf/0.1/familyName> "Dangotte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dangotte, Ad.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3010_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0310"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3010_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003658/2022-02-26T10:18:25.315Z>.
+<https://stad.gent/id/agent/670000518/2022-02-26T06:05:32.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:32.992Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4816_2, _:df_4816_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Danneels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danneels, Charles weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4816_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0501"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4816_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000518/2022-02-26T06:05:32.992Z>.
+<https://stad.gent/id/agent/670000519/2022-02-26T06:05:37.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:37.995Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4816_7, _:df_4816_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Berlare? Thomas Danneels";
+    <http://xmlns.com/foaf/0.1/givenName> "Thomas";
+    <http://xmlns.com/foaf/0.1/familyName> "Danneels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danneels, Thomas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4816_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0502"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4816_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000519/2022-02-26T06:05:37.995Z>.
+<https://stad.gent/id/agent/670000520/2022-02-26T06:05:42.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:42.997Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4816_13, _:df_4816_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker Jan Baptiste Dansaert";
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Dansaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dansaert, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4816_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0503"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4816_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000520/2022-02-26T06:05:42.997Z>.
+<https://stad.gent/id/agent/670000521/2022-02-26T06:05:47.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000521>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:47.999Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4816_19, _:df_4816_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Germaine";
+    <http://xmlns.com/foaf/0.1/familyName> "Dansaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dansaert, Germaine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4816_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0504"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4816_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000521"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000521/2022-02-26T06:05:47.999Z>.
+<https://stad.gent/id/agent/670000522/2022-02-26T06:05:53.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:53.001Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4816_27, _:df_4816_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Albertus";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Anvers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Anvers, Albertus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4816_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0505"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4816_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000522/2022-02-26T06:05:53.001Z>.
+<https://stad.gent/id/agent/670000515/2022-02-26T06:05:17.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:17.694Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4819_18, _:df_4819_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "Danneels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danneels, Charles Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4819_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0498"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4819_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000515/2022-02-26T06:05:17.694Z>.
+<https://stad.gent/id/agent/670000516/2022-02-26T06:05:22.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:22.696Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4819_23, _:df_4819_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Danneels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danneels, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4819_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0499"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4819_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000516/2022-02-26T06:05:22.696Z>.
+<https://stad.gent/id/agent/670000517/2022-02-26T06:05:27.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:05:27.989Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4819_28, _:df_4819_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van ter Beke Frans Anthone Danneels";
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4819_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Danneels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danneels, Frans Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4819_32 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1737-10-31"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4819_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0500"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4819_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000517/2022-02-26T06:05:27.989Z>.
+<https://stad.gent/id/agent/570031797/2022-02-26T05:04:50.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:04:50.045Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5173_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danse La Pluie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5173_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031797/2022-02-26T05:04:50.045Z>.
+<https://stad.gent/id/agent/570028154/2022-02-26T04:10:11.195Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:10:11.195Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5497_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dandy A.M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5497_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028154/2022-02-26T04:10:11.195Z>.
+<https://stad.gent/id/agent/530016777/2022-02-25T20:16:18.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:16:18.337Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6805_2, _:df_6805_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6805_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Anna";
+    <http://xmlns.com/foaf/0.1/familyName> "Danielsson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danielsson, Anna";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6805_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6805_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_6805_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6805_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01673"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6805_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016777/2022-02-25T20:16:18.337Z>.
+<https://stad.gent/id/agent/530016730/2022-02-25T20:14:17.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:14:17.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6814_9, _:df_6814_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6814_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6814_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Céline";
+    <http://xmlns.com/foaf/0.1/familyName> "Dangotte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dangotte, Céline";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q47514867>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6814_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6814_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6814_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1975-01-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007883>.
+<http://vocab.getty.edu/tgn/7007883> a <http://purl.org/dc/terms/Location>.
+_:df_6814_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1883-03-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_6814_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01659"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6814_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016730/2022-02-25T20:14:17.353Z>.
+<https://stad.gent/id/agent/530013697/2022-02-25T19:48:26.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:48:26.479Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6937_20, _:df_6937_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danese";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6937_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01477"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6937_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013697/2022-02-25T19:48:26.479Z>.
+<https://stad.gent/id/agent/530013443/2022-02-25T19:32:04.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:32:04.879Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7036_19, _:df_7036_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7036_22;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7036_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Adolphe";
+    <http://xmlns.com/foaf/0.1/familyName> "Dangotte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dangotte, Adolphe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q87648747>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7036_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7036_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1858"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7036_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01312"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7036_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013443/2022-02-25T19:32:04.879Z>.
+<https://stad.gent/id/agent/530000709/2022-02-25T17:48:41.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:48:41.204Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7651_2, _:df_7651_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Danecraft";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7651_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00313"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7651_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000709/2022-02-25T17:48:41.204Z>.
+<https://stad.gent/id/agent/530000184/2022-02-25T17:11:35.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:11:35.455Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7825_30, _:df_7825_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dangotte";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7825_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7825_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7825_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00026"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7825_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000184/2022-02-25T17:11:35.455Z>.
+<https://stad.gent/id/agent/470007768/2022-02-25T16:52:58.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470007768>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:52:58.260Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7888_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dangotte, Adolphe";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q87648747>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7888_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007768"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470007768/2022-02-25T16:52:58.260Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dan.ttl>.

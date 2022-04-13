@@ -1,0 +1,134 @@
+<https://stad.gent/id/agent/670000879/2022-03-30T06:46:14.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000879>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:46:14.656Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1633_2, _:df_1633_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Olivier baron de Reylof", "baron, heer van Ten Durpe, Kerckhove Olivier, baron de Reylof", "mher; mijnheer de Reylof, baron, heer van Ten Durpe, Kerckhove";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_1633_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_1633_7;
+    <http://xmlns.com/foaf/0.1/givenName> "Olivier, baron";
+    <http://xmlns.com/foaf/0.1/familyName> "de Reylof";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Reylof, Olivier, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1633_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1742"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1633_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1684-11-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1633_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0862"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1633_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000879"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000879/2022-03-30T06:46:14.656Z>.
+<https://stad.gent/id/agent/670000880/2022-03-30T06:46:19.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:46:19.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1633_13, _:df_1633_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Reynsdickx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Reynsdickx, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1633_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0863"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1633_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000880/2022-03-30T06:46:19.658Z>.
+<https://stad.gent/id/agent/670000877/2022-03-30T06:46:04.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000877>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:46:04.366Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1636_24, _:df_1636_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Rese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Rese, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1636_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0860"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1636_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000877"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000877/2022-03-30T06:46:04.366Z>.
+<https://stad.gent/id/agent/670000878/2022-03-30T06:46:09.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:46:09.368Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1636_29, _:df_1636_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Passchier";
+    <http://xmlns.com/foaf/0.1/familyName> "de Reuse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Reuse, Passchier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1636_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0861"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1636_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000878/2022-03-30T06:46:09.368Z>.
+<https://stad.gent/id/agent/670000878/2022-02-26T06:35:47.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:35:47.809Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4600_2, _:df_4600_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Passchier";
+    <http://xmlns.com/foaf/0.1/familyName> "de Reuse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Reuse, Passchier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4600_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0861"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4600_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000878/2022-02-26T06:35:47.809Z>.
+<https://stad.gent/id/agent/670000879/2022-02-26T06:35:52.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000879>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:35:52.811Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4600_7, _:df_4600_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Olivier baron de Reylof", "baron, heer van Ten Durpe, Kerckhove Olivier, baron de Reylof", "mher; mijnheer de Reylof, baron, heer van Ten Durpe, Kerckhove";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4600_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4600_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Olivier, baron";
+    <http://xmlns.com/foaf/0.1/familyName> "de Reylof";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Reylof, Olivier, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4600_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1742"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4600_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1684-11-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4600_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0862"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4600_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000879"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000879/2022-02-26T06:35:52.811Z>.
+<https://stad.gent/id/agent/670000880/2022-02-26T06:35:57.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:35:57.814Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4600_18, _:df_4600_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Reynsdickx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Reynsdickx, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4600_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0863"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4600_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000880/2022-02-26T06:35:57.814Z>.
+<https://stad.gent/id/agent/670000877/2022-02-26T06:35:42.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000877>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:35:42.808Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4603_29, _:df_4603_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Rese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Rese, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4603_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0860"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4603_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000877"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000877/2022-02-26T06:35:42.808Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+re.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+re.ttl>.

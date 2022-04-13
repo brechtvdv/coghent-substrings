@@ -1,0 +1,36 @@
+<https://stad.gent/id/agent/550024999/2022-03-30T02:00:14.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/550024999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T02:00:14.916Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q980285>;
+    <http://xmlns.com/foaf/0.1/familyName> "Hawkes & Son";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hawkes & Son";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2833_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550024999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/550024999/2022-03-30T02:00:14.916Z>.
+<https://stad.gent/id/agent/550024999/2022-02-26T01:50:24.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/550024999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T01:50:24.306Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5800_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q980285>;
+    <http://xmlns.com/foaf/0.1/familyName> "Hawkes & Son";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hawkes & Son";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5800_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550024999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/550024999/2022-02-26T01:50:24.306Z>.
+<https://stad.gent/id/agent/530016784/2022-02-25T20:16:53.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:16:53.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6802_14, _:df_6802_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hawkins";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6802_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01679"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6802_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016784/2022-02-25T20:16:53.352Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/haw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/haw.ttl>.

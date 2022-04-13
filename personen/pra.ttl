@@ -1,0 +1,93 @@
+<https://stad.gent/id/agent/670002067/2022-02-26T08:14:59.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:14:59.670Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3892_12, _:df_3892_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joos";
+    <http://xmlns.com/foaf/0.1/familyName> "Praet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Praet, Joos";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3892_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2050"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3892_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002067/2022-02-26T08:14:59.670Z>.
+<https://stad.gent/id/agent/670002068/2022-02-26T08:15:04.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:15:04.672Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3892_20, _:df_3892_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Prakizijnen Raad van Vlaanderen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Prakizijnen Raad van Vlaanderen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3892_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2051"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3892_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002068/2022-02-26T08:15:04.672Z>.
+<https://stad.gent/id/agent/530023085/2022-02-25T22:38:34.828Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:38:34.828Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6163_27, _:df_6163_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6163_31;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Prandina";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3646786>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6163_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1982"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003261>.
+<http://vocab.getty.edu/tgn/7003261> a <http://purl.org/dc/terms/Location>.
+_:df_6163_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02672"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6163_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023085/2022-02-25T22:38:34.828Z>.
+<https://stad.gent/id/agent/530021721/2022-02-25T22:09:52.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021721>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:09:52.744Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6316_28, _:df_6316_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Camila";
+    <http://xmlns.com/foaf/0.1/familyName> "Prada";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Prada, Camila";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6316_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02429"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6316_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021721"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021721/2022-02-25T22:09:52.744Z>.
+<https://stad.gent/id/agent/530009061/2022-02-25T19:09:20.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530009061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:09:20.019Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7105_26, _:df_7105_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Rada";
+    <http://xmlns.com/foaf/0.1/familyName> "Pravoslav";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pravoslav, Rada";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q11089747>, <https://rkd.nl/explore/artists/436896>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7105_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7105_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Tsjecho-Slowaaks"@nl.
+_:df_7105_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03345"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7105_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530009061/2022-02-25T19:09:20.019Z>.
+<https://stad.gent/id/agent/530000573/2022-02-25T17:38:32.046Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:38:32.046Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7726_46, _:df_7726_48;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Prado N.V.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7726_48 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00192"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7726_46 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000573/2022-02-25T17:38:32.046Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/pra.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/pra.ttl>.

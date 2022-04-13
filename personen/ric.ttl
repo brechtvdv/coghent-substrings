@@ -1,0 +1,134 @@
+<https://stad.gent/id/agent/570025565/2022-02-26T04:06:24.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:06:24.600Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5521_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Richez Charles & Cie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5521_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025565/2022-02-26T04:06:24.600Z>.
+<https://stad.gent/id/agent/530023501/2022-02-25T23:06:41.826Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:06:41.826Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5998_2, _:df_5998_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5998_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Roger";
+    <http://xmlns.com/foaf/0.1/familyName> "Riche";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Riche, Roger";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500461850>, <https://www.wikidata.org/entity/Q55219692>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5998_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5998_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_5998_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5998_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02942"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5998_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023501/2022-02-25T23:06:41.826Z>.
+<https://stad.gent/id/agent/530022188/2022-02-25T22:26:09.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:26:09.390Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6217_23, _:df_6217_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Theo";
+    <http://xmlns.com/foaf/0.1/familyName> "Richardson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Richardson, Theo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6217_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02593"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6217_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022188/2022-02-25T22:26:09.390Z>.
+<https://stad.gent/id/agent/530022116/2022-02-25T22:23:53.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:23:53.667Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6229_6, _:df_6229_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6229_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6229_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Richez";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Richez, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2282871>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6229_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6229_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_6229_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1994-10-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6229_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1918-06-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008922>.
+<http://vocab.getty.edu/tgn/7008922> a <http://purl.org/dc/terms/Location>.
+_:df_6229_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02571"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6229_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022116"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022116/2022-02-25T22:23:53.667Z>.
+<https://stad.gent/id/agent/530021651/2022-02-25T22:04:55.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:04:55.537Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6349_2, _:df_6349_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6349_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Richard Hutten Studio b.v.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6349_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006792>.
+<http://vocab.getty.edu/tgn/7006792> a <http://purl.org/dc/terms/Location>.
+_:df_6349_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02370"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6349_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021651/2022-02-25T22:04:55.537Z>.
+<https://stad.gent/id/agent/530021351/2022-02-25T21:53:55.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:53:55.985Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6418_6, _:df_6418_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "RICMA S.N.C. Imola";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6418_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02256"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6418_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021351/2022-02-25T21:53:55.985Z>.
+<https://stad.gent/id/agent/530020122/2022-02-25T21:19:57.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:19:57.032Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6595_25, _:df_6595_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6595_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6595_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Richter, Fenkl & Hahn";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6595_29 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6595_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1883"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6595_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01977"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6595_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020122/2022-02-25T21:19:57.032Z>.
+<https://stad.gent/id/agent/530013515/2022-02-25T19:36:31.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:36:31.655Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7009_48, _:df_7009_50;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Richard Perry, Son & Co.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7009_50 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01359"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7009_48 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013515/2022-02-25T19:36:31.655Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ric.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ric.ttl>.

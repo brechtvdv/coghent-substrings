@@ -1,0 +1,248 @@
+<https://stad.gent/id/agent/550003902/2022-02-26T00:06:48.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/550003902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T00:06:48.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5803_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q980285>;
+    <http://xmlns.com/foaf/0.1/familyName> "Koninklijk Instituut voor het Kunstpatrimonium (Brussel)";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijk Instituut voor het Kunstpatrimonium (Brussel)";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/undefined>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5803_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/550003902/2022-02-26T00:06:48.863Z>.
+<https://stad.gent/id/agent/530023996/2022-02-25T23:28:01.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:28:01.264Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5929_2, _:df_5929_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Porselein- en Aardewerkfabriek Rozenburg";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5929_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03101"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5929_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023996/2022-02-25T23:28:01.264Z>.
+<https://stad.gent/id/agent/530023044/2022-02-25T22:36:18.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:36:18.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6172_6, _:df_6172_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6172_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Königliche Sachsische Porzellanmanufaktur";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6172_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012844>.
+<http://vocab.getty.edu/tgn/7012844> a <http://purl.org/dc/terms/Location>.
+_:df_6172_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02654"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6172_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023044/2022-02-25T22:36:18.726Z>.
+<https://stad.gent/id/agent/530022108/2022-02-25T22:23:18.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:23:18.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6235_27, _:df_6235_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6235_31;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6235_33;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Maatschappij voor Bouwmeesters van Antwerpen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6235_33 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6235_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+_:df_6235_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02564"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6235_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022108/2022-02-25T22:23:18.348Z>.
+<https://stad.gent/id/agent/530020564/2022-02-25T21:25:49.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:25:49.555Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6568_26, _:df_6568_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6568_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Königliche Porzellan-Manufaktur";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6568_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012844>.
+<http://vocab.getty.edu/tgn/7012844> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6568_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02015"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6568_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020564/2022-02-25T21:25:49.555Z>.
+<https://stad.gent/id/agent/530019959/2022-02-25T21:07:51.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019959>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:07:51.210Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6661_2, _:df_6661_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6661_5;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Tichelaar Makkum";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2505653>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6661_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1572"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6661_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01866"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6661_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019959"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019959/2022-02-25T21:07:51.210Z>.
+<https://stad.gent/id/agent/530019481/2022-02-25T20:59:41.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:59:41.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6688_22, _:df_6688_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6688_26;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6688_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke N.V. Nederlandsche Fabriek van Gouden en Zilveren Werken Gerritsen en Van Kempen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q29422170>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6688_27 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6688_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1903"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006927>.
+<http://vocab.getty.edu/tgn/7006927> a <http://purl.org/dc/terms/Location>.
+_:df_6688_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01843"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6688_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019481/2022-02-25T20:59:41.012Z>.
+<https://stad.gent/id/agent/530017685/2022-02-25T20:46:10.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:46:10.733Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6733_2, _:df_6733_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6733_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6733_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Sphinx";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2738000>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530023200>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530023200> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Royal Sphinx Maastricht"@nl.
+_:df_6733_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6733_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1834"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006862>.
+<http://vocab.getty.edu/tgn/7006862> a <http://purl.org/dc/terms/Location>.
+_:df_6733_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01790"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6733_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017685"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017685/2022-02-25T20:46:10.733Z>.
+<https://stad.gent/id/agent/530017582/2022-02-25T20:44:34.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:44:34.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6742_34, _:df_6742_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6742_38;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Van Kempen & Begeer";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q13745166>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6742_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1858"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006812>.
+<http://vocab.getty.edu/tgn/7006812> a <http://purl.org/dc/terms/Location>.
+_:df_6742_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01779"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6742_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017582/2022-02-25T20:44:34.976Z>.
+<https://stad.gent/id/agent/530001645/2022-02-25T18:45:55.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:45:55.504Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7243_25, _:df_7243_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7243_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Verenigde Tapijtfabrieken, Moordrecht";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7243_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1919-03-25"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1047962z>.
+<http://vocab.getty.edu/tgn/1047962z> a <http://purl.org/dc/terms/Location>.
+_:df_7243_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00994"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7243_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001645/2022-02-25T18:45:55.504Z>.
+<https://stad.gent/id/agent/530001335/2022-02-25T18:27:02.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:27:02.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7378_15, _:df_7378_17;
+    <http://www.w3.org/2004/02/skos/core#note> "http://www.goedewaagen.nl/index.asp?subpagina_id=172";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7378_19;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7378_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Hollandse Pijpen- en Aardewerkfabriek Goedewaagen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/337347>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7378_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1983"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7378_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1779"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006805>.
+<http://vocab.getty.edu/tgn/7006805> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7378_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00770"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7378_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001335/2022-02-25T18:27:02.507Z>.
+<https://stad.gent/id/agent/530000647/2022-02-25T17:44:09.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:44:09.189Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7684_6, _:df_7684_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Nederlandsche Edelmetaal Bedrijven Van Kempen, Begeer en Vos";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q13745166>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7684_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00259"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7684_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000647/2022-02-25T17:44:09.189Z>.
+<https://stad.gent/id/agent/530000261/2022-02-25T17:16:32.578Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:16:32.578Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7816_25, _:df_7816_27;
+    <http://www.w3.org/2004/02/skos/core#note> "In 1983 kreeg Mosa het predikaat 'Koninklijke'.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7816_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Mosa";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2250620>, <https://rkd.nl/nl/explore/artists/335007>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7816_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1883"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1047941>.
+<http://vocab.getty.edu/tgn/1047941> a <http://purl.org/dc/terms/Location>.
+_:df_7816_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00041"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7816_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000261/2022-02-25T17:16:32.578Z>.
+<https://stad.gent/id/agent/470008891/2022-02-25T16:53:18.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470008891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:53:18.504Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7885_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke Musea voor Schone Kunsten van België";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q377500>, <http://vocab.getty.edu/page/ulan/500306179>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7885_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470008891/2022-02-25T16:53:18.504Z>.
+<https://stad.gent/id/agent/470001088/2022-02-25T16:48:15.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470001088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:48:15.854Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7921_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Koninklijke musea voor kunst en geschiedenis";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/ulan/500306177>, <https://www.wikidata.org/entity/Q945059>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7921_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470001088/2022-02-25T16:48:15.854Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/kon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/kon.ttl>.

@@ -1,0 +1,76 @@
+<https://stad.gent/id/agent/570013783/2022-03-30T03:36:41.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570013783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:36:41.472Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2821_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schneider Th.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2821_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570013783/2022-03-30T03:36:41.472Z>.
+<https://stad.gent/id/agent/570013783/2022-02-26T03:26:32.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570013783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:26:32.164Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5788_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schneider Th.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5788_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570013783/2022-02-26T03:26:32.164Z>.
+<https://stad.gent/id/agent/530001173/2022-02-25T18:17:48.731Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001173>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:17:48.731Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7444_29, _:df_7444_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7444_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7444_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles";
+    <http://xmlns.com/foaf/0.1/familyName> "Schneider";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schneider, Charles";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500012083>, <https://www.wikidata.org/entity/Q2960206>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7444_39;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7444_39 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_7444_35 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953-01-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1031658>.
+<http://vocab.getty.edu/tgn/1031658> a <http://purl.org/dc/terms/Location>.
+_:df_7444_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1881-02-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009027>.
+<http://vocab.getty.edu/tgn/7009027> a <http://purl.org/dc/terms/Location>.
+_:df_7444_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00660"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7444_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001173"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001173/2022-02-25T18:17:48.731Z>.
+<https://stad.gent/id/agent/530001174/2022-02-25T18:17:53.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:17:53.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7444_41, _:df_7444_43;
+    <http://www.w3.org/2004/02/skos/core#note> "The two brothers Charles and Ernst Schneider both worked for the factory Daum in Nancy  in the beginning of the 20th century and there they learned the technique of blowing and etching the glass.\r\nThey developed two production lines in the glass factory with two different styles: glass with the signature “Le Verre Francais” and the other line with only the signature “Schneider”.\r\n\r\n\r\n";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schneider-Le Verre Francais";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7444_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00661"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7444_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001174/2022-02-25T18:17:53.743Z>.
+<https://stad.gent/id/agent/530001004/2022-02-25T18:07:14.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:07:14.124Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7519_14, _:df_7519_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schneider";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7519_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00534"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7519_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001004/2022-02-25T18:07:14.124Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/schn.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/schn.ttl>.

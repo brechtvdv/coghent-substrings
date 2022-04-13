@@ -1,0 +1,122 @@
+<https://stad.gent/id/agent/670001907/2022-03-30T08:11:53.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:11:53.277Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1024_2, _:df_1024_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludovicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Myte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myte, Ludovicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1024_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1890"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1024_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001907/2022-03-30T08:11:53.277Z>.
+<https://stad.gent/id/agent/670001908/2022-03-30T08:11:58.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:11:58.279Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1024_10, _:df_1024_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Myte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myte, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1024_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1891"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1024_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001908/2022-03-30T08:11:58.279Z>.
+<https://stad.gent/id/agent/670001905/2022-03-30T08:11:43.273Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:11:43.273Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_26, _:df_1027_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Myas";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myas, Joannes weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1027_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1888"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1027_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001905/2022-03-30T08:11:43.273Z>.
+<https://stad.gent/id/agent/670001906/2022-03-30T08:11:48.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:11:48.275Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_31, _:df_1027_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Myle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myle, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1027_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1889"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1027_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001906/2022-03-30T08:11:48.275Z>.
+<https://stad.gent/id/agent/670001905/2022-02-26T08:01:23.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:23.581Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_2, _:df_3988_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Myas";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myas, Joannes weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3988_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1888"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001905/2022-02-26T08:01:23.581Z>.
+<https://stad.gent/id/agent/670001906/2022-02-26T08:01:28.583Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:28.583Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_7, _:df_3988_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Myle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myle, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3988_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1889"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3988_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001906/2022-02-26T08:01:28.583Z>.
+<https://stad.gent/id/agent/670001907/2022-02-26T08:01:33.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:33.585Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_12, _:df_3988_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludovicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Myte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myte, Ludovicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3988_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1890"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3988_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001907/2022-02-26T08:01:33.585Z>.
+<https://stad.gent/id/agent/670001908/2022-02-26T08:01:38.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:01:38.586Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_20, _:df_3988_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Myte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Myte, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3988_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1891"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3988_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001908/2022-02-26T08:01:38.586Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/my.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/my.ttl>.

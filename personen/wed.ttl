@@ -1,0 +1,58 @@
+<https://stad.gent/id/agent/530017255/2022-02-25T20:43:19.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:43:19.642Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6745_23, _:df_6745_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6745_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wedgwood";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500330540>, <https://www.wikidata.org/entity/Q595544>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6745_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1759"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/4002012>.
+<http://vocab.getty.edu/tgn/4002012> a <http://purl.org/dc/terms/Location>.
+_:df_6745_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01776"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6745_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017255/2022-02-25T20:43:19.642Z>.
+<https://stad.gent/id/agent/530013351/2022-02-25T19:26:47.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:26:47.867Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7066_2, _:df_7066_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jürgen";
+    <http://xmlns.com/foaf/0.1/familyName> "Wedhorn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wedhorn, Jürgen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7066_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01261"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7066_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013351/2022-02-25T19:26:47.867Z>.
+<https://stad.gent/id/agent/530001373/2022-02-25T18:28:58.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:28:58.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7363_2, _:df_7363_4;
+    <http://www.w3.org/2004/02/skos/core#note> "[http://www.purmerendsmuseum.nl/pagina/161/Vier-plateelbakkerijen]\r\nDe Firma Brantjes werd in 1895 opgericht, door Clementine Brantjes, de weduwe van de oventegelfabrikant en houthandelaar Nicolaas Brantjes (1844-1886), en door Egbert Estié (1865-1910), die de eerste drie jaar waarschijnlijk de artistieke leiding over de fabriek had. Estié‚ vertrok in 1897 naar Gouda waar hij de plateelbakkerij Zuid-Holland oprichtte.\r\nBrantjes was gevestigd in het oude fabriekscomplex van de voormalige tegelfabriek aan de Neckerstraat. Het bedrijf had in 1895 46 werknemers in dienst van wie er 35 schilder waren. Deze plateelschilders voorzagen het ‘voorgebakken’ aardewerk van een decoratie, meestal een beschildering van florale motieven op een donkere ondergrond.\r\nDe decoraties vertonen verwantschap met de ontwerpen van T.A.C. Colenbrander bij de plateelbakkerij Rozenburg in Den Haag, ongeveer tien jaar daarvoor. Waarschijnlijk begon Brantjes in de beginjaren met imitatie van Delfts blauw. Daarnaast komen beschilderingen voor op een lichte, crèmekleurige ondergrond uitgevoerd in arceertechniek die waarschijnlijk door Estié‚ uit Den Haag was meegenomen. In hoofdzaak bestond de productie daarna echter uit de groep met bonte beschilderingen. In de nadagen van de fabriek werd getracht met populaire beschildering van landschapjes de verkoop te vergroten.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7363_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7363_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wed. N.S.A. Brantjes & Co";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/nl/explore/artists/336874>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7363_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007053>.
+<http://vocab.getty.edu/tgn/7007053> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7363_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1892"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007053>.
+_:df_7363_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00793"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7363_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001373/2022-02-25T18:28:58.561Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/wed.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/wed.ttl>.

@@ -1,0 +1,60 @@
+<https://stad.gent/id/agent/670002584/2022-02-26T08:58:00.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002584>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:58:00.913Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3586_25, _:df_3586_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "van der Maeren";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van der Maeren, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3586_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2567"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3586_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002584"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002584/2022-02-26T08:58:00.913Z>.
+<https://stad.gent/id/agent/530000635/2022-02-25T17:43:13.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:43:13.767Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7690_2, _:df_7690_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.H.";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Der Meulen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Der Meulen, J.H.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7690_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00248"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7690_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000635/2022-02-25T17:43:13.767Z>.
+<https://stad.gent/id/agent/530000294/2022-02-25T17:18:53.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:18:53.602Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7807_21, _:df_7807_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7807_25;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7807_27;
+    <http://xmlns.com/foaf/0.1/givenName> "Willy";
+    <http://xmlns.com/foaf/0.1/familyName> "Van der Meeren";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van der Meeren, Willy";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500244605>, <https://www.wikidata.org/entity/Q2299826>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7807_31;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7807_31 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7807_27 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2002-05-16"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7242735>.
+<http://vocab.getty.edu/tgn/7242735> a <http://purl.org/dc/terms/Location>.
+_:df_7807_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1923-08-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026552>.
+<http://vocab.getty.edu/tgn/1026552> a <http://purl.org/dc/terms/Location>.
+_:df_7807_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00055"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7807_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000294/2022-02-25T17:18:53.602Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+der+m.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+der+m.ttl>.

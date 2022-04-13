@@ -1,0 +1,89 @@
+<https://stad.gent/id/agent/670000035/2022-02-26T05:25:08.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:25:08.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5107_20, _:df_5107_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Threse";
+    <http://xmlns.com/foaf/0.1/familyName> "Amelot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Amelot, Threse";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5107_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0018"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5107_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000035/2022-02-26T05:25:08.543Z>.
+<https://stad.gent/id/agent/570028268/2022-02-26T04:17:54.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:17:54.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5452_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "American Bolex Company";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5452_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028268/2022-02-26T04:17:54.376Z>.
+<https://stad.gent/id/agent/570025163/2022-02-26T04:05:13.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:05:13.892Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5530_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5530_35;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5530_36;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "American Type Founders Inc.";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2843050>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5530_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1993"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5530_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1892"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5530_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025163/2022-02-26T04:05:13.892Z>.
+<https://stad.gent/id/agent/530024302/2022-02-25T23:49:56.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024302>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:49:56.221Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5842_6, _:df_5842_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "American Standard";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5842_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5842_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_5842_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03231"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5842_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024302"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024302/2022-02-25T23:49:56.221Z>.
+<https://stad.gent/id/agent/530016874/2022-02-25T20:22:45.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:22:45.773Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6766_6, _:df_6766_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "American Kitchen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6766_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01739"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6766_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016874/2022-02-25T20:22:45.773Z>.
+<https://stad.gent/id/agent/530016667/2022-02-25T20:11:16.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:11:16.287Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6829_25, _:df_6829_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Victorine";
+    <http://xmlns.com/foaf/0.1/familyName> "Ameye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ameye, Victorine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6829_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6829_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6829_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01636"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6829_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016667/2022-02-25T20:11:16.287Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ame.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ame.ttl>.

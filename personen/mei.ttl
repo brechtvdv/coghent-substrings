@@ -1,0 +1,177 @@
+<https://stad.gent/id/agent/570028246/2022-03-30T04:26:42.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:26:42.049Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2491_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meiresonne";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2491_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028246/2022-03-30T04:26:42.049Z>.
+<https://stad.gent/id/agent/530024344/2022-03-30T00:00:24.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T00:00:24.168Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2866_2, _:df_2866_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2866_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Christien";
+    <http://xmlns.com/foaf/0.1/familyName> "Meindertsma";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meindertsma, Christien";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12270277>, <https://rkd.nl/nl/explore/artists308890>, <http://vocab.getty.edu/ulan/500471078undefined>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2866_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2866_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_2866_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1980"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006926>.
+<http://vocab.getty.edu/tgn/7006926> a <http://purl.org/dc/terms/Location>.
+_:df_2866_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03394"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2866_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024344/2022-03-30T00:00:24.168Z>.
+<https://stad.gent/id/agent/670003518/2022-02-26T10:06:39.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:06:39.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_2, _:df_3094_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "meisjesschoolhumaniora Nieuwen Bosch";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "meisjesschoolhumaniora Nieuwen Bosch";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3094_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0169"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3094_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003518/2022-02-26T10:06:39.766Z>.
+<https://stad.gent/id/agent/670003519/2022-02-26T10:06:44.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:06:44.768Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_6, _:df_3094_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "meisjesweeshuis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "meisjesweeshuis";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3094_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0170"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3094_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003519/2022-02-26T10:06:44.768Z>.
+<https://stad.gent/id/agent/570028246/2022-02-26T04:16:34.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:16:34.065Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5458_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meiresonne";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5458_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028246/2022-02-26T04:16:34.065Z>.
+<https://stad.gent/id/agent/530024344/2022-02-25T23:51:51.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:51:51.940Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5833_24, _:df_5833_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5833_28;
+    <http://xmlns.com/foaf/0.1/givenName> "Christien";
+    <http://xmlns.com/foaf/0.1/familyName> "Meindertsma";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meindertsma, Christien";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12270277>, <https://rkd.nl/nl/explore/artists308890>, <http://vocab.getty.edu/ulan/500471078undefined>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5833_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5833_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_5833_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1980"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006926>.
+<http://vocab.getty.edu/tgn/7006926> a <http://purl.org/dc/terms/Location>.
+_:df_5833_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03394"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5833_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024344/2022-02-25T23:51:51.940Z>.
+<https://stad.gent/id/agent/530019841/2022-02-25T21:05:19.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:05:19.209Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6667_40, _:df_6667_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean";
+    <http://xmlns.com/foaf/0.1/familyName> "Meirlaen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meirlaen, Jean";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6667_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03330"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6667_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019841/2022-02-25T21:05:19.209Z>.
+<https://stad.gent/id/agent/530001700/2022-02-25T18:48:51.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:48:51.520Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7222_22, _:df_7222_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7222_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Richard";
+    <http://xmlns.com/foaf/0.1/familyName> "Meier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meier, Richard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500031375>, <https://www.wikidata.org/entity/Q159612>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7222_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7222_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_7222_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1934-10-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014218>.
+<http://vocab.getty.edu/tgn/7014218> a <http://purl.org/dc/terms/Location>.
+_:df_7222_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01029"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7222_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001700/2022-02-25T18:48:51.520Z>.
+<https://stad.gent/id/agent/530001203/2022-02-25T18:19:34.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:19:34.404Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7432_35, _:df_7432_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7432_39;
+    <http://xmlns.com/foaf/0.1/givenName> "Richard";
+    <http://xmlns.com/foaf/0.1/familyName> "Meitner";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meitner, Richard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500091986>, <https://www.wikidata.org/entity/Q22236132>, <https://rkd.nl/nl/explore/artists/55056>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7432_43;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7432_43 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_7432_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1949-01-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014406>.
+<http://vocab.getty.edu/tgn/7014406> a <http://purl.org/dc/terms/Location>.
+_:df_7432_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00681"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7432_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001203/2022-02-25T18:19:34.404Z>.
+<https://stad.gent/id/agent/530000535/2022-02-25T17:36:05.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:36:05.987Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7741_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7741_4;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meissen Porzellanmanufaktur";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500054662>, <https://www.wikidata.org/entity/Q822407>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530020858>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530020858> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Porzellan-Manufaktur Meissen"@nl.
+_:df_7741_4 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1710"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012844>.
+<http://vocab.getty.edu/tgn/7012844> a <http://purl.org/dc/terms/Location>.
+_:df_7741_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000535/2022-02-25T17:36:05.987Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/mei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/mei.ttl>.

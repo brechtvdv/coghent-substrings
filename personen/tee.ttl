@@ -1,0 +1,65 @@
+<https://stad.gent/id/agent/530023328/2022-03-23T00:01:14.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:01:14.665Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2875_13, _:df_2875_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2875_17;
+    <http://xmlns.com/foaf/0.1/givenName> "Jenny";
+    <http://xmlns.com/foaf/0.1/familyName> "Teeuwen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Teeuwen, Jenny";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/363846>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2875_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2875_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2875_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_2875_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02844"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2875_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023328/2022-03-23T00:01:14.665Z>.
+<https://stad.gent/id/agent/670002348/2022-02-26T08:38:17.369Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:38:17.369Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3727_24, _:df_3727_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Teeuws";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Teeuws, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3727_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2331"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3727_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002348/2022-02-26T08:38:17.369Z>.
+<https://stad.gent/id/agent/530023328/2022-02-25T22:55:26.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:55:26.558Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6058_14, _:df_6058_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6058_18;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Teeuwen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Teeuwen, J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/363846>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6058_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6058_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6058_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_6058_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02844"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6058_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023328/2022-02-25T22:55:26.558Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tee.ttl>.

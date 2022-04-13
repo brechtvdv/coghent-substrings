@@ -1,0 +1,329 @@
+<https://stad.gent/id/agent/570029404/2022-03-30T04:52:32.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:52:32.360Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2338_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tuberies Louis Julien SA";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2338_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029404/2022-03-30T04:52:32.360Z>.
+<https://stad.gent/id/agent/570028386/2022-03-30T04:31:14.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:31:14.181Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2464_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Turmix";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2464_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028386/2022-03-30T04:31:14.181Z>.
+<https://stad.gent/id/agent/570019841/2022-03-30T03:52:26.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:52:26.569Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2719_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tungsram";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q689510>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2719_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019841/2022-03-30T03:52:26.569Z>.
+<https://stad.gent/id/agent/530000582/2022-03-08T00:00:10.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:00:10.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2998_20, _:df_2998_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2998_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Oscar";
+    <http://xmlns.com/foaf/0.1/familyName> "Tusquets Blanca";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tusquets Blanca, Oscar";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1401071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2998_28;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2998_28 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_2998_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941-06-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007426>.
+<http://vocab.getty.edu/tgn/7007426> a <http://purl.org/dc/terms/Location>.
+_:df_2998_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00200"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2998_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000582/2022-03-08T00:00:10.359Z>.
+<https://stad.gent/id/agent/670002399/2022-02-26T08:42:34.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:34.706Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3694_2, _:df_3694_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Tuytschaever";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tuytschaever, Pieter Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3694_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2382"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3694_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002399/2022-02-26T08:42:34.706Z>.
+<https://stad.gent/id/agent/670002400/2022-02-26T08:42:39.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:39.708Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3694_7, _:df_3694_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Tuytschaever";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tuytschaever, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3694_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2383"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3694_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002400"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002400/2022-02-26T08:42:39.708Z>.
+<https://stad.gent/id/agent/670002395/2022-02-26T08:42:14.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:14.363Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_7, _:df_3697_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Francoise";
+    <http://xmlns.com/foaf/0.1/familyName> "Tuckschap";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tuckschap, Marie Francoise";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3697_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2378"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3697_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002395/2022-02-26T08:42:14.363Z>.
+<https://stad.gent/id/agent/670002396/2022-02-26T08:42:19.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:19.364Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_12, _:df_3697_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Tucschaep";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tucschaep, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3697_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2379"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3697_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002396"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002396/2022-02-26T08:42:19.364Z>.
+<https://stad.gent/id/agent/670002397/2022-02-26T08:42:24.367Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:24.367Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_20, _:df_3697_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Maldegem Pieter Tucschaep";
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Tucschaep";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tucschaep, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3697_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2380"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3697_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002397/2022-02-26T08:42:24.367Z>.
+<https://stad.gent/id/agent/670002398/2022-02-26T08:42:29.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:29.704Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_29, _:df_3697_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.J.B.";
+    <http://xmlns.com/foaf/0.1/familyName> "Turpyn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Turpyn, P.J.B.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3697_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2381"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3697_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002398/2022-02-26T08:42:29.704Z>.
+<https://stad.gent/id/agent/570029404/2022-02-26T04:42:26.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:42:26.524Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5302_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tuberies Louis Julien SA";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5302_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029404/2022-02-26T04:42:26.524Z>.
+<https://stad.gent/id/agent/570028386/2022-02-26T04:21:05.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:21:05.709Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5431_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Turmix";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5431_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028386/2022-02-26T04:21:05.709Z>.
+<https://stad.gent/id/agent/570019841/2022-02-26T03:42:13.489Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:42:13.489Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5686_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tungsram";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q689510>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5686_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019841/2022-02-26T03:42:13.489Z>.
+<https://stad.gent/id/agent/530021675/2022-02-25T22:06:41.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:06:41.215Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6337_9, _:df_6337_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6337_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6337_14;
+    <http://xmlns.com/foaf/0.1/givenName> "Witold";
+    <http://xmlns.com/foaf/0.1/familyName> "Turkiewizc";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Turkiewizc, Witold";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q9375866>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6337_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6337_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Pools"@nl.
+_:df_6337_14 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1993-04-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6337_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926-02-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q955992>.
+<https://www.wikidata.org/entity/q955992> a <http://purl.org/dc/terms/Location>.
+_:df_6337_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02391"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6337_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021675/2022-02-25T22:06:41.215Z>.
+<https://stad.gent/id/agent/530020002/2022-02-25T21:10:47.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:10:47.597Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6646_15, _:df_6646_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "L.";
+    <http://xmlns.com/foaf/0.1/familyName> "Turgis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Turgis, L.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6646_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01892"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6646_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020002/2022-02-25T21:10:47.597Z>.
+<https://stad.gent/id/agent/530016539/2022-02-25T20:03:47.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:03:47.959Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6871_34, _:df_6871_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6871_38;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tupperware";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500330449>, <https://www.wikidata.org/entity/Q1129117>, <https://www.wikidata.org/entity/Q16985829>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6871_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1939"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014304>.
+<http://vocab.getty.edu/tgn/7014304> a <http://purl.org/dc/terms/Location>.
+_:df_6871_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01566"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6871_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016539/2022-02-25T20:03:47.959Z>.
+<https://stad.gent/id/agent/530001923/2022-02-25T19:02:37.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:02:37.207Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7123_2, _:df_7123_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tulipe n.v.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7123_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01193"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7123_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001923/2022-02-25T19:02:37.207Z>.
+<https://stad.gent/id/agent/530001539/2022-02-25T18:39:02.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:39:02.512Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7291_2, _:df_7291_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7291_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Maurizio";
+    <http://xmlns.com/foaf/0.1/familyName> "Turchet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Turchet, Maurizio";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7291_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7291_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7291_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_7291_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00912"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7291_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001539/2022-02-25T18:39:02.512Z>.
+<https://stad.gent/id/agent/530001491/2022-02-25T18:35:51.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:35:51.159Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7315_20, _:df_7315_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7315_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tubax";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530000514>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530000514> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Tubax N.V."@nl.
+_:df_7315_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008817>.
+<http://vocab.getty.edu/tgn/7008817> a <http://purl.org/dc/terms/Location>.
+_:df_7315_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00874"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7315_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001491/2022-02-25T18:35:51.159Z>.
+<https://stad.gent/id/agent/530000582/2022-02-25T17:39:12.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:39:12.060Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7720_16, _:df_7720_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7720_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Oscar";
+    <http://xmlns.com/foaf/0.1/familyName> "Tusquet Blanca";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tusquet Blanca, Oscar";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1401071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7720_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7720_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_7720_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941-06-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007426>.
+<http://vocab.getty.edu/tgn/7007426> a <http://purl.org/dc/terms/Location>.
+_:df_7720_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00200"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7720_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000582/2022-02-25T17:39:12.060Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tu.ttl> <https://w3id.org/tree#relation> _:df_1_2131.
+_:df_1_2131 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/tub.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "tub".
+<https://brechtvdv.github.io/coghent-substrings/personen/tu.ttl> <https://w3id.org/tree#relation> _:df_1_2132.
+_:df_1_2132 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/tun.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "tun".
+<https://brechtvdv.github.io/coghent-substrings/personen/tu.ttl> <https://w3id.org/tree#relation> _:df_1_2133.
+_:df_1_2133 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/tup.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "tup".
+<https://brechtvdv.github.io/coghent-substrings/personen/tu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tu.ttl>.

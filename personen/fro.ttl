@@ -1,0 +1,34 @@
+<https://stad.gent/id/agent/530020100/2022-02-25T21:18:05.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:18:05.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6604_10, _:df_6604_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6604_14;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Frost Produkt AS";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6604_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009573>.
+<http://vocab.getty.edu/tgn/7009573> a <http://purl.org/dc/terms/Location>.
+_:df_6604_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01961"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6604_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020100/2022-02-25T21:18:05.792Z>.
+<https://stad.gent/id/agent/530020016/2022-02-25T21:11:43.321Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:11:43.321Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6643_8, _:df_6643_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6643_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Front Design";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6643_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009861>.
+<http://vocab.getty.edu/tgn/7009861> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6643_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01896"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6643_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020016/2022-02-25T21:11:43.321Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/fro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/fro.ttl>.

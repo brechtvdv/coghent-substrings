@@ -1,0 +1,87 @@
+<https://stad.gent/id/agent/670000673/2022-03-30T06:28:55.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T06:28:55.662Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_25, _:df_1759_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Goesin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Goesin, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1759_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0656"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1759_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000673/2022-03-30T06:28:55.662Z>.
+<https://stad.gent/id/agent/530001727/2022-03-08T00:00:40.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:00:40.370Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_28, _:df_2995_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2995_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "de Goesin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Goesin, Pierre (weduwe)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2995_32 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1771"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_2995_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01046"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2995_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001727/2022-03-08T00:00:40.370Z>.
+<https://stad.gent/id/agent/670000673/2022-02-26T06:18:34.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:18:34.856Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4723_2, _:df_4723_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Goesin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Goesin, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4723_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0656"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4723_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000673/2022-02-26T06:18:34.856Z>.
+<https://stad.gent/id/agent/670000672/2022-02-26T06:18:29.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:18:29.856Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4726_21, _:df_4726_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Petrus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Goesin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Goesin, Petrus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4726_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0655"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4726_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000672/2022-02-26T06:18:29.856Z>.
+<https://stad.gent/id/agent/530001727/2022-02-25T18:50:17.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:50:17.198Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7213_39, _:df_7213_41;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7213_43;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "de Goesin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Goesin, Pierre (weduwe)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7213_43 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1771"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_7213_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01046"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7213_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001727/2022-02-25T18:50:17.198Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+go.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+go.ttl>.

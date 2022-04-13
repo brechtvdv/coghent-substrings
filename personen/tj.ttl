@@ -1,0 +1,26 @@
+<https://stad.gent/id/agent/530020678/2022-02-25T21:33:32.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:33:32.816Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6523_36, _:df_6523_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6523_40;
+    <http://xmlns.com/foaf/0.1/givenName> "Frank";
+    <http://xmlns.com/foaf/0.1/familyName> "Tjepkema";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tjepkema, Frank";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/295893>, <https://www.wikidata.org/entity/Q20177296>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6523_47;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6523_47 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6523_40 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1970-10-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007279>.
+<http://vocab.getty.edu/tgn/7007279> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6523_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02091"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6523_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020678/2022-02-25T21:33:32.816Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tj.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tj.ttl>.

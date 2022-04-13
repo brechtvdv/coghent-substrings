@@ -1,0 +1,47 @@
+<https://stad.gent/id/agent/670002930/2022-02-26T09:26:42.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:26:42.834Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_2, _:df_3379_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptista";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Laenen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Laenen, Jan Baptista";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3379_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2913"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3379_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002930/2022-02-26T09:26:42.834Z>.
+<https://stad.gent/id/agent/670002931/2022-02-26T09:26:47.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:26:47.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_7, _:df_3379_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Larebeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Larebeke, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3379_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2914"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3379_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002931/2022-02-26T09:26:47.836Z>.
+<https://stad.gent/id/agent/670002932/2022-02-26T09:26:52.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:26:52.837Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_12, _:df_3379_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Anne";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Linden";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Linden, Marie Anne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3379_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2915"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3379_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002932/2022-02-26T09:26:52.837Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vander+l.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vander+l.ttl>.

@@ -1,0 +1,47 @@
+<https://stad.gent/id/agent/670002845/2022-02-26T09:19:40.266Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:19:40.266Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3430_11, _:df_3430_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Velde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Velde, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3430_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2828"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3430_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002845/2022-02-26T09:19:40.266Z>.
+<https://stad.gent/id/agent/670002846/2022-02-26T09:19:45.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:19:45.267Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3430_16, _:df_3430_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Velde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Velde, Guillaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3430_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2829"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3430_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002846/2022-02-26T09:19:45.267Z>.
+<https://stad.gent/id/agent/670002847/2022-02-26T09:19:50.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:19:50.268Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3430_21, _:df_3430_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Arnoldus";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Velde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Velde, Arnoldus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3430_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2830"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3430_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002847/2022-02-26T09:19:50.268Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vande+ve.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vande+ve.ttl>.

@@ -1,0 +1,307 @@
+<https://stad.gent/id/agent/570031661/2022-03-30T05:11:34.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:11:34.402Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2215_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minolta Camera Co. Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2215_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031661/2022-03-30T05:11:34.402Z>.
+<https://stad.gent/id/agent/570022538/2022-03-30T04:05:47.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:05:47.770Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2629_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ministerie van Economische Zaken. Dienst voor Energiebehoud";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2629_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022538/2022-03-30T04:05:47.770Z>.
+<https://stad.gent/id/agent/670003593/2022-02-26T10:12:57.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:12:57.368Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3049_2, _:df_3049_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3049_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3049_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Georges";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Georges";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q559281>, <https://id.erfgoed.net/personen/6188>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3049_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941-02-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://id.erfgoed.net/themas/14240>.
+<https://id.erfgoed.net/themas/14240> a <http://purl.org/dc/terms/Location>.
+_:df_3049_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1866-08-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q1296>.
+<https://www.wikidata.org/entity/q1296> a <http://purl.org/dc/terms/Location>.
+_:df_3049_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0245"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3049_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003593/2022-02-26T10:12:57.368Z>.
+<https://stad.gent/id/agent/670003521/2022-02-26T10:06:54.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003521>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:06:54.772Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_15, _:df_3094_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "ministerie van Arbeid en Sociale Voorzorg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "ministerie van Arbeid en Sociale Voorzorg";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3094_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0172"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3094_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003521"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003521/2022-02-26T10:06:54.772Z>.
+<https://stad.gent/id/agent/670003409/2022-02-26T09:57:35.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003409>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:57:35.360Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_12, _:df_3160_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3160_15;
+    <http://xmlns.com/foaf/0.1/familyName> "Minardschouwburg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minardschouwburg";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2003846>, <https://id.erfgoed.net/erfgoedobjecten/21325>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3160_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1994-10-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3160_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0060"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3160_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003409"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003409/2022-02-26T09:57:35.360Z>.
+<https://stad.gent/id/agent/670001835/2022-02-26T07:55:31.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:31.119Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_2, _:df_4030_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4030_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1818"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4030_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001835/2022-02-26T07:55:31.119Z>.
+<https://stad.gent/id/agent/670001830/2022-02-26T07:55:05.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:05.780Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_2, _:df_4033_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joos";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Joos";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4033_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1813"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4033_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001830/2022-02-26T07:55:05.780Z>.
+<https://stad.gent/id/agent/670001831/2022-02-26T07:55:10.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:10.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_7, _:df_4033_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4033_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1814"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4033_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001831/2022-02-26T07:55:10.782Z>.
+<https://stad.gent/id/agent/670001832/2022-02-26T07:55:15.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:15.784Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_17, _:df_4033_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4033_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1815"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4033_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001832/2022-02-26T07:55:15.784Z>.
+<https://stad.gent/id/agent/670001833/2022-02-26T07:55:20.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:20.787Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_22, _:df_4033_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Geeraert";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Geeraert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4033_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1816"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4033_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001833/2022-02-26T07:55:20.787Z>.
+<https://stad.gent/id/agent/670001834/2022-02-26T07:55:26.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:55:26.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_27, _:df_4033_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bavo";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Bavo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4033_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1817"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4033_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001834/2022-02-26T07:55:26.112Z>.
+<https://stad.gent/id/agent/570031661/2022-02-26T05:01:28.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:01:28.678Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5182_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minolta Camera Co. Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5182_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031661/2022-02-26T05:01:28.678Z>.
+<https://stad.gent/id/agent/570022538/2022-02-26T03:55:33.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:55:33.995Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5596_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ministerie van Economische Zaken. Dienst voor Energiebehoud";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5596_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022538/2022-02-26T03:55:33.995Z>.
+<https://stad.gent/id/agent/530019986/2022-02-25T21:09:37.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:09:37.245Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6652_15, _:df_6652_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mini & DesignSeptember";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6652_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01883"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6652_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019986/2022-02-25T21:09:37.245Z>.
+<https://stad.gent/id/agent/530007858/2022-02-25T19:08:09.327Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530007858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:08:09.327Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7108_19, _:df_7108_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Hubert";
+    <http://xmlns.com/foaf/0.1/familyName> "Minnebo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minnebo, Hubert";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1973902>, <https://rkd.nl/explore/artists/56313>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7108_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03334"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7108_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530007858/2022-02-25T19:08:09.327Z>.
+<https://stad.gent/id/agent/530002778/2022-02-25T19:04:07.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530002778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:04:07.918Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7117_7, _:df_7117_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7117_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minerva";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7117_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7117_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01204"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7117_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530002778/2022-02-25T19:04:07.918Z>.
+<https://stad.gent/id/agent/530001765/2022-02-25T18:52:28.155Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001765>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:52:28.155Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7195_2, _:df_7195_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7195_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7195_8;
+    <http://xmlns.com/foaf/0.1/givenName> "George";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, George";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500029293>, <https://www.wikidata.org/entity/Q559281>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7195_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7195_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7195_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941-02-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7253069>.
+<http://vocab.getty.edu/tgn/7253069> a <http://purl.org/dc/terms/Location>.
+_:df_7195_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1866-08-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_7195_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01072"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7195_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001765"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001765/2022-02-25T18:52:28.155Z>.
+<https://stad.gent/id/agent/530000778/2022-02-25T17:52:48.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:52:48.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7624_38, _:df_7624_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7624_42;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mintons";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6869688>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7624_42 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1793"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011049>.
+<http://vocab.getty.edu/tgn/7011049> a <http://purl.org/dc/terms/Location>.
+_:df_7624_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00362"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7624_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000778/2022-02-25T17:52:48.023Z>.
+<https://stad.gent/id/agent/530000230/2022-02-25T17:14:26.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000230>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:14:26.795Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7819_9, _:df_7819_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7819_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7819_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Joris";
+    <http://xmlns.com/foaf/0.1/familyName> "Minne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Minne, Joris";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500081123>, <https://www.wikidata.org/entity/Q2524332>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7819_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7819_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7819_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1988-03-31"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_7819_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1987-05-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7250954>.
+<http://vocab.getty.edu/tgn/7250954> a <http://purl.org/dc/terms/Location>.
+_:df_7819_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00034"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7819_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000230"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000230/2022-02-25T17:14:26.795Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/min.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/min.ttl>.

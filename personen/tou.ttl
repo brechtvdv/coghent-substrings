@@ -1,0 +1,28 @@
+<https://stad.gent/id/agent/530023280/2022-02-25T22:51:35.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:51:35.267Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6085_2, _:df_6085_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "F.";
+    <http://xmlns.com/foaf/0.1/familyName> "Toussaint";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Toussaint, F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6085_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02798"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6085_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023280/2022-02-25T22:51:35.267Z>.
+<https://stad.gent/id/agent/530020850/2022-02-25T21:42:36.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:42:36.323Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6478_29, _:df_6478_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tous Les Trois";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6478_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02166"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6478_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020850/2022-02-25T21:42:36.323Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tou.ttl>.

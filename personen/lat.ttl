@@ -1,0 +1,71 @@
+<https://stad.gent/id/agent/530024447/2022-03-30T00:05:05.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T00:05:05.818Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2848_34, _:df_2848_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Caroline";
+    <http://xmlns.com/foaf/0.1/familyName> "Lateur";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lateur, Caroline";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2848_39;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2848_39 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2848_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03261"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2848_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024447/2022-03-30T00:05:05.818Z>.
+<https://stad.gent/id/agent/670001636/2022-02-26T07:38:54.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:38:54.153Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4150_11, _:df_4150_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Latu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Latu, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4150_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1619"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4150_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001636/2022-02-26T07:38:54.153Z>.
+<https://stad.gent/id/agent/530024447/2022-02-25T23:56:34.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:56:34.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5812_23, _:df_5812_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Caroline";
+    <http://xmlns.com/foaf/0.1/familyName> "Lateur";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lateur, Caroline";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5812_28;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5812_28 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5812_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03261"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5812_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024447/2022-02-25T23:56:34.026Z>.
+<https://stad.gent/id/agent/530022060/2022-02-25T22:22:42.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:22:42.951Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6238_27, _:df_6238_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pirkko";
+    <http://xmlns.com/foaf/0.1/familyName> "Latvateikari-Valkama";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Latvateikari-Valkama, Pirkko";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6238_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6238_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_6238_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02558"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6238_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022060/2022-02-25T22:22:42.951Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lat.ttl>.

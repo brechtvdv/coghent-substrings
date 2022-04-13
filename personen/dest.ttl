@@ -1,0 +1,51 @@
+<https://stad.gent/id/agent/530022112/2022-02-25T22:23:33.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:23:33.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6232_18, _:df_6232_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6232_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6232_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Georges";
+    <http://xmlns.com/foaf/0.1/familyName> "Destrebecq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Destrebecq, Georges";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6232_22 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1984"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6232_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6232_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02567"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6232_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022112/2022-02-25T22:23:33.352Z>.
+<https://stad.gent/id/agent/530020511/2022-02-25T21:23:13.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:23:13.417Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6583_17, _:df_6583_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6583_21;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "DESTA";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6583_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+<http://vocab.getty.edu/tgn/7003712> a <http://purl.org/dc/terms/Location>.
+_:df_6583_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01989"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6583_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020511/2022-02-25T21:23:13.417Z>.
+<https://stad.gent/id/agent/530013764/2022-02-25T19:51:58.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:51:58.186Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6916_10, _:df_6916_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "deSter";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6916_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01512"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6916_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013764/2022-02-25T19:51:58.186Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dest.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dest.ttl>.

@@ -1,0 +1,26 @@
+<https://stad.gent/id/agent/530023528/2022-02-25T23:08:27.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:08:27.541Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5989_15, _:df_5989_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5989_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5989_19;
+    <http://xmlns.com/foaf/0.1/givenName> "Jeanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Tixhon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tixhon, Jeanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5989_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5989_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5989_19 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5989_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1875"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5989_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02959"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5989_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023528/2022-02-25T23:08:27.541Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tix.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tix.ttl>.

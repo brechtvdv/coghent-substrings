@@ -1,0 +1,43 @@
+<https://stad.gent/id/agent/530020658/2022-02-25T21:32:12.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:32:12.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6529_2, _:df_6529_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Het ontwerpersduo Arnold van Geuns en Clemens Rameckers begon na hun studie aan de Academie voor de Kunsten in Arnhem in de jaren tachtig met het ontwerpen van couture collecties en opvallende kledinglijnen voor bedrijven. Zij versmolten hun familienamen tot de merknaam 'Ravage'";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6529_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "RAVAGE";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6529_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6529_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6529_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006876>.
+<http://vocab.getty.edu/tgn/7006876> a <http://purl.org/dc/terms/Location>.
+_:df_6529_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02077"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6529_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020658/2022-02-25T21:32:12.148Z>.
+<https://stad.gent/id/agent/530001523/2022-02-25T18:37:51.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:37:51.845Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7300_14, _:df_7300_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7300_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Giorgio";
+    <http://xmlns.com/foaf/0.1/familyName> "Rava";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rava, Giorgio";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7300_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005652>.
+<http://vocab.getty.edu/tgn/7005652> a <http://purl.org/dc/terms/Location>.
+_:df_7300_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00898"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7300_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001523/2022-02-25T18:37:51.845Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/rav.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/rav.ttl>.

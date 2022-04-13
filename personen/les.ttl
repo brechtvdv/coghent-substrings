@@ -1,0 +1,196 @@
+<https://stad.gent/id/agent/570030414/2022-03-30T05:00:40.470Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:00:40.470Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2284_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Fonderies et Poêleries Nationales (Fopona)";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570018663>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570018663> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fopona"@nl.
+_:df_2284_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030414/2022-03-30T05:00:40.470Z>.
+<https://stad.gent/id/agent/570021353/2022-03-30T04:02:26.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:02:26.420Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2653_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Industries du Maïs nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2653_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021353/2022-03-30T04:02:26.420Z>.
+<https://stad.gent/id/agent/570013914/2022-03-30T03:37:06.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570013914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:37:06.481Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2818_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Fonderies Bruxelloises (Fobrux)";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570018654>, <https://stad.gent/id/concept/570018619>, <https://stad.gent/id/concept/570018627>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570018627> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "LFB"@nl.
+<https://stad.gent/id/concept/570018619> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fonderies Bruxelloises"@nl.
+<https://stad.gent/id/concept/570018654> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fobrux"@nl.
+_:df_2818_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013914"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570013914/2022-03-30T03:37:06.481Z>.
+<https://stad.gent/id/agent/670001685/2022-02-26T07:42:55.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:42:55.655Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4120_2, _:df_4120_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guilliaeme";
+    <http://xmlns.com/foaf/0.1/familyName> "Lesseliers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lesseliers, Guilliaeme";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4120_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1668"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4120_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001685"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001685/2022-02-26T07:42:55.655Z>.
+<https://stad.gent/id/agent/670001686/2022-02-26T07:43:00.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001686>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:43:00.656Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4120_7, _:df_4120_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charel";
+    <http://xmlns.com/foaf/0.1/familyName> "Lesseliers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lesseliers, Charel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4120_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1669"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4120_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001686"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001686/2022-02-26T07:43:00.656Z>.
+<https://stad.gent/id/agent/570030414/2022-02-26T04:50:34.482Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:50:34.482Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5251_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Fonderies et Poêleries Nationales (Fopona)";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570018663>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570018663> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fopona"@nl.
+_:df_5251_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030414/2022-02-26T04:50:34.482Z>.
+<https://stad.gent/id/agent/570021353/2022-02-26T03:52:12.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:52:12.719Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5620_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Industries du Maïs nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5620_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021353/2022-02-26T03:52:12.719Z>.
+<https://stad.gent/id/agent/570013914/2022-02-26T03:26:57.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570013914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:26:57.442Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5785_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Fonderies Bruxelloises (Fobrux)";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570018654>, <https://stad.gent/id/concept/570018619>, <https://stad.gent/id/concept/570018627>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570018627> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "LFB"@nl.
+<https://stad.gent/id/concept/570018619> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fonderies Bruxelloises"@nl.
+<https://stad.gent/id/concept/570018654> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fobrux"@nl.
+_:df_5785_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013914"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570013914/2022-02-26T03:26:57.442Z>.
+<https://stad.gent/id/agent/530022803/2022-02-25T22:31:26.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:31:26.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6193_6, _:df_6193_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les tissus d'aujourd'hui";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6193_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02619"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6193_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022803/2022-02-25T22:31:26.893Z>.
+<https://stad.gent/id/agent/530022113/2022-02-25T22:23:38.354Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:23:38.354Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6232_25, _:df_6232_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6232_29;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6232_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Maîtrises de Nimy";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6232_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1950"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6232_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026639>.
+<http://vocab.getty.edu/tgn/1026639> a <http://purl.org/dc/terms/Location>.
+_:df_6232_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02568"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6232_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022113/2022-02-25T22:23:38.354Z>.
+<https://stad.gent/id/agent/530020079/2022-02-25T21:16:25.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:16:25.149Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6610_2, _:df_6610_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6610_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Frères Bouroullec";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500267459>, <https://www.wikidata.org/entity/Q1541219>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6610_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1998"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_6610_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01949"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6610_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020079/2022-02-25T21:16:25.149Z>.
+<https://stad.gent/id/agent/530020050/2022-02-25T21:14:19.371Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:14:19.371Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6625_17, _:df_6625_19;
+    <http://www.w3.org/2004/02/skos/core#note> "Zuster Maricole sinds 1950";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6625_20;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6625_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Lutgarde";
+    <http://xmlns.com/foaf/0.1/familyName> "Lescouhier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lescouhier, Lutgarde";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6625_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6625_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6625_22 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2008"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007867>.
+<http://vocab.getty.edu/tgn/7007867> a <http://purl.org/dc/terms/Location>.
+_:df_6625_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1922"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6625_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01927"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6625_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020050/2022-02-25T21:14:19.371Z>.
+<https://stad.gent/id/agent/530016834/2022-02-25T20:20:04.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:20:04.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6784_8, _:df_6784_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6784_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Les Plastiques de Bourgogne";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6784_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1968"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6784_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01709"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6784_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016834/2022-02-25T20:20:04.658Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/les.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/les.ttl>.

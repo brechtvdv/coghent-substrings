@@ -1,0 +1,136 @@
+<https://stad.gent/id/agent/670003414/2022-02-26T09:58:00.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:58:00.997Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3157_13, _:df_3157_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Royal Casino";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Casino";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/18198>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3157_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0065"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3157_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003414/2022-02-26T09:58:00.997Z>.
+<https://stad.gent/id/agent/530024296/2022-02-25T23:49:25.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:49:25.818Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5845_19;
+    <http://www.w3.org/2004/02/skos/core#note> "De Manufacture Royale La Louvière Boch, afgekort de M.R.L. Boch, die de productie van tafelserviezen overneemt van Boch Frères, gaat in 1988 bankroet. De groep Le Hodey neemt het bedrijf in 1989 over onder de naam Royal Boch Manufacture S.A.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Boch";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5845_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5845_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5845_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024296/2022-02-25T23:49:25.818Z>.
+<https://stad.gent/id/agent/530023630/2022-02-25T23:15:20.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:15:20.740Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5962_26, _:df_5962_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5962_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Copenhagen";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500336600>, <https://www.wikidata.org/entity/Q1440151>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5962_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1775-05-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003476>.
+<http://vocab.getty.edu/tgn/7003476> a <http://purl.org/dc/terms/Location>.
+_:df_5962_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03005"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5962_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023630/2022-02-25T23:15:20.740Z>.
+<https://stad.gent/id/agent/530023200/2022-02-25T22:45:37.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:45:37.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6127_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Sphinx Maastricht";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530017685>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530017685> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Koninklijke Sphinx"@nl.
+_:df_6127_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023200/2022-02-25T22:45:37.653Z>.
+<https://stad.gent/id/agent/530021586/2022-02-25T22:00:23.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:00:23.763Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6382_21, _:df_6382_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Crystal";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6382_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02317"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6382_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021586/2022-02-25T22:00:23.763Z>.
+<https://stad.gent/id/agent/530020879/2022-02-25T21:43:57.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020879>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:43:57.010Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6469_17, _:df_6469_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6469_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Brierley Crystal";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q7373842>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6469_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1776"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6469_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02179"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6469_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020879"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020879/2022-02-25T21:43:57.010Z>.
+<https://stad.gent/id/agent/530015048/2022-02-25T19:56:54.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:56:54.798Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6898_32, _:df_6898_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean";
+    <http://xmlns.com/foaf/0.1/familyName> "Royère";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royère, Jean";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3174473>, <https://rkd.nl/explore/artists/281372>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530015047>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530015047> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Jean Royère"@nl.
+_:df_6898_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03392"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6898_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015048"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015048/2022-02-25T19:56:54.798Z>.
+<https://stad.gent/id/agent/530011055/2022-02-25T19:12:41.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530011055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:12:41.607Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7096_2, _:df_7096_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Leerdam Crystal";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2663996>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7096_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01213"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7096_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530011055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530011055/2022-02-25T19:12:41.607Z>.
+<https://stad.gent/id/agent/530001315/2022-02-25T18:26:02.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:26:02.150Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7384_2, _:df_7384_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7384_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Staffordshire";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q17026370>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7384_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1894"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/4002012>.
+<http://vocab.getty.edu/tgn/4002012> a <http://purl.org/dc/terms/Location>.
+_:df_7384_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00758"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7384_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001315/2022-02-25T18:26:02.150Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/roy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/roy.ttl>.

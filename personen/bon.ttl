@@ -1,0 +1,311 @@
+<https://stad.gent/id/agent/670000212/2022-03-30T05:50:23.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:50:23.988Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2032_2, _:df_2032_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharine Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Bontinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bontinck, Catharine Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2032_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0195"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2032_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000212/2022-03-30T05:50:23.988Z>.
+<https://stad.gent/id/agent/670000207/2022-03-30T05:49:58.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:49:58.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_2, _:df_2035_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Olivier";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, Olivier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0190"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000207/2022-03-30T05:49:58.978Z>.
+<https://stad.gent/id/agent/670000208/2022-03-30T05:50:03.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:50:03.980Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_7, _:df_2035_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0191"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000208/2022-03-30T05:50:03.980Z>.
+<https://stad.gent/id/agent/670000209/2022-03-30T05:50:08.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:50:08.983Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_12, _:df_2035_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonte, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0192"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000209/2022-03-30T05:50:08.983Z>.
+<https://stad.gent/id/agent/670000210/2022-03-30T05:50:13.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:50:13.985Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_20, _:df_2035_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Isaac Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Bontinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bontinck, Isaac Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0193"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000210/2022-03-30T05:50:13.985Z>.
+<https://stad.gent/id/agent/670000211/2022-03-30T05:50:18.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:50:18.986Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_28, _:df_2035_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Bontinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bontinck, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0194"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000211/2022-03-30T05:50:18.986Z>.
+<https://stad.gent/id/agent/670000205/2022-03-30T05:49:48.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:49:48.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2038_17, _:df_2038_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anne";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, Anne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2038_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0188"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2038_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000205/2022-03-30T05:49:48.657Z>.
+<https://stad.gent/id/agent/670000206/2022-03-30T05:49:53.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:49:53.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2038_22, _:df_2038_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2038_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0189"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2038_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000206/2022-03-30T05:49:53.658Z>.
+<https://stad.gent/id/agent/570021065/2022-03-30T03:59:40.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:59:40.252Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonte Jules";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2671_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021065/2022-03-30T03:59:40.252Z>.
+<https://stad.gent/id/agent/670003615/2022-02-26T10:14:48.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:14:48.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3037_20, _:df_3037_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Henri";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonnel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonnel, Henri";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3037_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0267"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3037_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003615/2022-02-26T10:14:48.412Z>.
+<https://stad.gent/id/agent/670003214/2022-02-26T09:50:22.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:50:22.337Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3211_11, _:df_3211_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/NKN"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3211_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3189"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3211_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003214/2022-02-26T09:50:22.337Z>.
+<https://stad.gent/id/agent/670000212/2022-02-26T05:39:55.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:55.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4999_2, _:df_4999_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharine Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Bontinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bontinck, Catharine Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4999_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0195"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4999_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000212/2022-02-26T05:39:55.333Z>.
+<https://stad.gent/id/agent/670000207/2022-02-26T05:39:30.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:30.323Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5002_2, _:df_5002_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Olivier";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, Olivier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5002_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0190"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5002_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000207/2022-02-26T05:39:30.323Z>.
+<https://stad.gent/id/agent/670000208/2022-02-26T05:39:35.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:35.325Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5002_7, _:df_5002_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5002_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0191"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5002_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000208/2022-02-26T05:39:35.325Z>.
+<https://stad.gent/id/agent/670000209/2022-02-26T05:39:40.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:40.328Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5002_12, _:df_5002_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonte, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5002_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0192"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5002_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000209/2022-02-26T05:39:40.328Z>.
+<https://stad.gent/id/agent/670000210/2022-02-26T05:39:45.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:45.329Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5002_20, _:df_5002_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Isaac Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Bontinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bontinck, Isaac Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5002_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0193"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5002_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000210/2022-02-26T05:39:45.329Z>.
+<https://stad.gent/id/agent/670000211/2022-02-26T05:39:50.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:50.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5002_28, _:df_5002_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Bontinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bontinck, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5002_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0194"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5002_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000211/2022-02-26T05:39:50.332Z>.
+<https://stad.gent/id/agent/670000205/2022-02-26T05:39:19.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:19.937Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5005_17, _:df_5005_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anne";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, Anne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5005_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0188"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5005_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000205/2022-02-26T05:39:19.937Z>.
+<https://stad.gent/id/agent/670000206/2022-02-26T05:39:25.321Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:39:25.321Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5005_22, _:df_5005_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Bonne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonne, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5005_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0189"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5005_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000206/2022-02-26T05:39:25.321Z>.
+<https://stad.gent/id/agent/570021065/2022-02-26T03:49:26.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:49:26.649Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5638_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bonte Jules";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5638_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021065/2022-02-26T03:49:26.649Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bon.ttl> <https://w3id.org/tree#relation> _:df_1_1980.
+_:df_1_1980 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bon+a.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bon", "a".
+<https://brechtvdv.github.io/coghent-substrings/personen/bon.ttl> <https://w3id.org/tree#relation> _:df_1_1981.
+_:df_1_1981 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bone.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bone".
+<https://brechtvdv.github.io/coghent-substrings/personen/bon.ttl> <https://w3id.org/tree#relation> _:df_1_1982.
+_:df_1_1982 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bonn.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bonn".
+<https://brechtvdv.github.io/coghent-substrings/personen/bon.ttl> <https://w3id.org/tree#relation> _:df_1_1983.
+_:df_1_1983 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/bond.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bond".
+<https://brechtvdv.github.io/coghent-substrings/personen/bon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bon.ttl>.

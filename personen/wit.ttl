@@ -1,0 +1,156 @@
+<https://stad.gent/id/agent/670003185/2022-02-26T09:48:06.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003185>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:48:06.557Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3226_2, _:df_3226_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ignatius";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittock";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittock, Ignatius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3226_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3168"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3226_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003185"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003185/2022-02-26T09:48:06.557Z>.
+<https://stad.gent/id/agent/670003180/2022-02-26T09:47:41.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:47:41.237Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_2, _:df_3229_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittevrongel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittevrongel, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3229_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3163"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3229_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003180/2022-02-26T09:47:41.237Z>.
+<https://stad.gent/id/agent/670003181/2022-02-26T09:47:46.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003181>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:47:46.239Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_10, _:df_3229_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittevronghel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittevronghel, Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3229_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3164"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3229_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003181"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003181/2022-02-26T09:47:46.239Z>.
+<https://stad.gent/id/agent/670003182/2022-02-26T09:47:51.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003182>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:47:51.242Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_15, _:df_3229_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittock";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittock, Joannes Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3229_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3165"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3229_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003182"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003182/2022-02-26T09:47:51.242Z>.
+<https://stad.gent/id/agent/670003183/2022-02-26T09:47:56.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:47:56.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_20, _:df_3229_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Wittock";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittock";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3229_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3166"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3229_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003183/2022-02-26T09:47:56.554Z>.
+<https://stad.gent/id/agent/670003184/2022-02-26T09:48:01.556Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:48:01.556Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_24, _:df_3229_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittock";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittock, Michiel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3229_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3167"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3229_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003184/2022-02-26T09:48:01.556Z>.
+<https://stad.gent/id/agent/670003179/2022-02-26T09:47:36.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:47:36.234Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3232_31, _:df_3232_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jenne Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittevrongel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittevrongel, Jenne Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3232_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3162"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3232_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003179/2022-02-26T09:47:36.234Z>.
+<https://stad.gent/id/agent/530020812/2022-02-25T21:40:05.202Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:40:05.202Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6487_2, _:df_6487_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittmann";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6487_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02147"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6487_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020812/2022-02-25T21:40:05.202Z>.
+<https://stad.gent/id/agent/530020013/2022-02-25T21:11:32.952Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:11:32.952Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6646_26, _:df_6646_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6646_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Walter";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittek";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittek, Walter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/131199>, <http://vocab.getty.edu/ulan/500234419>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6646_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6646_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Pools"@nl.
+_:df_6646_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007685>.
+<http://vocab.getty.edu/tgn/7007685> a <http://purl.org/dc/terms/Location>.
+_:df_6646_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01894"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6646_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020013/2022-02-25T21:11:32.952Z>.
+<https://stad.gent/id/agent/530000290/2022-02-25T17:18:33.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:18:33.593Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7810_19, _:df_7810_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Herman";
+    <http://xmlns.com/foaf/0.1/familyName> "Wittocx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wittocx, Herman";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7810_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00051"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7810_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000290/2022-02-25T17:18:33.593Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/wit.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/wit.ttl>.

@@ -1,0 +1,53 @@
+<https://stad.gent/id/agent/570019356/2022-02-26T03:37:56.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019356>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:37:56.783Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5713_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cristel-Windey";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5713_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019356"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019356/2022-02-26T03:37:56.783Z>.
+<https://stad.gent/id/agent/530023798/2022-02-25T23:18:01.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:18:01.775Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5947_14, _:df_5947_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5947_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cristalleria Nason e Moretti";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5947_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003021>.
+<http://vocab.getty.edu/tgn/7003021> a <http://purl.org/dc/terms/Location>.
+_:df_5947_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03029"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5947_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023798/2022-02-25T23:18:01.775Z>.
+<https://stad.gent/id/agent/530001214/2022-02-25T18:20:14.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:20:14.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7426_8, _:df_7426_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Criquillon & Co, A.D.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7426_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00689"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7426_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001214/2022-02-25T18:20:14.746Z>.
+<https://stad.gent/id/agent/530000935/2022-02-25T18:02:22.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:02:22.186Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7555_28, _:df_7555_30;
+    <http://www.w3.org/2004/02/skos/core#note> "Emile Gallé est associé à l'entreprise de négoce et de décoration de faïence et de verrerie de son père dès 1867.\r\n\r\nAu décès d'Emile Gallé en 1904, sa veuve Henriette Gallé, secondée par son gendre Paul Perdrizet (1870-1938), reprend l'activité artistique et industrielle de la verrerie.\r\n\r\nLa société anonyme des Etablissements Gallé, transformée ainsi en 1927, arrête sa production verrière en 1931.\r\n\r\n[http://www.ecole-de-nancy.com/web/index.php?page=emile-galle]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cristallerie Gallé";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7555_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00476"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7555_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000935/2022-02-25T18:02:22.186Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/cri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/cri.ttl>.

@@ -1,0 +1,62 @@
+<https://stad.gent/id/agent/670000338/2022-02-26T05:50:24.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:50:24.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4924_2, _:df_4924_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Carnaille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Carnaille, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4924_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0321"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4924_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000338"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000338/2022-02-26T05:50:24.836Z>.
+<https://stad.gent/id/agent/670000335/2022-02-26T05:50:09.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:50:09.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4927_12, _:df_4927_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Carnaille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Carnaille, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4927_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0318"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4927_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000335/2022-02-26T05:50:09.533Z>.
+<https://stad.gent/id/agent/670000336/2022-02-26T05:50:14.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:50:14.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4927_17, _:df_4927_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dominicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Carnaille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Carnaille, Dominicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4927_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0319"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4927_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000336/2022-02-26T05:50:14.536Z>.
+<https://stad.gent/id/agent/670000337/2022-02-26T05:50:19.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000337>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:50:19.835Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4927_27, _:df_4927_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Carnaille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Carnaille, Pieter weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4927_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0320"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4927_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000337"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000337/2022-02-26T05:50:19.835Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/carn.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/carn.ttl>.

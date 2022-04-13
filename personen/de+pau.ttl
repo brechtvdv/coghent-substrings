@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/670000842/2022-02-26T06:32:46.436Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:32:46.436Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4624_25, _:df_4624_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Pauw";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Pauw, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4624_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0825"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4624_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000842/2022-02-26T06:32:46.436Z>.
+<https://stad.gent/id/agent/530023310/2022-02-25T22:54:00.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:54:00.932Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6070_40, _:df_6070_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6070_44;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6070_46;
+    <http://xmlns.com/foaf/0.1/givenName> "René";
+    <http://xmlns.com/foaf/0.1/familyName> "de Pauw";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Pauw, René";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500067549>, <https://www.wikidata.org/entity/Q1859478>, <https://rkd.nl/explore/artists/20887>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6070_50;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6070_50 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6070_46 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946-01-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6070_44 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1887-06-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026678>.
+<http://vocab.getty.edu/tgn/1026678> a <http://purl.org/dc/terms/Location>.
+_:df_6070_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02827"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6070_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023310/2022-02-25T22:54:00.932Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+pau.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+pau.ttl>.

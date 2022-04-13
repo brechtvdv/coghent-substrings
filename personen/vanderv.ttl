@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/670002997/2022-02-26T09:32:20.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:32:20.117Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3340_14, _:df_3340_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Vanderveken";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderveken";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3340_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2980"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3340_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002997/2022-02-26T09:32:20.117Z>.
+<https://stad.gent/id/agent/670002978/2022-02-26T09:30:44.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:30:44.415Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3352_23, _:df_3352_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthonius";
+    <http://xmlns.com/foaf/0.1/familyName> "Vanderveken";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderveken, Anthonius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3352_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2961"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3352_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002978/2022-02-26T09:30:44.415Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vanderv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vanderv.ttl>.

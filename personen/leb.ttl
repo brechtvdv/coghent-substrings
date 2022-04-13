@@ -1,0 +1,219 @@
+<https://stad.gent/id/agent/670001661/2022-03-30T07:51:17.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:51:17.878Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1171_2, _:df_1171_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Niclais";
+    <http://xmlns.com/foaf/0.1/familyName> "Leblon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leblon, Niclais";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1171_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1644"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1171_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001661/2022-03-30T07:51:17.878Z>.
+<https://stad.gent/id/agent/670000015/2022-03-30T05:34:02.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:34:02.146Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2149_2, _:df_2149_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Lebegue";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebegue, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2149_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1643"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2149_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000015/2022-03-30T05:34:02.146Z>.
+<https://stad.gent/id/agent/570028271/2022-03-30T04:28:12.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:28:12.638Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2482_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2482_3;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2482_4;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "LEB (Lampes Électriques Belges)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2482_4 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2482_3 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1920"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2482_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028271/2022-03-30T04:28:12.638Z>.
+<https://stad.gent/id/agent/530001277/2022-03-08T00:00:30.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:00:30.366Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_8, _:df_2995_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2995_12;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2995_14;
+    <http://xmlns.com/foaf/0.1/givenName> "Chris";
+    <http://xmlns.com/foaf/0.1/familyName> "Lebeau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebeau, Chris";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500010605>, <https://www.wikidata.org/entity/Q2710856>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2995_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2995_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_2995_14 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1945-04-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004632>.
+<http://vocab.getty.edu/tgn/7004632> a <http://purl.org/dc/terms/Location>.
+_:df_2995_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1878-05-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006952>.
+<http://vocab.getty.edu/tgn/7006952> a <http://purl.org/dc/terms/Location>.
+_:df_2995_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00724"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2995_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001277/2022-03-08T00:00:30.366Z>.
+<https://stad.gent/id/agent/670001661/2022-02-26T07:40:54.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:40:54.797Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4135_6, _:df_4135_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Niclais";
+    <http://xmlns.com/foaf/0.1/familyName> "Leblon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leblon, Niclais";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4135_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1644"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4135_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001661/2022-02-26T07:40:54.797Z>.
+<https://stad.gent/id/agent/670000015/2022-02-26T05:23:32.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:23:32.803Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5116_2, _:df_5116_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Lebegue";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebegue, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5116_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1643"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5116_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000015/2022-02-26T05:23:32.803Z>.
+<https://stad.gent/id/agent/570028271/2022-02-26T04:18:04.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:18:04.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5449_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5449_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5449_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "LEB (Lampes Électriques Belges)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5449_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5449_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1920"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5449_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028271/2022-02-26T04:18:04.657Z>.
+<https://stad.gent/id/agent/530023354/2022-02-25T22:57:12.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:57:12.232Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6049_18, _:df_6049_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Emile G.";
+    <http://xmlns.com/foaf/0.1/familyName> "Lebrun";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebrun, Emile G.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6049_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02861"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6049_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023354/2022-02-25T22:57:12.232Z>.
+<https://stad.gent/id/agent/530016586/2022-02-25T20:06:34.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:06:34.033Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6853_13, _:df_6853_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebouichi";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6853_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01594"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6853_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016586/2022-02-25T20:06:34.033Z>.
+<https://stad.gent/id/agent/530015833/2022-02-25T20:00:16.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:00:16.169Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6883_40, _:df_6883_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6883_44;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6883_46;
+    <http://xmlns.com/foaf/0.1/givenName> "Yonel";
+    <http://xmlns.com/foaf/0.1/familyName> "Lebovici";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebovici, Yonel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q52157497>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6883_50;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6883_50 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_6883_46 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1998-01-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6883_44 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1937-02-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+_:df_6883_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01551"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6883_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015833/2022-02-25T20:00:16.169Z>.
+<https://stad.gent/id/agent/530001277/2022-02-25T18:23:11.048Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:23:11.048Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7405_7, _:df_7405_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7405_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7405_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Chris";
+    <http://xmlns.com/foaf/0.1/familyName> "Lebeau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebeau, Chris";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500010605>, <https://www.wikidata.org/entity/Q2710856>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7405_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7405_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_7405_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1878-05-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004632>.
+<http://vocab.getty.edu/tgn/7004632> a <http://purl.org/dc/terms/Location>.
+_:df_7405_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1878-05-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006952>.
+<http://vocab.getty.edu/tgn/7006952> a <http://purl.org/dc/terms/Location>.
+_:df_7405_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00724"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7405_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001277/2022-02-25T18:23:11.048Z>.
+<https://stad.gent/id/agent/530000950/2022-02-25T18:03:32.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:03:32.541Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7546_17, _:df_7546_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lebarbier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7546_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00490"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7546_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000950/2022-02-25T18:03:32.541Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/leb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/leb.ttl>.

@@ -1,0 +1,32 @@
+<https://stad.gent/id/agent/670002851/2022-02-26T09:20:10.273Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:20:10.273Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3427_28, _:df_3427_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Vijvere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Vijvere, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3427_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2834"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3427_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002851/2022-02-26T09:20:10.273Z>.
+<https://stad.gent/id/agent/670002852/2022-02-26T09:20:15.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:20:15.563Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3427_33, _:df_3427_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Vijvere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Vijvere, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3427_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2835"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3427_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002852/2022-02-26T09:20:15.563Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vande+vi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vande+vi.ttl>.

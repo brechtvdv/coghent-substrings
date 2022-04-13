@@ -1,0 +1,90 @@
+<https://stad.gent/id/agent/570029867/2022-03-30T04:57:59.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:57:59.521Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2302_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2302_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2302_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderborght A. & F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2302_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1901"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2302_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1870"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+_:df_2302_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029867/2022-03-30T04:57:59.521Z>.
+<https://stad.gent/id/agent/570029201/2022-03-30T04:49:26.195Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:49:26.195Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2356_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderborght Frères Ets SA";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2356_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029201/2022-03-30T04:49:26.195Z>.
+<https://stad.gent/id/agent/670002987/2022-02-26T09:31:29.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002987>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:31:29.753Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3346_18, _:df_3346_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Isabella Clara";
+    <http://xmlns.com/foaf/0.1/familyName> "Vanderbiest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderbiest, Isabella Clara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3346_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2970"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3346_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002987"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002987/2022-02-26T09:31:29.753Z>.
+<https://stad.gent/id/agent/670002988/2022-02-26T09:31:34.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:31:34.754Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3346_23, _:df_3346_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Isabelle";
+    <http://xmlns.com/foaf/0.1/familyName> "Vanderbiest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderbiest, Isabelle";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3346_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2971"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3346_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002988/2022-02-26T09:31:34.754Z>.
+<https://stad.gent/id/agent/570029867/2022-02-26T04:47:53.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:47:53.479Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5269_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5269_8;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5269_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderborght A. & F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5269_10 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1901"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5269_8 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1870"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+_:df_5269_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029867/2022-02-26T04:47:53.479Z>.
+<https://stad.gent/id/agent/570029201/2022-02-26T04:39:20.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:39:20.282Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5323_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanderborght Frères Ets SA";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5323_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029201/2022-02-26T04:39:20.282Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vanderb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vanderb.ttl>.

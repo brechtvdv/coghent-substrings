@@ -1,0 +1,344 @@
+<https://stad.gent/id/agent/570025197/2022-03-30T04:15:32.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:15:32.324Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2563_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masurel François Frères Etablissements";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2563_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025197/2022-03-30T04:15:32.324Z>.
+<https://stad.gent/id/agent/570021098/2022-03-30T03:59:50.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:59:50.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2671_8;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2671_10;
+    <http://xmlns.com/foaf/0.1/givenName> "Isidoor";
+    <http://xmlns.com/foaf/0.1/familyName> "Mast";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mast, Isidoor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2671_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2671_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2671_10 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1935"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2671_8 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1882"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2671_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021098/2022-03-30T03:59:50.254Z>.
+<https://stad.gent/id/agent/570020174/2022-03-30T03:54:01.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:54:01.898Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2710_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Massive";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2710_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020174/2022-03-30T03:54:01.898Z>.
+<https://stad.gent/id/agent/530001514/2022-03-17T00:00:15.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:15.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2944_17, _:df_2944_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2944_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Giusi";
+    <http://xmlns.com/foaf/0.1/familyName> "Mastro";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mastro, Giusi";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2944_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2944_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_2944_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004100>.
+<http://vocab.getty.edu/tgn/7004100> a <http://purl.org/dc/terms/Location>.
+_:df_2944_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00893"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2944_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001514/2022-03-17T00:00:15.530Z>.
+<https://stad.gent/id/agent/670001790/2022-02-26T07:51:44.100Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:44.100Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4057_2, _:df_4057_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Daniel Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Mast";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mast, Daniel Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4057_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1773"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4057_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001790/2022-02-26T07:51:44.100Z>.
+<https://stad.gent/id/agent/670001791/2022-02-26T07:51:49.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001791>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:49.102Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4057_7, _:df_4057_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Mast";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mast, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4057_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1774"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4057_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001791"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001791/2022-02-26T07:51:49.102Z>.
+<https://stad.gent/id/agent/670001785/2022-02-26T07:51:19.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:19.087Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_2, _:df_4060_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Masseau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masseau, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4060_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1768"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4060_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001785/2022-02-26T07:51:19.087Z>.
+<https://stad.gent/id/agent/670001786/2022-02-26T07:51:24.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:24.089Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_10, _:df_4060_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Hieronimus";
+    <http://xmlns.com/foaf/0.1/familyName> "Masseau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masseau, Hieronimus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4060_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1769"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4060_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001786/2022-02-26T07:51:24.089Z>.
+<https://stad.gent/id/agent/670001787/2022-02-26T07:51:29.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:29.092Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_18, _:df_4060_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Masseau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masseau, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4060_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1770"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4060_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001787/2022-02-26T07:51:29.092Z>.
+<https://stad.gent/id/agent/670001788/2022-02-26T07:51:34.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:34.094Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_26, _:df_4060_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Massijn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Massijn, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4060_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1771"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4060_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001788/2022-02-26T07:51:34.094Z>.
+<https://stad.gent/id/agent/670001789/2022-02-26T07:51:39.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:39.095Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_34, _:df_4060_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gaspaerd";
+    <http://xmlns.com/foaf/0.1/familyName> "Masson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masson, Gaspaerd";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4060_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1772"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4060_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001789/2022-02-26T07:51:39.095Z>.
+<https://stad.gent/id/agent/670001783/2022-02-26T07:51:08.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:08.740Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4063_17, _:df_4063_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Masquellier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masquellier, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4063_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1766"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4063_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001783/2022-02-26T07:51:08.740Z>.
+<https://stad.gent/id/agent/670001784/2022-02-26T07:51:14.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:51:14.085Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4063_22, _:df_4063_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "vrije poorter Pieter Hendrick Massart";
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Hendrick";
+    <http://xmlns.com/foaf/0.1/familyName> "Massart";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Massart, Pieter Hendrick";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4063_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1767"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4063_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001784/2022-02-26T07:51:14.085Z>.
+<https://stad.gent/id/agent/570025197/2022-02-26T04:05:18.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:05:18.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5527_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masurel François Frères Etablissements";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5527_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025197/2022-02-26T04:05:18.893Z>.
+<https://stad.gent/id/agent/570021098/2022-02-26T03:49:36.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:49:36.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5638_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5638_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5638_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Isidoor";
+    <http://xmlns.com/foaf/0.1/familyName> "Mast";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mast, Isidoor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5638_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5638_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5638_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1935"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5638_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1882"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_5638_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021098/2022-02-26T03:49:36.653Z>.
+<https://stad.gent/id/agent/570020174/2022-02-26T03:43:49.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:43:49.292Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5674_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Massive";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5674_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020174/2022-02-26T03:43:49.292Z>.
+<https://stad.gent/id/agent/530023265/2022-02-25T22:50:24.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:50:24.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6094_17, _:df_6094_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6094_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6094_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Masereel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masereel, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500022087>, <https://www.wikidata.org/entity/Q559297>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6094_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6094_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6094_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972-01-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7667377>.
+<http://vocab.getty.edu/tgn/7667377> a <http://purl.org/dc/terms/Location>.
+_:df_6094_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1889-07-31"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007864>.
+<http://vocab.getty.edu/tgn/7007864> a <http://purl.org/dc/terms/Location>.
+_:df_6094_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02784"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6094_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023265/2022-02-25T22:50:24.653Z>.
+<https://stad.gent/id/agent/530023201/2022-02-25T22:45:42.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:45:42.966Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6127_10, _:df_6127_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mason";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6127_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02730"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6127_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023201/2022-02-25T22:45:42.966Z>.
+<https://stad.gent/id/agent/530023089/2022-02-25T22:38:49.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:38:49.839Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6160_10, _:df_6160_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anne";
+    <http://xmlns.com/foaf/0.1/familyName> "Masson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masson, Anne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q52607933>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6160_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6160_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6160_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02674"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6160_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023089/2022-02-25T22:38:49.839Z>.
+<https://stad.gent/id/agent/530021609/2022-02-25T22:02:14.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:02:14.511Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6370_36, _:df_6370_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pascale";
+    <http://xmlns.com/foaf/0.1/familyName> "Masselis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Masselis, Pascale";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6370_41;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6370_41 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6370_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02339"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6370_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021609/2022-02-25T22:02:14.511Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/mas.ttl> <https://w3id.org/tree#relation> _:df_1_2014.
+_:df_1_2014 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/mass.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mass".
+<https://brechtvdv.github.io/coghent-substrings/personen/mas.ttl> <https://w3id.org/tree#relation> _:df_1_2015.
+_:df_1_2015 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/mast.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mast".
+<https://brechtvdv.github.io/coghent-substrings/personen/mas.ttl> <https://w3id.org/tree#relation> _:df_1_2016.
+_:df_1_2016 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/masa.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "masa".
+<https://brechtvdv.github.io/coghent-substrings/personen/mas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/mas.ttl>.

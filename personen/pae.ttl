@@ -1,0 +1,32 @@
+<https://stad.gent/id/agent/670001980/2022-03-30T08:18:00.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:18:00.818Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_982_22, _:df_982_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Paelynck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paelynck, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_982_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1963"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_982_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001980/2022-03-30T08:18:00.818Z>.
+<https://stad.gent/id/agent/670001980/2022-02-26T08:07:41.901Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:07:41.901Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3943_2, _:df_3943_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Paelynck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paelynck, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3943_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1963"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3943_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001980/2022-02-26T08:07:41.901Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/pae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/pae.ttl>.

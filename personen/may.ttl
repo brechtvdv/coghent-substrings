@@ -1,0 +1,97 @@
+<https://stad.gent/id/agent/570032653/2022-03-30T05:30:49.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:30:49.106Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2158_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2158_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2158_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Lyle";
+    <http://xmlns.com/foaf/0.1/familyName> "Mays";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mays, Lyle";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q963426>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2158_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-02-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012149>.
+<http://vocab.getty.edu/tgn/7012149> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2158_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953-11-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012149>.
+_:df_2158_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032653/2022-03-30T05:30:49.106Z>.
+<https://stad.gent/id/agent/570030569/2022-03-30T05:02:00.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030569>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:02:00.776Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2275_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mayer F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2275_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030569"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030569/2022-03-30T05:02:00.776Z>.
+<https://stad.gent/id/agent/570032653/2022-02-26T05:20:41.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:20:41.241Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5125_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5125_15;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5125_17;
+    <http://xmlns.com/foaf/0.1/givenName> "Lyle";
+    <http://xmlns.com/foaf/0.1/familyName> "Mays";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mays, Lyle";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q963426>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5125_17 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-02-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012149>.
+<http://vocab.getty.edu/tgn/7012149> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5125_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953-11-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012149>.
+_:df_5125_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032653/2022-02-26T05:20:41.241Z>.
+<https://stad.gent/id/agent/570030569/2022-02-26T04:51:55.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030569>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:51:55.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5242_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mayer F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5242_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030569"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030569/2022-02-26T04:51:55.112Z>.
+<https://stad.gent/id/agent/530000792/2022-02-25T17:53:28.038Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:53:28.038Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7618_17, _:df_7618_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7618_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7618_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean";
+    <http://xmlns.com/foaf/0.1/familyName> "Mayodon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mayodon, Jean";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3173474>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7618_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7618_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_7618_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967-10-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_7618_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893-12-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007999>.
+<http://vocab.getty.edu/tgn/7007999> a <http://purl.org/dc/terms/Location>.
+_:df_7618_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00370"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7618_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000792/2022-02-25T17:53:28.038Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/may.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/may.ttl>.

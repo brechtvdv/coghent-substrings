@@ -1,0 +1,44 @@
+<https://stad.gent/id/agent/530023220/2022-02-25T22:47:03.266Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023220>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:47:03.266Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6118_7, _:df_6118_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Szefner";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6118_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02744"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6118_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023220"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023220/2022-02-25T22:47:03.266Z>.
+<https://stad.gent/id/agent/530020353/2022-02-25T21:21:37.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:21:37.713Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6586_2, _:df_6586_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martin";
+    <http://xmlns.com/foaf/0.1/familyName> "Szekely";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Szekely, Martin";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3295641>, <https://rkd.nl/explore/artists/212979>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6586_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03361"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6586_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020353/2022-02-25T21:21:37.713Z>.
+<https://stad.gent/id/agent/530015816/2022-02-25T19:59:56.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:59:56.165Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6883_11, _:df_6883_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Maxime";
+    <http://xmlns.com/foaf/0.1/familyName> "Szyf";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Szyf, Maxime";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2024012>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6883_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03407"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6883_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015816/2022-02-25T19:59:56.165Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/sz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/sz.ttl>.

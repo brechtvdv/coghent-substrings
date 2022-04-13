@@ -1,0 +1,99 @@
+<https://stad.gent/id/agent/670001668/2022-03-30T07:51:52.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:51:52.890Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_12, _:df_1168_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Lefever";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lefever";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1168_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1651"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1168_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001668/2022-03-30T07:51:52.890Z>.
+<https://stad.gent/id/agent/670001669/2022-03-30T07:51:57.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:51:57.892Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_16, _:df_1168_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Lefever de Ten Hove";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lefever de Ten Hove";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1168_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1652"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1168_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001669/2022-03-30T07:51:57.892Z>.
+<https://stad.gent/id/agent/670001670/2022-03-30T07:52:02.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:52:02.894Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_20, _:df_1168_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Leffebure";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leffebure, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1168_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1653"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1168_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001670/2022-03-30T07:52:02.894Z>.
+<https://stad.gent/id/agent/670001670/2022-02-26T07:41:40.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:41:40.081Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4129_2, _:df_4129_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Leffebure";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leffebure, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4129_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1653"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4129_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001670/2022-02-26T07:41:40.081Z>.
+<https://stad.gent/id/agent/670001668/2022-02-26T07:41:30.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:41:30.077Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4132_20, _:df_4132_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Lefever";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lefever";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4132_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1651"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4132_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001668/2022-02-26T07:41:30.077Z>.
+<https://stad.gent/id/agent/670001669/2022-02-26T07:41:35.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:41:35.078Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4132_24, _:df_4132_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Lefever de Ten Hove";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lefever de Ten Hove";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4132_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1652"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4132_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001669/2022-02-26T07:41:35.078Z>.
+<https://stad.gent/id/agent/530000857/2022-02-25T17:57:29.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:57:29.852Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7588_2, _:df_7588_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Eugene";
+    <http://xmlns.com/foaf/0.1/familyName> "Lefebvre";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lefebvre, Eugene";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7588_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00418"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7588_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000857/2022-02-25T17:57:29.852Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lef.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lef.ttl>.

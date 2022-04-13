@@ -1,0 +1,160 @@
+<https://stad.gent/id/agent/670002874/2022-02-26T09:22:01.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:01.226Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_2, _:df_3412_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Bemden";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Bemden, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3412_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2857"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3412_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002874/2022-02-26T09:22:01.226Z>.
+<https://stad.gent/id/agent/670002875/2022-02-26T09:22:06.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:06.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_7, _:df_3412_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Berghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Berghe, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3412_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2858"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3412_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002875/2022-02-26T09:22:06.227Z>.
+<https://stad.gent/id/agent/670002876/2022-02-26T09:22:11.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:11.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_17, _:df_3412_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Berghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Berghe, Jan Baptiste weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3412_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2859"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3412_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002876/2022-02-26T09:22:11.227Z>.
+<https://stad.gent/id/agent/670002873/2022-02-26T09:21:56.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:21:56.225Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_24, _:df_3415_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Abraham";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Bemde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Bemde, Abraham";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3415_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2856"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3415_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002873/2022-02-26T09:21:56.225Z>.
+<https://stad.gent/id/agent/670002555/2022-02-26T08:55:34.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:55:34.998Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3601_2, _:df_3601_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Berghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Berghe, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3601_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2538"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3601_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002555/2022-02-26T08:55:34.998Z>.
+<https://stad.gent/id/agent/670002556/2022-02-26T08:55:39.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002556>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:55:39.999Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3601_10, _:df_3601_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Berghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Berghe, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3601_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2539"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3601_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002556"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002556/2022-02-26T08:55:39.999Z>.
+<https://stad.gent/id/agent/670002553/2022-02-26T08:55:24.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:55:24.996Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_17, _:df_3604_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Berge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Berge, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3604_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2536"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3604_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002553/2022-02-26T08:55:24.996Z>.
+<https://stad.gent/id/agent/670002554/2022-02-26T08:55:29.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:55:29.997Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_22, _:df_3604_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.J.";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Berghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Berghe, J.J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3604_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2537"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3604_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002554/2022-02-26T08:55:29.997Z>.
+<https://stad.gent/id/agent/530024266/2022-02-25T23:47:05.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:47:05.041Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5854_17, _:df_5854_19;
+    <http://www.w3.org/2004/02/skos/core#note> "Dries Vanden Berghe was ontwerper en medezaakvoerder van Van Den Berghe-Pauvers, samen met zijn broer Bob en zijn zus Hilda.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dries";
+    <http://xmlns.com/foaf/0.1/familyName> "Vanden Berghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanden Berghe, Dries";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q94494379>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5854_23;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5854_23 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5854_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03223"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5854_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024266/2022-02-25T23:47:05.041Z>.
+<https://stad.gent/id/agent/530013719/2022-02-25T19:49:37.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:49:37.097Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6928_14, _:df_6928_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bob";
+    <http://xmlns.com/foaf/0.1/familyName> "Vanden Berghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanden Berghe, Bob";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6928_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6928_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6928_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01491"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6928_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013719/2022-02-25T19:49:37.097Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vanden+be.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vanden+be.ttl>.

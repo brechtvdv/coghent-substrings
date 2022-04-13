@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/670000825/2022-02-26T06:31:20.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:31:20.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4633_15, _:df_4633_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "de Nevel", "baron baron de Nevele", "den heere de Nevele, baron";
+    <http://xmlns.com/foaf/0.1/givenName> "baron";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nevele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nevele, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4633_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0808"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4633_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000825/2022-02-26T06:31:20.664Z>.
+<https://stad.gent/id/agent/570004954/2022-02-26T03:25:21.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570004954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:25:21.820Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5794_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Nederlandsche Boekhandel";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q42269558>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5794_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570004954/2022-02-26T03:25:21.820Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+ne.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+ne.ttl>.

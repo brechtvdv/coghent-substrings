@@ -1,0 +1,42 @@
+<https://stad.gent/id/agent/670002992/2022-02-26T09:31:54.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002992>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:31:54.761Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_12, _:df_3343_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Vandermandere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vandermandere";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3343_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2975"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3343_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002992"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002992/2022-02-26T09:31:54.761Z>.
+<https://stad.gent/id/agent/670002993/2022-02-26T09:32:00.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002993>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:32:00.109Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_19, _:df_3343_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "vandermarse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vandermarse";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3343_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2976"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3343_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002993"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002993/2022-02-26T09:32:00.109Z>.
+<https://stad.gent/id/agent/670002994/2022-02-26T09:32:05.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:32:05.111Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_23, _:df_3343_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Vandermuren";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vandermuren";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3343_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2977"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3343_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002994/2022-02-26T09:32:05.111Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vanderm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vanderm.ttl>.

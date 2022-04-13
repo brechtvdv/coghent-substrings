@@ -1,0 +1,141 @@
+<https://stad.gent/id/agent/570029222/2022-03-30T04:49:36.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:49:36.473Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2356_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Extralite";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2356_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029222/2022-03-30T04:49:36.473Z>.
+<https://stad.gent/id/agent/670003225/2022-02-26T09:51:12.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:51:12.665Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3205_16, _:df_3205_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "baron baron Exaerde";
+    <http://xmlns.com/foaf/0.1/givenName> "baron";
+    <http://xmlns.com/foaf/0.1/familyName> "Exaerde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Exaerde, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3205_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3193"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3205_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003225/2022-02-26T09:51:12.665Z>.
+<https://stad.gent/id/agent/570029222/2022-02-26T04:39:30.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:39:30.286Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5320_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Extralite";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5320_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029222/2022-02-26T04:39:30.286Z>.
+<https://stad.gent/id/agent/530022012/2022-02-25T22:19:46.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:19:46.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6259_17, _:df_6259_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6259_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Exnar";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Exnar, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500129318>, <https://www.wikidata.org/entity/Q15730008>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6259_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6259_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Tsjechisch"@nl.
+_:df_6259_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1027187>.
+<http://vocab.getty.edu/tgn/1027187> a <http://purl.org/dc/terms/Location>.
+_:df_6259_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02523"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6259_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022012/2022-02-25T22:19:46.975Z>.
+<https://stad.gent/id/agent/530021447/2022-02-25T21:56:37.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:56:37.005Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6403_12, _:df_6403_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6403_16;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6403_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Expo 58";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q74035>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6403_18 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6403_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+_:df_6403_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02281"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6403_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021447/2022-02-25T21:56:37.005Z>.
+<https://stad.gent/id/agent/530013664/2022-02-25T19:46:25.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:46:25.747Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6949_19, _:df_6949_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6949_23;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Extremis n.v.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6949_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1988-06-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7250384>.
+<http://vocab.getty.edu/tgn/7250384> a <http://purl.org/dc/terms/Location>.
+_:df_6949_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01458"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6949_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013664/2022-02-25T19:46:25.747Z>.
+<https://stad.gent/id/agent/530013665/2022-02-25T19:46:30.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013665>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:46:30.749Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6949_25, _:df_6949_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Extremis";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6949_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01459"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6949_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013665"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013665/2022-02-25T19:46:30.749Z>.
+<https://stad.gent/id/agent/530013574/2022-02-25T19:40:58.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:40:58.343Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6979_2, _:df_6979_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Excelsior";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6979_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01405"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6979_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013574/2022-02-25T19:40:58.343Z>.
+<https://stad.gent/id/agent/530013360/2022-02-25T19:27:27.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:27:27.883Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7063_22, _:df_7063_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7063_25;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Exel Composites";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q4410944>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7063_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7063_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01269"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7063_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013360/2022-02-25T19:27:27.883Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ex.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ex.ttl>.

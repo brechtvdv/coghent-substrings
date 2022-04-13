@@ -1,0 +1,292 @@
+<https://stad.gent/id/agent/570028304/2022-03-30T04:29:12.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:29:12.937Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2476_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2476_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028304/2022-03-30T04:29:12.937Z>.
+<https://stad.gent/id/agent/570028164/2022-03-30T04:21:15.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:21:15.069Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2524_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orom";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2524_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028164/2022-03-30T04:21:15.069Z>.
+<https://stad.gent/id/agent/570028144/2022-03-30T04:19:59.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:19:59.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2533_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ormond Engineering Company Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2533_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028144/2022-03-30T04:19:59.359Z>.
+<https://stad.gent/id/agent/530001557/2022-03-17T00:01:51.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:51.723Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_2, _:df_2932_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2932_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Heikki";
+    <http://xmlns.com/foaf/0.1/familyName> "Orvola";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orvola, Heikki";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q139493>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2932_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2932_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_2932_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943-11-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_2932_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00926"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2932_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001557/2022-03-17T00:01:51.723Z>.
+<https://stad.gent/id/agent/670001975/2022-02-26T08:07:16.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:07:16.895Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3946_2, _:df_3946_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.L.";
+    <http://xmlns.com/foaf/0.1/familyName> "Orlent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orlent, J.L.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3946_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1958"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3946_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001975/2022-02-26T08:07:16.895Z>.
+<https://stad.gent/id/agent/570028304/2022-02-26T04:19:04.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:19:04.971Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5443_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5443_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028304/2022-02-26T04:19:04.971Z>.
+<https://stad.gent/id/agent/570028164/2022-02-26T04:11:01.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:11:01.589Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5491_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orom";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5491_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028164/2022-02-26T04:11:01.589Z>.
+<https://stad.gent/id/agent/570028144/2022-02-26T04:09:46.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:09:46.186Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5500_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ormond Engineering Company Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5500_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028144/2022-02-26T04:09:46.186Z>.
+<https://stad.gent/id/agent/530023576/2022-02-25T23:11:38.948Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:11:38.948Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5974_2, _:df_5974_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Tamara";
+    <http://xmlns.com/foaf/0.1/familyName> "Orjola";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orjola, Tamara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5974_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5974_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_5974_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02982"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5974_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023576/2022-02-25T23:11:38.948Z>.
+<https://stad.gent/id/agent/530023156/2022-02-25T22:42:56.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023156>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:42:56.598Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6139_12, _:df_6139_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ormond";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6139_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02710"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6139_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023156"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023156/2022-02-25T22:42:56.598Z>.
+<https://stad.gent/id/agent/530023014/2022-02-25T22:34:38.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:34:38.039Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6184_22, _:df_6184_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orfèvrierie Wiskemann";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6184_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02636"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6184_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023014/2022-02-25T22:34:38.039Z>.
+<https://stad.gent/id/agent/530021688/2022-02-25T22:07:46.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:07:46.665Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6331_38, _:df_6331_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nick";
+    <http://xmlns.com/foaf/0.1/familyName> "Orsler";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orsler, Nick";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6331_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02404"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6331_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021688/2022-02-25T22:07:46.665Z>.
+<https://stad.gent/id/agent/530021630/2022-02-25T22:04:00.175Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:04:00.175Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6355_2, _:df_6355_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6355_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Anna";
+    <http://xmlns.com/foaf/0.1/familyName> "Orska";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orska, Anna";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q48842786>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6355_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6355_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Pools"@nl.
+_:df_6355_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1975-04-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1049166>.
+<http://vocab.getty.edu/tgn/1049166> a <http://purl.org/dc/terms/Location>.
+_:df_6355_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02360"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6355_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021630/2022-02-25T22:04:00.175Z>.
+<https://stad.gent/id/agent/530021612/2022-02-25T22:02:29.515Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021612>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:02:29.515Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6367_19, _:df_6367_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6367_23;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orbis Jewels";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6367_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_6367_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02342"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6367_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021612"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021612/2022-02-25T22:02:29.515Z>.
+<https://stad.gent/id/agent/530013591/2022-02-25T19:41:59.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:41:59.075Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6973_2, _:df_6973_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orang Tiga";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6973_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01415"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6973_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013591/2022-02-25T19:41:59.075Z>.
+<https://stad.gent/id/agent/530001557/2022-02-25T18:40:12.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:40:12.827Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7285_47, _:df_7285_49;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7285_50;
+    <http://xmlns.com/foaf/0.1/givenName> "Heikki";
+    <http://xmlns.com/foaf/0.1/familyName> "Orvola";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orvola, Heikki";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q139493>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7285_54;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7285_54 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_7285_50 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943-11-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7285_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00926"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7285_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001557/2022-02-25T18:40:12.827Z>.
+<https://stad.gent/id/agent/530001305/2022-02-25T18:25:21.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001305>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:25:21.814Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7390_19, _:df_7390_21;
+    <http://www.w3.org/2004/02/skos/core#note> "[http://de.wikipedia.org/wiki/Orivit]\r\nDas Warenzeichen ORIVIT wurde 1898 von Ferdinand Hubert Schmitz angemeldet (* 31. 10 1863 in Minden, † 15. 5 1939 in Bonn), der 1894 die mehrmals umbenannte „Rheinische Bronze- und Metallwarenfabrik Johann Heinrich Welke“ in Bedburg übernahm. Erste Erzeugnisse wurden auf der Weihnachtsausstellung im Münchner Kunstgewerbemuseum präsentiert, es folgte die Teilnahme an der Weltausstellung in Paris 1900, wo das Unternehmen eine Goldmedaille gewann. Weitere Auszeichnungen erhielt es 1902 auf der Industrie- und Gewerbeausstellung Düsseldorf und 1904 auf der Louisiana Purchase Exposition.\r\n1903 wurde eine neue Fabrik in Köln-Ehrenfeld errichtet. Nach der Übernahme der Orivit AG durch die Württembergische Metallwarenfabrik übernahm 1905 Heinrich Alle, der ab 1906 durch Georg Friedrich Schmitt in einer Position unterstützt wurde, die Leitung. Gleichzeitig ging die Kunstgewerbliche Metallwarenfabrik „Orion“ damit in die Orivit AG über. Im Ersten Weltkrieg wurde die kunstgewerbliche Produktion eingestellt, 1918 wiederaufgenommen, bis der Betrieb 1926 ganz stillgelegt wurde.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7390_23;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7390_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orivit-Metallwarenfabrik A.G.";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1563087>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7390_24 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7390_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004446>.
+<http://vocab.getty.edu/tgn/7004446> a <http://purl.org/dc/terms/Location>.
+_:df_7390_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00750"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7390_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001305"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001305/2022-02-25T18:25:21.814Z>.
+<https://stad.gent/id/agent/530001248/2022-02-25T18:21:45.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:21:45.417Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7417_24, _:df_7417_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7417_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7417_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orrefors glasworks";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3644321>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7417_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2012"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1063452>.
+<http://vocab.getty.edu/tgn/1063452> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7417_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1063452>.
+_:df_7417_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00707"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7417_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001248/2022-02-25T18:21:45.417Z>.
+<https://stad.gent/id/agent/530000454/2022-02-25T17:30:18.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:30:18.490Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7774_11, _:df_7774_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7774_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Orso design";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7774_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_7774_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00109"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7774_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000454/2022-02-25T17:30:18.490Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/or.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/or.ttl>.

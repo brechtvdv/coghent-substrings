@@ -1,0 +1,75 @@
+<https://stad.gent/id/agent/530019983/2022-02-25T21:09:22.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:09:22.238Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6652_2, _:df_6652_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Tijl";
+    <http://xmlns.com/foaf/0.1/familyName> "Krik";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Krik, Tijl";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6652_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01880"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6652_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019983/2022-02-25T21:09:22.238Z>.
+<https://stad.gent/id/agent/530001527/2022-02-25T18:38:07.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:38:07.198Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7300_47, _:df_7300_49;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7300_50;
+    <http://xmlns.com/foaf/0.1/givenName> "Randi";
+    <http://xmlns.com/foaf/0.1/familyName> "Kristensen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kristensen, Randi";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7300_50 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7300_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00901"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7300_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001527/2022-02-25T18:38:07.198Z>.
+<https://stad.gent/id/agent/530001421/2022-02-25T18:31:19.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:31:19.146Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7348_15, _:df_7348_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7348_19;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kristallglasfabrik Frauenau I. Gistl";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21287763>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7348_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1906"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7133504>.
+<http://vocab.getty.edu/tgn/7133504> a <http://purl.org/dc/terms/Location>.
+_:df_7348_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00821"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7348_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001421/2022-02-25T18:31:19.146Z>.
+<https://stad.gent/id/agent/530001234/2022-02-25T18:21:10.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:21:10.078Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7420_23, _:df_7420_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7420_27;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7420_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kristalunie Maastricht";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1881793>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7420_29 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006862>.
+<http://vocab.getty.edu/tgn/7006862> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7420_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006862>.
+_:df_7420_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00700"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7420_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001234/2022-02-25T18:21:10.078Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/kri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/kri.ttl>.

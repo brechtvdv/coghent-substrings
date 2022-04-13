@@ -1,0 +1,298 @@
+<https://stad.gent/id/agent/570028997/2022-03-30T04:46:24.909Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:46:24.909Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2371_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Corbeille Royale";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2371_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028997/2022-03-30T04:46:24.909Z>.
+<https://stad.gent/id/agent/570028652/2022-03-30T04:41:07.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:41:07.914Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2410_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Coral";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2410_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028652/2022-03-30T04:41:07.914Z>.
+<https://stad.gent/id/agent/570028348/2022-03-30T04:30:33.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:30:33.876Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Coronet";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2470_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028348/2022-03-30T04:30:33.876Z>.
+<https://stad.gent/id/agent/570020246/2022-03-30T03:55:53.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:55:53.812Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2698_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2698_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2698_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornand & Cie";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2698_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2698_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2698_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1888"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2698_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1878"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2698_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020246/2022-03-30T03:55:53.812Z>.
+<https://stad.gent/id/agent/670000483/2022-02-26T06:02:36.718Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:36.718Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4837_2, _:df_4837_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, Joannes Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4837_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0466"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4837_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000483/2022-02-26T06:02:36.718Z>.
+<https://stad.gent/id/agent/670000484/2022-02-26T06:02:41.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:41.721Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4837_7, _:df_4837_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornille, Paul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4837_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0467"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4837_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000484/2022-02-26T06:02:41.721Z>.
+<https://stad.gent/id/agent/670000485/2022-02-26T06:02:46.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000485>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:46.722Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4837_15, _:df_4837_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cortens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cortens, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4837_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0468"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4837_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000485"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000485/2022-02-26T06:02:46.722Z>.
+<https://stad.gent/id/agent/670000486/2022-02-26T06:02:51.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000486>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:51.723Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4837_23, _:df_4837_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Corthals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Corthals, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4837_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0469"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4837_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000486"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000486/2022-02-26T06:02:51.723Z>.
+<https://stad.gent/id/agent/670000478/2022-02-26T06:02:11.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:11.709Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4840_2, _:df_4840_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Isabella Clara";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, Isabella Clara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4840_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0461"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4840_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000478"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000478/2022-02-26T06:02:11.709Z>.
+<https://stad.gent/id/agent/670000479/2022-02-26T06:02:16.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:16.711Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4840_7, _:df_4840_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dominicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, Dominicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4840_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0462"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4840_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000479/2022-02-26T06:02:16.711Z>.
+<https://stad.gent/id/agent/670000480/2022-02-26T06:02:21.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:21.713Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4840_12, _:df_4840_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Andries weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, Andries weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4840_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0463"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4840_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000480/2022-02-26T06:02:21.713Z>.
+<https://stad.gent/id/agent/670000481/2022-02-26T06:02:26.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:26.714Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4840_17, _:df_4840_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4840_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0464"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4840_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000481/2022-02-26T06:02:26.714Z>.
+<https://stad.gent/id/agent/670000482/2022-02-26T06:02:31.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:31.716Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4840_22, _:df_4840_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4840_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0465"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4840_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000482"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000482/2022-02-26T06:02:31.716Z>.
+<https://stad.gent/id/agent/670000474/2022-02-26T06:01:51.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:01:51.280Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4843_8, _:df_4843_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nicolaeys";
+    <http://xmlns.com/foaf/0.1/familyName> "Corduanier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Corduanier, Nicolaeys";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4843_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0457"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4843_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000474/2022-02-26T06:01:51.280Z>.
+<https://stad.gent/id/agent/670000475/2022-02-26T06:01:56.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:01:56.282Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4843_13, _:df_4843_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4843_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0458"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4843_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000475/2022-02-26T06:01:56.282Z>.
+<https://stad.gent/id/agent/670000476/2022-02-26T06:02:01.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:01.283Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4843_20, _:df_4843_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, Pieter weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4843_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0459"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4843_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000476"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000476/2022-02-26T06:02:01.283Z>.
+<https://stad.gent/id/agent/670000477/2022-02-26T06:02:06.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:02:06.707Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4843_25, _:df_4843_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Sebastiaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cornelis, Sebastiaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4843_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0460"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4843_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000477/2022-02-26T06:02:06.707Z>.
+<https://stad.gent/id/agent/570028997/2022-02-26T04:36:18.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:36:18.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5338_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Corbeille Royale";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5338_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028997/2022-02-26T04:36:18.885Z>.
+<https://stad.gent/id/agent/570028652/2022-02-26T04:31:01.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:31:01.712Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5374_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Coral";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5374_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028652/2022-02-26T04:31:01.712Z>.
+<https://stad.gent/id/agent/570028348/2022-02-26T04:20:25.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:20:25.396Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5434_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Coronet";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5434_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028348/2022-02-26T04:20:25.396Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/cor.ttl> <https://w3id.org/tree#relation> _:df_1_1906.
+_:df_1_1906 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/corn.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "corn".
+<https://brechtvdv.github.io/coghent-substrings/personen/cor.ttl> <https://w3id.org/tree#relation> _:df_1_1907.
+_:df_1_1907 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/cort.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "cort".
+<https://brechtvdv.github.io/coghent-substrings/personen/cor.ttl> <https://w3id.org/tree#relation> _:df_1_1908.
+_:df_1_1908 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/cori.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "cori".
+<https://brechtvdv.github.io/coghent-substrings/personen/cor.ttl> <https://w3id.org/tree#relation> _:df_1_1909.
+_:df_1_1909 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/cor+u.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "cor", "u".
+<https://brechtvdv.github.io/coghent-substrings/personen/cor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/cor.ttl>.

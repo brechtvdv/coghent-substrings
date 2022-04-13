@@ -1,0 +1,69 @@
+<https://stad.gent/id/agent/670000651/2022-02-26T06:16:44.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:16:44.136Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4738_23, _:df_4738_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guilliame";
+    <http://xmlns.com/foaf/0.1/familyName> "de Doncker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Doncker, Guilliame";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4738_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0634"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4738_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000651/2022-02-26T06:16:44.136Z>.
+<https://stad.gent/id/agent/670000645/2022-02-26T06:16:12.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:16:12.233Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4741_12, _:df_4741_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Dobbelaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Dobbelaere, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4741_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0628"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4741_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000645/2022-02-26T06:16:12.233Z>.
+<https://stad.gent/id/agent/670000646/2022-02-26T06:16:17.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:16:17.235Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4741_17, _:df_4741_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Jakob Bernard";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4741_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4741_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques Bernard";
+    <http://xmlns.com/foaf/0.1/familyName> "de Dobbele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Dobbele, Jacques Bernard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4741_22 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1727-07-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4741_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1649-08-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4741_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0629"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4741_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000646/2022-02-26T06:16:17.235Z>.
+<https://stad.gent/id/agent/670000647/2022-02-26T06:16:24.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:16:24.128Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4741_30, _:df_4741_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Dobbeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Dobbeleere, Jacobus Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4741_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0630"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4741_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000647/2022-02-26T06:16:24.128Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+do.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+do.ttl>.

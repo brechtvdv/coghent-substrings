@@ -1,0 +1,42 @@
+<https://stad.gent/id/agent/670001000/2022-02-26T06:46:03.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001000>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:46:03.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4528_12, _:df_4528_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Voghele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Voghele, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4528_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0983"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4528_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001000"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001000/2022-02-26T06:46:03.026Z>.
+<https://stad.gent/id/agent/670001001/2022-02-26T06:46:08.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:46:08.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4528_20, _:df_4528_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gabriel";
+    <http://xmlns.com/foaf/0.1/familyName> "de Voghele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Voghele, Gabriel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4528_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0984"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4528_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001001/2022-02-26T06:46:08.027Z>.
+<https://stad.gent/id/agent/570014237/2022-02-26T03:28:33.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:28:33.032Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5776_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Vogelaere, Achille";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5776_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014237/2022-02-26T03:28:33.032Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+vog.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+vog.ttl>.

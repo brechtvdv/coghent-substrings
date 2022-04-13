@@ -1,0 +1,89 @@
+<https://stad.gent/id/agent/670000973/2022-02-26T06:43:46.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:46.982Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4543_2, _:df_4543_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "de Stoppelaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Stoppelaere, Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4543_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0956"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4543_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000973/2022-02-26T06:43:46.982Z>.
+<https://stad.gent/id/agent/670000968/2022-02-26T06:43:21.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:21.972Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_2, _:df_4546_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan erfgenamen";
+    <http://xmlns.com/foaf/0.1/familyName> "de Stobbeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Stobbeleere, Jan erfgenamen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0951"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000968/2022-02-26T06:43:21.972Z>.
+<https://stad.gent/id/agent/670000969/2022-02-26T06:43:26.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:26.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_7, _:df_4546_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Stobbeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Stobbeleere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0952"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000969/2022-02-26T06:43:26.975Z>.
+<https://stad.gent/id/agent/670000970/2022-02-26T06:43:31.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:31.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_12, _:df_4546_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "de Stobbeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Stobbeleere, Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0953"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000970/2022-02-26T06:43:31.976Z>.
+<https://stad.gent/id/agent/670000971/2022-02-26T06:43:36.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000971>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:36.977Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_20, _:df_4546_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Stobbeleere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Stobbeleere, Anthone weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0954"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000971"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000971/2022-02-26T06:43:36.977Z>.
+<https://stad.gent/id/agent/670000972/2022-02-26T06:43:41.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:43:41.980Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_25, _:df_4546_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Stoop";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Stoop";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0955"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000972/2022-02-26T06:43:41.980Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+st.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+st.ttl>.

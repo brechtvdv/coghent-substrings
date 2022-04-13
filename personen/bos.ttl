@@ -1,0 +1,255 @@
+<https://stad.gent/id/agent/670000221/2022-03-30T05:51:09.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:51:09.305Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2029_27, _:df_2029_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Bosquillon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosquillon, Jan Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2029_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0204"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2029_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000221/2022-03-30T05:51:09.305Z>.
+<https://stad.gent/id/agent/570020164/2022-03-30T03:53:56.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:53:56.896Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2710_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2710_9;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bostitch";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q4947674>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2710_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1896"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2710_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020164/2022-03-30T03:53:56.896Z>.
+<https://stad.gent/id/agent/570019735/2022-03-30T03:50:15.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:50:15.678Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2734_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bossaerts Aug.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2734_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019735/2022-03-30T03:50:15.678Z>.
+<https://stad.gent/id/agent/570018425/2022-03-30T03:42:26.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570018425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:42:26.940Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2785_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2785_5;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosch";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q234021>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2785_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2785_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570018425/2022-03-30T03:42:26.940Z>.
+<https://stad.gent/id/agent/530024352/2022-03-30T00:00:49.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T00:00:49.188Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2866_21, _:df_2866_23;
+    <http://www.w3.org/2004/02/skos/core#note> "Verfproducent, familiebedrijf, bekend van de Colorawinkels. Ontstaan in 1945 onder de naam 'ABW' (van Antoon Bossuyt Waregem), daarna een tijd de naam Bolatex gehad, en sinds 1969 heet het bedrijf Boss Paints.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boss Paints";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2866_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2866_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2866_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03242"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2866_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024352/2022-03-30T00:00:49.188Z>.
+<https://stad.gent/id/agent/670000222/2022-02-26T05:40:45.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:40:45.625Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4993_2, _:df_4993_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Bosquillon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosquillon, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4993_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0205"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4993_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000222/2022-02-26T05:40:45.625Z>.
+<https://stad.gent/id/agent/670000223/2022-02-26T05:40:50.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:40:50.627Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4993_7, _:df_4993_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Bossaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bossaert, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4993_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0206"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4993_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000223/2022-02-26T05:40:50.627Z>.
+<https://stad.gent/id/agent/670000224/2022-02-26T05:40:55.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:40:55.628Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4993_12, _:df_4993_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "Bosschaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosschaert, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4993_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0207"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4993_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000224/2022-02-26T05:40:55.628Z>.
+<https://stad.gent/id/agent/670000221/2022-02-26T05:40:40.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:40:40.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4996_27, _:df_4996_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Bosquillon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosquillon, Jan Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4996_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0204"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4996_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000221/2022-02-26T05:40:40.624Z>.
+<https://stad.gent/id/agent/570020164/2022-02-26T03:43:44.291Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:43:44.291Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5677_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5677_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bostitch";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q4947674>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5677_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1896"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5677_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020164/2022-02-26T03:43:44.291Z>.
+<https://stad.gent/id/agent/570019735/2022-02-26T03:40:02.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:40:02.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5701_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bossaerts Aug.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5701_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019735/2022-02-26T03:40:02.500Z>.
+<https://stad.gent/id/agent/570018425/2022-02-26T03:32:14.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570018425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:32:14.472Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5752_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5752_9;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosch";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q234021>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5752_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5752_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570018425/2022-02-26T03:32:14.472Z>.
+<https://stad.gent/id/agent/530024352/2022-02-25T23:52:17.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:52:17.251Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5830_11, _:df_5830_13;
+    <http://www.w3.org/2004/02/skos/core#note> "Verfproducent, familiebedrijf, bekend van de Colorawinkels. Ontstaan in 1945 onder de naam 'ABW' (van Antoon Bossuyt Waregem), daarna een tijd de naam Bolatex gehad, en sinds 1969 heet het bedrijf Boss Paints.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boss Paints";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5830_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5830_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_5830_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03242"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5830_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024352/2022-02-25T23:52:17.251Z>.
+<https://stad.gent/id/agent/530023506/2022-02-25T23:07:01.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:07:01.833Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5998_26, _:df_5998_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5998_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosch";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/>, <https://www.wikidata.org/entity/Q234021>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5998_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886-11-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004425>.
+<http://vocab.getty.edu/tgn/7004425> a <http://purl.org/dc/terms/Location>.
+_:df_5998_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02946"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5998_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023506/2022-02-25T23:07:01.833Z>.
+<https://stad.gent/id/agent/530020082/2022-02-25T21:16:40.154Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:16:40.154Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6610_9, _:df_6610_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6610_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosa Ceramiche";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6610_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q29381>.
+<https://www.wikidata.org/entity/q29381> a <http://purl.org/dc/terms/Location>.
+_:df_6610_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01950"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6610_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020082/2022-02-25T21:16:40.154Z>.
+<https://stad.gent/id/agent/530000024/2022-02-25T17:01:16.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:01:16.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7837_25, _:df_7837_27;
+    <http://www.w3.org/2004/02/skos/core#note> "Ria Bosman werd geboren te Beveren in 1956. Na het middelbaar onderwijs (mens-wetenschappen) te Berlaar (Lier), studeerde zij monumentale aan het Hoger Sint-Lukasinstituut te Gent (1976-1979) waar zij o.m met Gaspard De Vuyst, Jean-Pierre Maes, Anita de Vis en Johan Spilliaert als raars had, en volgt momenteel het eerste jaar kunstwerken aan het Stedelijk Instituut Henry Story te Gent. (brochure Provinciale Prijs 1979 - Kunstambachten (Textiel)) - TE_1979-006";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7837_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Ria";
+    <http://xmlns.com/foaf/0.1/familyName> "Bosman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosman, Ria";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97774077>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7837_33;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7837_33 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7837_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1956"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026330>.
+<http://vocab.getty.edu/tgn/1026330> a <http://purl.org/dc/terms/Location>.
+_:df_7837_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00006"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7837_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000024/2022-02-25T17:01:16.332Z>.
+<https://stad.gent/id/agent/470011180/2022-02-25T16:55:14.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470011180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:55:14.081Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7873_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bosch";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q234021>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7873_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470011180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470011180/2022-02-25T16:55:14.081Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/bos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/bos.ttl>.

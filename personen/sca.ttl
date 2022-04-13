@@ -1,0 +1,181 @@
+<https://stad.gent/id/agent/670002162/2022-03-30T08:33:14.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:33:14.433Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_874_25, _:df_874_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Scaillet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scaillet, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_874_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2145"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_874_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002162/2022-03-30T08:33:14.433Z>.
+<https://stad.gent/id/agent/570028300/2022-03-30T04:29:02.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028300>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:29:02.934Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2479_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scaldia Lamp Works nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2479_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028300"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028300/2022-03-30T04:29:02.934Z>.
+<https://stad.gent/id/agent/530019284/2022-03-08T00:01:56.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-08T00:01:56.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2986_39, _:df_2986_41;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2986_43;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2986_44;
+    <http://xmlns.com/foaf/0.1/givenName> "Afra";
+    <http://xmlns.com/foaf/0.1/familyName> "Scarpa";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scarpa, Afra";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q383551>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2986_48;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2986_48 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_2986_44 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2986_43 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1937-03-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003300>.
+<http://vocab.getty.edu/tgn/7003300> a <http://purl.org/dc/terms/Location>.
+_:df_2986_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00649"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2986_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019284/2022-03-08T00:01:56.332Z>.
+<https://stad.gent/id/agent/670002162/2022-02-26T08:22:57.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:22:57.670Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3835_15, _:df_3835_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Scaillet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scaillet, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3835_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2145"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3835_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002162/2022-02-26T08:22:57.670Z>.
+<https://stad.gent/id/agent/570028300/2022-02-26T04:18:54.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028300>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:18:54.967Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5443_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scaldia Lamp Works nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5443_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028300"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028300/2022-02-26T04:18:54.967Z>.
+<https://stad.gent/id/agent/530019284/2022-02-25T20:55:39.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:55:39.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6697_26, _:df_6697_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6697_30;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6697_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Afra";
+    <http://xmlns.com/foaf/0.1/familyName> "Scarpa";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scarpa, Afra";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q383551>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6697_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6697_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_6697_31 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6697_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1937-03-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003300>.
+<http://vocab.getty.edu/tgn/7003300> a <http://purl.org/dc/terms/Location>.
+_:df_6697_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00649"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6697_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019284/2022-02-25T20:55:39.334Z>.
+<https://stad.gent/id/agent/530016862/2022-02-25T20:21:55.321Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:21:55.321Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6772_16, _:df_6772_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6772_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Tobia";
+    <http://xmlns.com/foaf/0.1/familyName> "Scarpa";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scarpa, Tobia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1681970>, <http://vocab.getty.edu/ulan/500094099>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6772_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6772_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_6772_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1935-01-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003006>.
+<http://vocab.getty.edu/tgn/7003006> a <http://purl.org/dc/terms/Location>.
+_:df_6772_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01730"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6772_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016862/2022-02-25T20:21:55.321Z>.
+<https://stad.gent/id/agent/530013485/2022-02-25T19:34:45.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013485>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:34:45.921Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7018_2, _:df_7018_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7018_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Francesco";
+    <http://xmlns.com/foaf/0.1/familyName> "Scansetti";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scansetti, Francesco";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55219740>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7018_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7018_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7018_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7018_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01340"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7018_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013485"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013485/2022-02-25T19:34:45.921Z>.
+<https://stad.gent/id/agent/530000737/2022-02-25T17:50:21.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:50:21.891Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7639_2, _:df_7639_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7639_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7639_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Carlo";
+    <http://xmlns.com/foaf/0.1/familyName> "Scarpa";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Scarpa, Carlo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q51137>, <http://vocab.getty.edu/ulan/500026810>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7639_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7639_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_7639_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1978-11-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004809>.
+<http://vocab.getty.edu/tgn/7004809> a <http://purl.org/dc/terms/Location>.
+_:df_7639_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1906-06-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003006>.
+<http://vocab.getty.edu/tgn/7003006> a <http://purl.org/dc/terms/Location>.
+_:df_7639_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00333"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7639_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000737/2022-02-25T17:50:21.891Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/sca.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/sca.ttl>.

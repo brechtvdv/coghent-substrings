@@ -1,0 +1,59 @@
+<https://stad.gent/id/agent/670001251/2022-02-26T07:06:56.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:06:56.425Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4378_7, _:df_4378_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillielmus";
+    <http://xmlns.com/foaf/0.1/familyName> "Duvivier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duvivier, Guillielmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4378_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1234"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4378_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001251/2022-02-26T07:06:56.425Z>.
+<https://stad.gent/id/agent/670001252/2022-02-26T07:07:01.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:07:01.426Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4378_15, _:df_4378_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Duvivier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duvivier, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4378_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1235"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4378_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001252/2022-02-26T07:07:01.426Z>.
+<https://stad.gent/id/agent/530020664/2022-02-25T21:32:32.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:32:32.153Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6529_18, _:df_6529_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duvivier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6529_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02080"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6529_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020664/2022-02-25T21:32:32.153Z>.
+<https://stad.gent/id/agent/530020021/2022-02-25T21:12:08.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:12:08.331Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6640_8, _:df_6640_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ivan";
+    <http://xmlns.com/foaf/0.1/familyName> "Duval";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duval, Ivan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6640_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01901"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6640_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020021/2022-02-25T21:12:08.331Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/duv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/duv.ttl>.

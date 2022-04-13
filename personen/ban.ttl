@@ -1,0 +1,105 @@
+<https://stad.gent/id/agent/670000088/2022-03-30T05:39:59.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:39:59.585Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2107_10, _:df_2107_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Banneux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Banneux, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2107_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0071"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2107_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000088/2022-03-30T05:39:59.585Z>.
+<https://stad.gent/id/agent/670003427/2022-02-26T09:59:06.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003427>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:59:06.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_2, _:df_3148_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bank van de Arbeid";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bank van de Arbeid";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1815922>, <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/26020>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3148_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0078"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3148_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003427"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003427/2022-02-26T09:59:06.376Z>.
+<https://stad.gent/id/agent/670003426/2022-02-26T09:59:01.374Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:59:01.374Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_21, _:df_3151_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3151_24;
+    <http://xmlns.com/foaf/0.1/familyName> "Bank van Brussel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bank van Brussel";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21008001>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3151_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1871-11-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3151_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0077"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3151_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003426/2022-02-26T09:59:01.374Z>.
+<https://stad.gent/id/agent/670000088/2022-02-26T05:29:31.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:29:31.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5074_10, _:df_5074_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Banneux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Banneux, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5074_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0071"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5074_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000088/2022-02-26T05:29:31.091Z>.
+<https://stad.gent/id/agent/530024263/2022-02-25T23:46:49.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:46:49.722Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5854_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5854_4;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5854_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Gian Luigi";
+    <http://xmlns.com/foaf/0.1/familyName> "Banfi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Banfi, Gian Luigi";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5854_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5854_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_5854_5 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1945-04-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5854_4 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1910-04-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_5854_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024263/2022-02-25T23:46:49.722Z>.
+<https://stad.gent/id/agent/530015781/2022-02-25T19:59:20.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:59:20.850Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6886_2, _:df_6886_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6886_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bang & Olufsen";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500335334>, <https://www.wikidata.org/entity/Q790020>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6886_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925-11-17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1028157>.
+<http://vocab.getty.edu/tgn/1028157> a <http://purl.org/dc/terms/Location>.
+_:df_6886_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01545"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6886_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015781/2022-02-25T19:59:20.850Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ban.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ban.ttl>.

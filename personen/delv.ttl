@@ -1,0 +1,136 @@
+<https://stad.gent/id/agent/670001099/2022-02-26T06:54:16.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:54:16.550Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4468_2, _:df_4468_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Delvaux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvaux";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4468_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1082"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4468_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001099/2022-02-26T06:54:16.550Z>.
+<https://stad.gent/id/agent/670001100/2022-02-26T06:54:21.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:54:21.551Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4468_6, _:df_4468_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Delvigne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvigne";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4468_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1083"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4468_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001100/2022-02-26T06:54:21.551Z>.
+<https://stad.gent/id/agent/530020126/2022-02-25T21:20:12.410Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:20:12.410Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6592_2, _:df_6592_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6592_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6592_6;
+    <http://xmlns.com/foaf/0.1/givenName> "René";
+    <http://xmlns.com/foaf/0.1/familyName> "Delvenne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvenne, René";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/360996>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6592_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6592_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1902"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6592_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01979"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6592_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020126/2022-02-25T21:20:12.410Z>.
+<https://stad.gent/id/agent/530013650/2022-02-25T19:45:50.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:45:50.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6952_23, _:df_6952_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6952_26;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvaux Createur NV";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6952_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1961-01-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6952_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01452"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6952_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013650/2022-02-25T19:45:50.412Z>.
+<https://stad.gent/id/agent/530000985/2022-02-25T18:05:58.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:05:58.512Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7528_6, _:df_7528_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7528_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7528_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Laurent";
+    <http://xmlns.com/foaf/0.1/familyName> "Delvaux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvaux, Laurent";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500002211>, <https://www.wikidata.org/entity/Q510315>, <https://rkd.nl/explore/artists/21847>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7528_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1778-02-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007964>.
+<http://vocab.getty.edu/tgn/7007964> a <http://purl.org/dc/terms/Location>.
+_:df_7528_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1696-01-17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_7528_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00519"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7528_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000985/2022-02-25T18:05:58.512Z>.
+<https://stad.gent/id/agent/530000897/2022-02-25T18:00:10.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:00:10.876Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7570_23, _:df_7570_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7570_27;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7570_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Delvin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvin, Jean Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500052976>, <https://www.wikidata.org/entity/Q2499246>, <https://rkd.nl/explore/artists/21857>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7570_33;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7570_33 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7570_29 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1922"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7570_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1853"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_7570_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00450"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7570_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000897"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000897/2022-02-25T18:00:10.876Z>.
+<https://stad.gent/id/agent/470000084/2022-02-25T16:47:35.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470000084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:47:35.544Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7927_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7927_14;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7927_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvaux, Laurent";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/ulan/500002211>, <https://www.wikidata.org/entity/Q510315>, <https://rkd.nl/explore/artists/21847>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7927_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1778"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7927_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1696"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7927_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470000084/2022-02-25T16:47:35.544Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/delv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/delv.ttl>.

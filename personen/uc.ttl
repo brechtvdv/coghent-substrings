@@ -1,0 +1,311 @@
+<https://stad.gent/id/agent/570028955/2022-03-30T04:45:04.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:45:04.275Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2380_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2380_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2380_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Rooigem";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2380_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1989"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2380_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2380_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028955/2022-03-30T04:45:04.275Z>.
+<https://stad.gent/id/agent/570025579/2022-03-30T04:16:42.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:16:42.683Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2554_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2554_30;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2554_32;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Braun";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570033001>, <https://stad.gent/id/concept/570032056>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570032056> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "UCO Maïsstraat"@nl.
+<https://stad.gent/id/concept/570033001> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "UCO E.J. Braun"@nl.
+_:df_2554_32 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2554_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2554_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025579/2022-03-30T04:16:42.683Z>.
+<https://stad.gent/id/agent/570019002/2022-03-30T03:45:53.864Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:45:53.864Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2761_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2761_8;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2761_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Galveston";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2761_10 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1999"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2761_8 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2761_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019002/2022-03-30T03:45:53.864Z>.
+<https://stad.gent/id/agent/570014633/2022-03-30T03:40:30.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:40:30.251Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2797_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2797_14;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2797_16;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Desmet-Guequier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2797_16 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1975"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2797_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2797_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014633/2022-03-30T03:40:30.251Z>.
+<https://stad.gent/id/agent/570013288/2022-03-30T03:36:21.166Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570013288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:36:21.166Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2824_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2824_22;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO nv";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q19915295>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2824_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_2824_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570013288/2022-03-30T03:36:21.166Z>.
+<https://stad.gent/id/agent/570032240/2022-02-26T05:15:04.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032240>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:15:04.268Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5146_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5146_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5146_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO TAE";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5146_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1991"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007873>.
+<http://vocab.getty.edu/tgn/7007873> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5146_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007873>.
+_:df_5146_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032240"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032240/2022-02-26T05:15:04.268Z>.
+<https://stad.gent/id/agent/570032335/2022-02-26T05:15:09.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:15:09.269Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5146_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Bellevue";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570025181>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570025181> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "UCO Ledeberg"@nl.
+_:df_5146_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032335/2022-02-26T05:15:09.269Z>.
+<https://stad.gent/id/agent/570031310/2022-02-26T04:59:48.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:59:48.031Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5191_4;
+    <http://www.w3.org/2004/02/skos/core#note> "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/18716";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Uyttendaele";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5191_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031310/2022-02-26T04:59:48.031Z>.
+<https://stad.gent/id/agent/570031253/2022-02-26T04:59:33.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:59:33.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5194_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Technical Fabrics nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5194_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031253/2022-02-26T04:59:33.026Z>.
+<https://stad.gent/id/agent/570031109/2022-02-26T04:58:22.675Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:58:22.675Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5200_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5200_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5200_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Leon Declercq";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570032051>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570032051> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "UCO Deinze"@nl.
+_:df_5200_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2004"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026388>.
+<http://vocab.getty.edu/tgn/1026388> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5200_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026388>.
+_:df_5200_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031109/2022-02-26T04:58:22.675Z>.
+<https://stad.gent/id/agent/570030775/2022-02-26T04:54:51.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:54:51.074Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5224_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Sportswear";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5224_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030775/2022-02-26T04:54:51.074Z>.
+<https://stad.gent/id/agent/570028955/2022-02-26T04:34:58.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:34:58.538Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5347_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5347_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5347_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Rooigem";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5347_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1989"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5347_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_5347_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028955/2022-02-26T04:34:58.538Z>.
+<https://stad.gent/id/agent/570025579/2022-02-26T04:06:29.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:06:29.601Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5521_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5521_25;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5521_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Braun";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570033001>, <https://stad.gent/id/concept/570032056>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570032056> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "UCO Maïsstraat"@nl.
+<https://stad.gent/id/concept/570033001> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "UCO E.J. Braun"@nl.
+_:df_5521_27 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5521_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_5521_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025579/2022-02-26T04:06:29.601Z>.
+<https://stad.gent/id/agent/570019002/2022-02-26T03:35:40.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:35:40.829Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5728_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5728_12;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5728_14;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Galveston";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5728_14 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1999"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5728_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_5728_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019002/2022-02-26T03:35:40.829Z>.
+<https://stad.gent/id/agent/570014633/2022-02-26T03:30:18.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:30:18.787Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5764_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5764_19;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5764_21;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO Desmet-Guequier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5764_21 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1975"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5764_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_5764_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014633/2022-02-26T03:30:18.787Z>.
+<https://stad.gent/id/agent/570013288/2022-02-26T03:26:12.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570013288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:26:12.158Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5788_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5788_4;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO nv";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q19915295>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5788_4 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_5788_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570013288/2022-02-26T03:26:12.158Z>.
+<https://stad.gent/id/agent/530000245/2022-02-25T17:15:22.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:15:22.251Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7819_36, _:df_7819_38;
+    <http://www.w3.org/2004/02/skos/core#note> "De Union Cotonnière (UCO) (ook: N.V. Filatures et Tissages Union Cotonnière) was een textielbedrijf dat in 1919 is ontstaan door de fusie van een zestal onafhankelijke spinnerijen. Het bedrijf was gevestigd te Gent. Grootaandeelhouders waren de Société Générale en Établissement Textiles Fernand Hanus.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7819_40;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7819_42;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q19915295>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7819_42 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7819_40 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1919"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_7819_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00037"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7819_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000245/2022-02-25T17:15:22.251Z>.
+<https://stad.gent/id/agent/470007440/2022-02-25T16:52:43.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470007440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:52:43.253Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7891_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "UCO";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q19915295>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/470007439>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/470007439> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Union Cotonnière"@nl.
+_:df_7891_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470007440/2022-02-25T16:52:43.253Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/uc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/uc.ttl>.

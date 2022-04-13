@@ -1,0 +1,47 @@
+<https://stad.gent/id/agent/670001188/2022-02-26T07:01:39.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:01:39.064Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4417_20, _:df_4417_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Heer van Tollien Joan d'Olieslagher";
+    <http://xmlns.com/foaf/0.1/givenName> "Joan";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Olieslagher";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Olieslagher, Joan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4417_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1171"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4417_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001188/2022-02-26T07:01:39.064Z>.
+<https://stad.gent/id/agent/670001189/2022-02-26T07:01:44.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:01:44.340Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4417_26, _:df_4417_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "George Adolph";
+    <http://xmlns.com/foaf/0.1/familyName> "Dolisy";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dolisy, George Adolph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4417_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1172"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4417_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001189/2022-02-26T07:01:44.340Z>.
+<https://stad.gent/id/agent/530000949/2022-02-25T18:03:27.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:03:27.538Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7546_12, _:df_7546_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.";
+    <http://xmlns.com/foaf/0.1/familyName> "Dolard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dolard, P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7546_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00489"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7546_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000949/2022-02-25T18:03:27.538Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dol.ttl>.

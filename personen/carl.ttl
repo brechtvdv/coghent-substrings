@@ -1,0 +1,34 @@
+<https://stad.gent/id/agent/670000334/2022-02-26T05:50:04.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:50:04.531Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4927_7, _:df_4927_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Petrus Albertus";
+    <http://xmlns.com/foaf/0.1/familyName> "Carlo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Carlo, Petrus Albertus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4927_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0317"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4927_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000334/2022-02-26T05:50:04.531Z>.
+<https://stad.gent/id/agent/530000419/2022-02-25T17:27:57.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:27:57.316Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7783_20, _:df_7783_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7783_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Carl Hugo Pott";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7783_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004940>.
+<http://vocab.getty.edu/tgn/7004940> a <http://purl.org/dc/terms/Location>.
+_:df_7783_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00096"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7783_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000419/2022-02-25T17:27:57.316Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/carl.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/carl.ttl>.

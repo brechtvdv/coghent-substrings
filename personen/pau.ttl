@@ -1,0 +1,295 @@
+<https://stad.gent/id/agent/670002000/2022-02-26T08:09:22.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002000>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:09:22.481Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3931_2, _:df_3931_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paie";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Paie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3931_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1983"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3931_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002000"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002000/2022-02-26T08:09:22.481Z>.
+<https://stad.gent/id/agent/670002001/2022-02-26T08:09:27.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:09:27.483Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3931_7, _:df_3931_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frederycq";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Frederycq";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3931_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1984"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3931_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002001/2022-02-26T08:09:27.483Z>.
+<https://stad.gent/id/agent/670002002/2022-02-26T08:09:32.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:09:32.485Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3931_12, _:df_3931_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Payin";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Payin";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3931_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1985"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3931_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002002/2022-02-26T08:09:32.485Z>.
+<https://stad.gent/id/agent/670001997/2022-02-26T08:09:07.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:09:07.474Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3934_12, _:df_3934_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Paul";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paul, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3934_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1980"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3934_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001997/2022-02-26T08:09:07.474Z>.
+<https://stad.gent/id/agent/670001998/2022-02-26T08:09:12.476Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:09:12.476Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3934_17, _:df_3934_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3934_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1981"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3934_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001998/2022-02-26T08:09:12.476Z>.
+<https://stad.gent/id/agent/670001999/2022-02-26T08:09:17.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:09:17.479Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3934_22, _:df_3934_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3934_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1982"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3934_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001999/2022-02-26T08:09:17.479Z>.
+<https://stad.gent/id/agent/530022976/2022-02-25T22:33:32.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022976>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:33:32.704Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6187_2, _:df_6187_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Jan";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6187_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02628"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6187_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022976"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022976/2022-02-25T22:33:32.704Z>.
+<https://stad.gent/id/agent/530021945/2022-02-25T22:14:54.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:14:54.882Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6292_44, _:df_6292_46;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6292_48;
+    <http://xmlns.com/foaf/0.1/givenName> "Kaat";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Kaat";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/122898>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6292_52;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6292_52 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6292_48 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1968"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6292_46 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02469"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6292_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021945/2022-02-25T22:14:54.882Z>.
+<https://stad.gent/id/agent/530020057/2022-02-25T21:14:54.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:14:54.386Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6622_24, _:df_6622_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Axel";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauli";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauli, Axel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6622_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01933"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6622_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020057/2022-02-25T21:14:54.386Z>.
+<https://stad.gent/id/agent/530015867/2022-02-25T20:00:26.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:00:26.490Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6880_2, _:df_6880_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6880_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6880_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "Paulin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paulin, Pierre";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500054918>, <https://www.wikidata.org/entity/Q2026435>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6880_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6880_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_6880_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009-06-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009369>.
+<http://vocab.getty.edu/tgn/7009369> a <http://purl.org/dc/terms/Location>.
+_:df_6880_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-07-09"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6880_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01552"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6880_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015867/2022-02-25T20:00:26.490Z>.
+<https://stad.gent/id/agent/530001875/2022-02-25T18:59:40.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:59:40.889Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7144_6, _:df_7144_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paul Bailleul & Mia Wydooghe Bailleul";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7144_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01158"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7144_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001875/2022-02-25T18:59:40.889Z>.
+<https://stad.gent/id/agent/530001486/2022-02-25T18:35:36.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001486>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:35:36.153Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7318_34, _:df_7318_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7318_38;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paul Van Houtte & Cie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7318_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7244717>.
+<http://vocab.getty.edu/tgn/7244717> a <http://purl.org/dc/terms/Location>.
+_:df_7318_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00871"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7318_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001486"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001486/2022-02-25T18:35:36.153Z>.
+<https://stad.gent/id/agent/530001280/2022-02-25T18:23:26.053Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:23:26.053Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7405_34, _:df_7405_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7405_38;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauly & Co.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7405_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1902"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003021>.
+<http://vocab.getty.edu/tgn/7003021> a <http://purl.org/dc/terms/Location>.
+_:df_7405_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00727"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7405_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001280/2022-02-25T18:23:26.053Z>.
+<https://stad.gent/id/agent/530000911/2022-02-25T18:01:11.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:01:11.822Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7564_31, _:df_7564_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7564_35;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7564_37;
+    <http://xmlns.com/foaf/0.1/givenName> "Adolphe";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauli";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauli, Adolphe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500086483>, <https://www.wikidata.org/entity/Q17488132>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7564_41;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7564_41 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7564_37 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1895-03-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004446>.
+<http://vocab.getty.edu/tgn/7004446> a <http://purl.org/dc/terms/Location>.
+_:df_7564_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1820-02-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7564_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00462"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7564_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000911/2022-02-25T18:01:11.822Z>.
+<https://stad.gent/id/agent/530000592/2022-02-25T17:39:52.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000592>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:39:52.356Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7714_2, _:df_7714_4;
+    <http://www.w3.org/2004/02/skos/core#note> "zie biografische gegevens in papieren fiche 1982-0111";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7714_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7714_7;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Pierre";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q87649336>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7714_11;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7714_11 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7714_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2004"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7714_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1913"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_7714_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00208"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7714_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000592"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000592/2022-02-25T17:39:52.356Z>.
+<https://stad.gent/id/agent/530000225/2022-02-25T17:14:06.453Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:14:06.453Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7822_27, _:df_7822_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7822_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Achiel";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Achiel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q22237198>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7822_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7822_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_7822_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932-10-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_7822_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00031"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7822_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000225/2022-02-25T17:14:06.453Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/pau.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/pau.ttl>.

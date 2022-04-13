@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/570028420/2022-03-30T04:33:04.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:33:04.914Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2455_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "VEB Glühlampenwerk";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2455_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028420/2022-03-30T04:33:04.914Z>.
+<https://stad.gent/id/agent/570028147/2022-03-30T04:20:09.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:20:09.745Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2530_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "VEB Optima Büromaschinenwerke";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570032475>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570032475> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "VEB Optima"@nl.
+_:df_2530_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028147/2022-03-30T04:20:09.745Z>.
+<https://stad.gent/id/agent/570028420/2022-02-26T04:22:56.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:22:56.325Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5419_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "VEB Glühlampenwerk";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5419_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028420/2022-02-26T04:22:56.325Z>.
+<https://stad.gent/id/agent/570028147/2022-02-26T04:09:56.191Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:09:56.191Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5497_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "VEB Optima Büromaschinenwerke";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570032475>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570032475> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "VEB Optima"@nl.
+_:df_5497_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028147/2022-02-26T04:09:56.191Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/veb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/veb.ttl>.

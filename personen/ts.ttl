@@ -1,0 +1,48 @@
+<https://stad.gent/id/agent/670002394/2022-02-26T08:42:09.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:09.362Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_2, _:df_3697_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharina";
+    <http://xmlns.com/foaf/0.1/familyName> "Tserwauters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tserwauters, Catharina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3697_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2377"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3697_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002394/2022-02-26T08:42:09.362Z>.
+<https://stad.gent/id/agent/670002392/2022-02-26T08:41:59.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:41:59.358Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_18, _:df_3700_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Vitalis";
+    <http://xmlns.com/foaf/0.1/familyName> "Tsas";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tsas, Vitalis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3700_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2375"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3700_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002392/2022-02-26T08:41:59.358Z>.
+<https://stad.gent/id/agent/670002393/2022-02-26T08:42:04.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:42:04.360Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_26, _:df_3700_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Tollenaere Charles Robert Tserwauters";
+    <http://xmlns.com/foaf/0.1/givenName> "Charles Robert";
+    <http://xmlns.com/foaf/0.1/familyName> "Tserwauters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tserwauters, Charles Robert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3700_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2376"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3700_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002393/2022-02-26T08:42:04.360Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/ts.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/ts.ttl>.

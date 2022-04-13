@@ -1,0 +1,77 @@
+<https://stad.gent/id/agent/570029623/2022-03-30T04:55:53.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:55:53.609Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2317_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schmeing";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2317_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029623/2022-03-30T04:55:53.609Z>.
+<https://stad.gent/id/agent/570029623/2022-02-26T04:45:47.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:45:47.845Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5281_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schmeing";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5281_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029623/2022-02-26T04:45:47.845Z>.
+<https://stad.gent/id/agent/530023795/2022-02-25T23:17:46.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:17:46.770Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5950_25, _:df_5950_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5950_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Burkhard";
+    <http://xmlns.com/foaf/0.1/familyName> "Schmitz";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schmitz, Burkhard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5950_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5950_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_5950_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012400>.
+<http://vocab.getty.edu/tgn/7012400> a <http://purl.org/dc/terms/Location>.
+_:df_5950_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03026"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5950_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023795/2022-02-25T23:17:46.770Z>.
+<https://stad.gent/id/agent/530023234/2022-02-25T22:48:13.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:48:13.907Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6109_2, _:df_6109_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ch.";
+    <http://xmlns.com/foaf/0.1/familyName> "Schmerberg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schmerberg, Ch.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6109_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02758"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6109_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023234/2022-02-25T22:48:13.907Z>.
+<https://stad.gent/id/agent/530019973/2022-02-25T21:08:41.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:08:41.812Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6658_14, _:df_6658_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6658_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Schmidt Spiele";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q882160>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6658_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1907"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+<http://vocab.getty.edu/tgn/7003712> a <http://purl.org/dc/terms/Location>.
+_:df_6658_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01872"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6658_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019973/2022-02-25T21:08:41.812Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/schm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/schm.ttl>.

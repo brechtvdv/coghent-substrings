@@ -1,0 +1,47 @@
+<https://stad.gent/id/agent/670002883/2022-02-26T09:22:46.516Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:46.516Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3409_30, _:df_3409_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Bossche";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Bossche, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3409_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2866"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3409_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002883/2022-02-26T09:22:46.516Z>.
+<https://stad.gent/id/agent/670002877/2022-02-26T09:22:16.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002877>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:16.229Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_22, _:df_3412_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker G. vanden Bogaerde";
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Bogaerde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Bogaerde, G.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3412_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2860"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3412_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002877"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002877/2022-02-26T09:22:16.229Z>.
+<https://stad.gent/id/agent/670002878/2022-02-26T09:22:21.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:21.231Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_28, _:df_3412_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Bogaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Bogaert, Carel Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3412_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2861"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3412_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002878/2022-02-26T09:22:21.231Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/vanden+bo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/vanden+bo.ttl>.

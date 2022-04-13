@@ -1,0 +1,303 @@
+<https://stad.gent/id/agent/670001460/2022-03-30T07:34:38.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001460>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:38.911Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_2, _:df_1288_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1288_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1443"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1288_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001460"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001460/2022-03-30T07:34:38.911Z>.
+<https://stad.gent/id/agent/670001461/2022-03-30T07:34:43.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:43.913Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_7, _:df_1288_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nicolas";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Nicolas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1288_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1444"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1288_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001461/2022-03-30T07:34:43.913Z>.
+<https://stad.gent/id/agent/670001462/2022-03-30T07:34:48.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:48.913Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_15, _:df_1288_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernard weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Bernard weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1288_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1445"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1288_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001462/2022-03-30T07:34:48.913Z>.
+<https://stad.gent/id/agent/670001463/2022-03-30T07:34:53.915Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:53.915Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_20, _:df_1288_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelynck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelynck, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1288_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1446"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1288_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001463/2022-03-30T07:34:53.915Z>.
+<https://stad.gent/id/agent/670001455/2022-03-30T07:34:13.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:13.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_2, _:df_1291_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan Stephano";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelijnck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelijnck, Joan Stephano";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1438"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001455/2022-03-30T07:34:13.905Z>.
+<https://stad.gent/id/agent/670001456/2022-03-30T07:34:18.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:18.906Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_7, _:df_1291_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gregorius";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelijnck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelijnck, Gregorius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1439"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001456/2022-03-30T07:34:18.906Z>.
+<https://stad.gent/id/agent/670001457/2022-03-30T07:34:23.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:23.908Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_12, _:df_1291_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1440"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001457/2022-03-30T07:34:23.908Z>.
+<https://stad.gent/id/agent/670001458/2022-03-30T07:34:28.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:28.910Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_17, _:df_1291_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1441"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001458/2022-03-30T07:34:28.910Z>.
+<https://stad.gent/id/agent/670001459/2022-03-30T07:34:33.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:33.910Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_24, _:df_1291_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1442"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001459/2022-03-30T07:34:33.910Z>.
+<https://stad.gent/id/agent/670001454/2022-03-30T07:34:08.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:34:08.403Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1294_25, _:df_1294_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelijck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelijck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1294_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1437"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1294_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001454/2022-03-30T07:34:08.403Z>.
+<https://stad.gent/id/agent/570028667/2022-03-30T04:42:08.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:42:08.245Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2401_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2401_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028667/2022-03-30T04:42:08.245Z>.
+<https://stad.gent/id/agent/670001461/2022-02-26T07:24:28.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:28.654Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4252_2, _:df_4252_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nicolas";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Nicolas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4252_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1444"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4252_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001461/2022-02-26T07:24:28.654Z>.
+<https://stad.gent/id/agent/670001462/2022-02-26T07:24:33.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:33.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4252_10, _:df_4252_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernard weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Bernard weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4252_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1445"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4252_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001462/2022-02-26T07:24:33.657Z>.
+<https://stad.gent/id/agent/670001463/2022-02-26T07:24:38.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:38.660Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4252_15, _:df_4252_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelynck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelynck, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4252_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1446"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4252_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001463/2022-02-26T07:24:38.660Z>.
+<https://stad.gent/id/agent/670001456/2022-02-26T07:24:03.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:03.347Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4255_2, _:df_4255_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gregorius";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelijnck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelijnck, Gregorius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4255_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1439"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4255_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001456/2022-02-26T07:24:03.347Z>.
+<https://stad.gent/id/agent/670001457/2022-02-26T07:24:08.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:08.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4255_7, _:df_4255_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4255_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1440"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4255_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001457/2022-02-26T07:24:08.350Z>.
+<https://stad.gent/id/agent/670001458/2022-02-26T07:24:13.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:13.351Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4255_12, _:df_4255_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4255_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1441"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4255_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001458/2022-02-26T07:24:13.351Z>.
+<https://stad.gent/id/agent/670001459/2022-02-26T07:24:18.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:18.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4255_19, _:df_4255_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4255_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1442"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4255_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001459/2022-02-26T07:24:18.353Z>.
+<https://stad.gent/id/agent/670001460/2022-02-26T07:24:23.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001460>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:24:23.652Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4255_27, _:df_4255_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelinck, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4255_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1443"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4255_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001460"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001460/2022-02-26T07:24:23.652Z>.
+<https://stad.gent/id/agent/670001454/2022-02-26T07:23:53.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:23:53.344Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4258_20, _:df_4258_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Hebbelijck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hebbelijck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4258_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1437"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4258_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001454/2022-02-26T07:23:53.344Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/heb.ttl> <https://w3id.org/tree#relation> _:df_1_1654.
+_:df_1_1654 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/hebb.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "hebb".
+<https://brechtvdv.github.io/coghent-substrings/personen/heb.ttl> <https://w3id.org/tree#relation> _:df_1_1655.
+_:df_1_1655 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://brechtvdv.github.io/coghent-substrings/personen/hebe.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "hebe".
+<https://brechtvdv.github.io/coghent-substrings/personen/heb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/heb.ttl>.

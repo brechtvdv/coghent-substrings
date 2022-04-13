@@ -1,0 +1,266 @@
+<https://stad.gent/id/agent/570028340/2022-03-30T04:30:23.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:30:23.872Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portabi";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2470_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028340/2022-03-30T04:30:23.872Z>.
+<https://stad.gent/id/agent/570023905/2022-03-30T04:12:20.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:12:20.319Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2584_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portauw Jules Entreprises Electriques";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2584_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023905/2022-03-30T04:12:20.319Z>.
+<https://stad.gent/id/agent/670002060/2022-02-26T08:14:24.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:14:24.309Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_2, _:df_3895_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel";
+    <http://xmlns.com/foaf/0.1/familyName> "Portois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portois, Michiel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3895_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2043"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3895_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002060/2022-02-26T08:14:24.309Z>.
+<https://stad.gent/id/agent/670002061/2022-02-26T08:14:29.311Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:14:29.311Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_10, _:df_3895_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Augustin Bernardus";
+    <http://xmlns.com/foaf/0.1/familyName> "Portois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portois, Augustin Bernardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3895_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2044"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3895_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002061/2022-02-26T08:14:29.311Z>.
+<https://stad.gent/id/agent/670002062/2022-02-26T08:14:34.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:14:34.313Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_15, _:df_3895_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Augustinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Portois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portois, Augustinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3895_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2045"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3895_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002062/2022-02-26T08:14:34.313Z>.
+<https://stad.gent/id/agent/670002063/2022-02-26T08:14:39.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:14:39.315Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_23, _:df_3895_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Portois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portois, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3895_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2046"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3895_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002063"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002063/2022-02-26T08:14:39.315Z>.
+<https://stad.gent/id/agent/570028340/2022-02-26T04:20:15.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:20:15.391Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5437_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portabi";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5437_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028340/2022-02-26T04:20:15.391Z>.
+<https://stad.gent/id/agent/570023905/2022-02-26T04:02:07.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:02:07.849Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5551_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portauw Jules Entreprises Electriques";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5551_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023905/2022-02-26T04:02:07.849Z>.
+<https://stad.gent/id/agent/530023998/2022-02-25T23:28:11.266Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:28:11.266Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5929_11, _:df_5929_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porcelaine de Baudour";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5929_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03103"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5929_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023998/2022-02-25T23:28:11.266Z>.
+<https://stad.gent/id/agent/530023711/2022-02-25T23:17:01.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023711>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:17:01.430Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5953_2, _:df_5953_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porselein Pieter Stockmans";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5953_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03017"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5953_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023711"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023711/2022-02-25T23:17:01.430Z>.
+<https://stad.gent/id/agent/530023712/2022-02-25T23:17:06.432Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023712>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:17:06.432Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5953_6, _:df_5953_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5953_9;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porsgrundo Porzelaenfabrik";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5953_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1885"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5953_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03018"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5953_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023712"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023712/2022-02-25T23:17:06.432Z>.
+<https://stad.gent/id/agent/530023713/2022-02-25T23:17:11.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:17:11.434Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5953_11, _:df_5953_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5953_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Gilbert";
+    <http://xmlns.com/foaf/0.1/familyName> "Portanier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Portanier, Gilbert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3105826>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_5953_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5953_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_5953_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926-09-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008765>.
+<http://vocab.getty.edu/tgn/7008765> a <http://purl.org/dc/terms/Location>.
+_:df_5953_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03019"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5953_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023713/2022-02-25T23:17:11.434Z>.
+<https://stad.gent/id/agent/530023715/2022-02-25T23:17:21.437Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:17:21.437Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5953_26, _:df_5953_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5953_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porzellanfabrik Stadlengsfeld";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2105498>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5953_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1889"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1037765>.
+<http://vocab.getty.edu/tgn/1037765> a <http://purl.org/dc/terms/Location>.
+_:df_5953_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03021"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5953_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023715/2022-02-25T23:17:21.437Z>.
+<https://stad.gent/id/agent/530023710/2022-02-25T23:16:56.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023710>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:16:56.428Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5956_22, _:df_5956_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porcelaine Lafarge & Cie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5956_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03016"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5956_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023710"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023710/2022-02-25T23:16:56.428Z>.
+<https://stad.gent/id/agent/530023193/2022-02-25T22:45:17.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:45:17.646Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6130_20, _:df_6130_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6130_23;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porzellanfabrik Thomas & Ens";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6130_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6130_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02725"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6130_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023193/2022-02-25T22:45:17.646Z>.
+<https://stad.gent/id/agent/530020866/2022-02-25T21:43:16.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:43:16.700Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6472_11, _:df_6472_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6472_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porzellan-Manufaktur Burgau";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1663289>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6472_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1901"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7205817>.
+<http://vocab.getty.edu/tgn/7205817> a <http://purl.org/dc/terms/Location>.
+_:df_6472_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02173"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6472_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020866/2022-02-25T21:43:16.700Z>.
+<https://stad.gent/id/agent/530020858/2022-02-25T21:42:51.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:42:51.693Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6475_13, _:df_6475_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6475_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porzellan-Manufaktur Meissen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q822407>, <http://vocab.getty.edu/ulan/500054662>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530000535>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530000535> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Meissen Porzellanmanufaktur"@nl.
+_:df_6475_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1710"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012844>.
+<http://vocab.getty.edu/tgn/7012844> a <http://purl.org/dc/terms/Location>.
+_:df_6475_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02168"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6475_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020858/2022-02-25T21:42:51.693Z>.
+<https://stad.gent/id/agent/530018699/2022-02-25T20:50:47.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530018699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:50:47.742Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6709_2, _:df_6709_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6709_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Porsche Design GmbH";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1534581>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6709_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012585>.
+<http://vocab.getty.edu/tgn/7012585> a <http://purl.org/dc/terms/Location>.
+_:df_6709_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01819"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6709_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530018699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530018699/2022-02-25T20:50:47.742Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/por.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/por.ttl>.

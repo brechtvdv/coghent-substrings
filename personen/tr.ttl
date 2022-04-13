@@ -1,0 +1,292 @@
+<https://stad.gent/id/agent/670002386/2022-03-30T08:52:01.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:52:01.006Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_742_23, _:df_742_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Tricot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tricot, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_742_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2369"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_742_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002386/2022-03-30T08:52:01.006Z>.
+<https://stad.gent/id/agent/670002387/2022-03-30T08:52:06.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:52:06.007Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_742_31, _:df_742_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Triest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Triest, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_742_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2370"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_742_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002387/2022-03-30T08:52:06.007Z>.
+<https://stad.gent/id/agent/570029614/2022-03-30T04:55:23.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029614>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:55:23.597Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2320_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Träga";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2320_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029614"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029614/2022-03-30T04:55:23.597Z>.
+<https://stad.gent/id/agent/570028325/2022-03-30T04:29:53.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:29:53.243Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2473_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trayvou";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2473_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028325/2022-03-30T04:29:53.243Z>.
+<https://stad.gent/id/agent/570021374/2022-03-30T04:03:42.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:03:42.115Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2644_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tranoy";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2644_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021374/2022-03-30T04:03:42.115Z>.
+<https://stad.gent/id/agent/530020615/2022-03-17T00:05:28.516Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:05:28.516Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2908_31, _:df_2908_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2908_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Dagmar";
+    <http://xmlns.com/foaf/0.1/familyName> "Trinks";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trinks, Dagmar";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2908_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2908_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_2908_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1962"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2908_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02052"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2908_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020615/2022-03-17T00:05:28.516Z>.
+<https://stad.gent/id/agent/670003643/2022-02-26T10:17:09.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:17:09.066Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3019_2, _:df_3019_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Tréfois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tréfois";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3019_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0295"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3019_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003643/2022-02-26T10:17:09.066Z>.
+<https://stad.gent/id/agent/670002389/2022-02-26T08:41:44.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:41:44.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_2, _:df_3700_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Gampelaere Jan Frans Triest";
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Triest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Triest, Jan Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3700_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2372"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3700_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002389/2022-02-26T08:41:44.352Z>.
+<https://stad.gent/id/agent/670002390/2022-02-26T08:41:49.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:41:49.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_8, _:df_3700_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume";
+    <http://xmlns.com/foaf/0.1/familyName> "Trijoen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trijoen, Guillaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3700_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2373"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3700_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002390/2022-02-26T08:41:49.353Z>.
+<https://stad.gent/id/agent/670002391/2022-02-26T08:41:54.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:41:54.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_13, _:df_3700_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "L.F.J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Trulin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trulin, L.F.J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3700_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2374"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3700_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002391/2022-02-26T08:41:54.355Z>.
+<https://stad.gent/id/agent/670002386/2022-02-26T08:41:29.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:41:29.043Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3703_18, _:df_3703_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Tricot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tricot, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3703_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2369"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3703_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002386/2022-02-26T08:41:29.043Z>.
+<https://stad.gent/id/agent/670002387/2022-02-26T08:41:34.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:41:34.045Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3703_26, _:df_3703_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Triest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Triest, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3703_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2370"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3703_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002387/2022-02-26T08:41:34.045Z>.
+<https://stad.gent/id/agent/670002388/2022-02-26T08:41:39.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:41:39.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3703_34, _:df_3703_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Triest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Triest, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3703_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2371"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3703_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002388/2022-02-26T08:41:39.350Z>.
+<https://stad.gent/id/agent/570029614/2022-02-26T04:45:17.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029614>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:45:17.534Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5287_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Träga";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5287_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029614"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029614/2022-02-26T04:45:17.534Z>.
+<https://stad.gent/id/agent/570028325/2022-02-26T04:19:45.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:19:45.379Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5440_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trayvou";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5440_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028325/2022-02-26T04:19:45.379Z>.
+<https://stad.gent/id/agent/570021374/2022-02-26T03:53:28.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:53:28.028Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5611_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tranoy";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5611_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021374/2022-02-26T03:53:28.028Z>.
+<https://stad.gent/id/agent/530021614/2022-02-25T22:02:39.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021614>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:02:39.518Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6367_29, _:df_6367_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6367_33;
+    <http://xmlns.com/foaf/0.1/givenName> "Yvon";
+    <http://xmlns.com/foaf/0.1/familyName> "Trossèl";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trossèl, Yvon";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/78283>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6367_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6367_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_6367_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1962-05-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006820>.
+<http://vocab.getty.edu/tgn/7006820> a <http://purl.org/dc/terms/Location>.
+_:df_6367_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02344"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6367_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021614"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021614/2022-02-25T22:02:39.518Z>.
+<https://stad.gent/id/agent/530020615/2022-02-25T21:29:21.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:29:21.160Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6547_31, _:df_6547_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6547_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Dagmar";
+    <http://xmlns.com/foaf/0.1/familyName> "Trinks";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trinks, Dagmar";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6547_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1962"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_6547_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02052"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6547_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020615/2022-02-25T21:29:21.160Z>.
+<https://stad.gent/id/agent/530013296/2022-02-25T19:23:51.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:23:51.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7087_6, _:df_7087_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "TRIBU N.V.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7087_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01227"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7087_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013296/2022-02-25T19:23:51.507Z>.
+<https://stad.gent/id/agent/530000564/2022-02-25T17:37:56.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:37:56.715Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7729_20, _:df_7729_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7729_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Anne Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "Trolle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Trolle, Anne Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97780108>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7729_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7729_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_7729_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1944"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7729_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00185"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7729_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000564/2022-02-25T17:37:56.715Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tr.ttl>.

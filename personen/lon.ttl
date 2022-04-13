@@ -1,0 +1,26 @@
+<https://stad.gent/id/agent/530016590/2022-02-25T20:06:54.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:06:54.039Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6850_2, _:df_6850_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lonario";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6850_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01598"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6850_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016590"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016590/2022-02-25T20:06:54.039Z>.
+<https://stad.gent/id/agent/530001147/2022-02-25T18:16:23.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:16:23.320Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7453_2, _:df_7453_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Longwy";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7453_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00643"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7453_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001147/2022-02-25T18:16:23.320Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lon.ttl>.

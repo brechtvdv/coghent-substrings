@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/670002745/2022-02-26T09:11:27.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:27.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_26, _:df_3490_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "van Osstaele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Osstaele, Livinus weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3490_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2728"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3490_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002745/2022-02-26T09:11:27.000Z>.
+<https://stad.gent/id/agent/530000657/2022-02-25T17:44:59.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:44:59.550Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7678_9, _:df_7678_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "van Os van den Abeel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Os van den Abeel, J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7678_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00269"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7678_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000657/2022-02-25T17:44:59.550Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+os.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+os.ttl>.

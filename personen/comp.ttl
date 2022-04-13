@@ -1,0 +1,150 @@
+<https://stad.gent/id/agent/670000446/2022-02-26T05:59:30.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:59:30.172Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4861_19, _:df_4861_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Bernardus";
+    <http://xmlns.com/foaf/0.1/familyName> "Compare";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compare, Pieter Bernardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4861_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0429"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4861_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000446/2022-02-26T05:59:30.172Z>.
+<https://stad.gent/id/agent/670000447/2022-02-26T05:59:35.610Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:59:35.610Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4861_27, _:df_4861_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Compare";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compare, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4861_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0430"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4861_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000447/2022-02-26T05:59:35.610Z>.
+<https://stad.gent/id/agent/570032050/2022-02-26T05:10:42.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:10:42.250Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5158_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5158_4;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5158_5;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compugraphic Corporation";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5157221>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5158_5 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1988"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5158_4 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007517>.
+<http://vocab.getty.edu/tgn/7007517> a <http://purl.org/dc/terms/Location>.
+_:df_5158_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032050/2022-02-26T05:10:42.250Z>.
+<https://stad.gent/id/agent/570029662/2022-02-26T04:46:58.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:46:58.156Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5275_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnie des Compteurs (CdC)";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570019966>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570019966> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "CdC"@nl.
+_:df_5275_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029662/2022-02-26T04:46:58.156Z>.
+<https://stad.gent/id/agent/570029480/2022-02-26T04:43:36.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:43:36.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5296_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnie Continentale pour la Fabrication des Compteurs à Gaz & autre Appareils";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5296_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029480/2022-02-26T04:43:36.863Z>.
+<https://stad.gent/id/agent/570029534/2022-02-26T04:43:51.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:43:51.867Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5296_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnie Continentale des Compteurs";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5296_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029534/2022-02-26T04:43:51.867Z>.
+<https://stad.gent/id/agent/570028152/2022-02-26T04:10:06.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028152>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:10:06.194Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5497_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnie Génerale Belge Des Isolants (Cogebi)";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570028252>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570028252> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Cogebi"@nl.
+_:df_5497_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028152"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028152/2022-02-26T04:10:06.194Z>.
+<https://stad.gent/id/agent/570025518/2022-02-26T04:05:49.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:05:49.257Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5524_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnie Industrielle de Mecanique Horlogère";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570028287>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570028287> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "JAZ"@nl.
+_:df_5524_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025518/2022-02-26T04:05:49.257Z>.
+<https://stad.gent/id/agent/570023927/2022-02-26T04:02:17.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023927>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:02:17.853Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5548_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnie du Gaz Anvers";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5548_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023927"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023927/2022-02-26T04:02:17.853Z>.
+<https://stad.gent/id/agent/530023496/2022-02-25T23:06:31.431Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:06:31.431Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6001_22, _:df_6001_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6001_26;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnie de L'Esthétique Industrielle (CEI)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6001_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1952"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_6001_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02940"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6001_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023496/2022-02-25T23:06:31.431Z>.
+<https://stad.gent/id/agent/530020732/2022-02-25T21:36:38.915Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:36:38.915Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6505_23, _:df_6505_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6505_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Compagnia Vetraria Muranese";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6505_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003021>.
+<http://vocab.getty.edu/tgn/7003021> a <http://purl.org/dc/terms/Location>.
+_:df_6505_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02121"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6505_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020732/2022-02-25T21:36:38.915Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/comp.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/comp.ttl>.

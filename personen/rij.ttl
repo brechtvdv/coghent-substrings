@@ -1,0 +1,68 @@
+<https://stad.gent/id/agent/670002098/2022-02-26T08:17:35.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:17:35.555Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3874_25, _:df_3874_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Rijckaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rijckaert, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3874_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2081"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3874_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002098/2022-02-26T08:17:35.555Z>.
+<https://stad.gent/id/agent/670002099/2022-02-26T08:17:40.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:17:40.557Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3874_33, _:df_3874_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Rijckard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rijckard, Adriaen weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3874_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2082"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3874_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002099/2022-02-26T08:17:40.557Z>.
+<https://stad.gent/id/agent/530001313/2022-02-25T18:25:52.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001313>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:25:52.147Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7387_19, _:df_7387_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rijnland";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7387_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00756"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7387_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001313"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001313/2022-02-25T18:25:52.147Z>.
+<https://stad.gent/id/agent/470004118/2022-02-25T16:49:57.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:49:57.279Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7909_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rijksuniversiteit Gent";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1137665>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/470001109>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/470001109> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Universiteit Gent"@nl.
+_:df_7909_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470004118/2022-02-25T16:49:57.279Z>.
+<https://stad.gent/id/agent/470004273/2022-02-25T16:50:17.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:50:17.287Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7909_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rijksmuseum";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/ulan/500246547>, <https://www.wikidata.org/entity/Q190804>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7909_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004273"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470004273/2022-02-25T16:50:17.287Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/rij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/rij.ttl>.

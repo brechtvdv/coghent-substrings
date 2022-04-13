@@ -1,0 +1,208 @@
+<https://stad.gent/id/agent/670001981/2022-03-30T08:18:05.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T08:18:05.819Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_982_27, _:df_982_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Laureyns";
+    <http://xmlns.com/foaf/0.1/familyName> "Palijnck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palijnck, Laureyns";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_982_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1964"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_982_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001981/2022-03-30T08:18:05.819Z>.
+<https://stad.gent/id/agent/570028674/2022-03-30T04:42:23.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:42:23.249Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2401_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmex";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2401_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028674/2022-03-30T04:42:23.249Z>.
+<https://stad.gent/id/agent/570021359/2022-03-30T04:02:46.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:02:46.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2650_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmafina nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2650_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021359/2022-03-30T04:02:46.759Z>.
+<https://stad.gent/id/agent/570021165/2022-03-30T04:01:00.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:01:00.860Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2662_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmolive Company";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2662_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021165/2022-03-30T04:01:00.860Z>.
+<https://stad.gent/id/agent/670001981/2022-02-26T08:07:46.903Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:07:46.903Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3943_7, _:df_3943_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Laureyns";
+    <http://xmlns.com/foaf/0.1/familyName> "Palijnck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palijnck, Laureyns";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3943_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1964"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3943_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001981/2022-02-26T08:07:46.903Z>.
+<https://stad.gent/id/agent/670001982/2022-02-26T08:07:51.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:07:51.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3943_12, _:df_3943_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lieven";
+    <http://xmlns.com/foaf/0.1/familyName> "Palinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palinck, Lieven";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3943_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1965"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3943_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001982/2022-02-26T08:07:51.905Z>.
+<https://stad.gent/id/agent/570028674/2022-02-26T04:32:17.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:32:17.365Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5365_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmex";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5365_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028674/2022-02-26T04:32:17.365Z>.
+<https://stad.gent/id/agent/570021359/2022-02-26T03:52:32.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:52:32.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5617_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmafina nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5617_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021359/2022-02-26T03:52:32.726Z>.
+<https://stad.gent/id/agent/570021165/2022-02-26T03:50:47.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:50:47.019Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmolive Company";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5629_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021165/2022-02-26T03:50:47.019Z>.
+<https://stad.gent/id/agent/530020609/2022-02-25T21:28:50.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:28:50.844Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6550_27, _:df_6550_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6550_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Romolo";
+    <http://xmlns.com/foaf/0.1/familyName> "Pallotta";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pallotta, Romolo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500195177>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6550_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6550_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_6550_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1954"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006026>.
+<http://vocab.getty.edu/tgn/7006026> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_6550_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02046"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6550_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020609/2022-02-25T21:28:50.844Z>.
+<https://stad.gent/id/agent/530016887/2022-02-25T20:23:41.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:23:41.131Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6763_32, _:df_6763_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6763_36;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6763_38;
+    <http://xmlns.com/foaf/0.1/givenName> "Sven";
+    <http://xmlns.com/foaf/0.1/familyName> "Palmqvist";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmqvist, Sven";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500332832>, <https://www.wikidata.org/entity/Q6034037>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6763_42;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6763_42 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_6763_38 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1984-02-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q43549106>.
+<https://www.wikidata.org/entity/q43549106> a <http://purl.org/dc/terms/Location>.
+_:df_6763_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1906-09-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1063294>.
+<http://vocab.getty.edu/tgn/1063294> a <http://purl.org/dc/terms/Location>.
+_:df_6763_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01747"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6763_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016887/2022-02-25T20:23:41.131Z>.
+<https://stad.gent/id/agent/530013750/2022-02-25T19:51:22.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:51:22.896Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6919_10, _:df_6919_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palmer";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6919_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01507"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6919_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013750/2022-02-25T19:51:22.896Z>.
+<https://stad.gent/id/agent/530001238/2022-02-25T18:21:15.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:21:15.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7420_32, _:df_7420_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pallme-König & Habel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7420_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00701"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7420_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001238/2022-02-25T18:21:15.079Z>.
+<https://stad.gent/id/agent/530000580/2022-02-25T17:39:07.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:39:07.057Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7720_6, _:df_7720_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7720_9;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7720_10;
+    <http://xmlns.com/foaf/0.1/givenName> "Ole";
+    <http://xmlns.com/foaf/0.1/familyName> "Palsby";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Palsby, Ole";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55340991>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7720_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7720_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_7720_10 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2010-10-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7720_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1935-04-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7720_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00199"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7720_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000580/2022-02-25T17:39:07.057Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/pal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/pal.ttl>.

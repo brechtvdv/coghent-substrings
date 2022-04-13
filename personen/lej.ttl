@@ -1,0 +1,36 @@
+<https://stad.gent/id/agent/570014272/2022-03-30T03:39:04.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:39:04.881Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2806_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lejeune J.P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2806_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014272/2022-03-30T03:39:04.881Z>.
+<https://stad.gent/id/agent/570014272/2022-02-26T03:28:53.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:28:53.036Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5773_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lejeune J.P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5773_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014272/2022-02-26T03:28:53.036Z>.
+<https://stad.gent/id/agent/530015638/2022-02-25T19:58:35.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:58:35.450Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6889_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Claire";
+    <http://xmlns.com/foaf/0.1/familyName> "Lejeune";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lejeune, Claire";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21192312>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6889_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015638/2022-02-25T19:58:35.450Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/lej.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/lej.ttl>.

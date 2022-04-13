@@ -1,0 +1,96 @@
+<https://stad.gent/id/agent/670001258/2022-03-30T07:17:50.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:17:50.271Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_2, _:df_1408_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "namens het begijnhof Onze-Lieve-Vrouw Ter Hooie Philipotte d'Ysenbaert";
+    <http://xmlns.com/foaf/0.1/givenName> "Philipotte";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Ysenbaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Ysenbaert, Philipotte";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1408_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1241"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1408_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001258/2022-03-30T07:17:50.271Z>.
+<https://stad.gent/id/agent/570021188/2022-03-30T04:01:10.864Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:01:10.864Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2662_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dynasteel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2662_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021188/2022-03-30T04:01:10.864Z>.
+<https://stad.gent/id/agent/670001258/2022-02-26T07:07:31.436Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:07:31.436Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4375_20, _:df_4375_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "namens het begijnhof Onze-Lieve-Vrouw Ter Hooie Philipotte d'Ysenbaert";
+    <http://xmlns.com/foaf/0.1/givenName> "Philipotte";
+    <http://xmlns.com/foaf/0.1/familyName> "d'Ysenbaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "d'Ysenbaert, Philipotte";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4375_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1241"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4375_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001258/2022-02-26T07:07:31.436Z>.
+<https://stad.gent/id/agent/570021188/2022-02-26T03:50:57.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:50:57.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dynasteel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5629_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021188/2022-02-26T03:50:57.022Z>.
+<https://stad.gent/id/agent/530013455/2022-02-25T19:32:55.202Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:32:55.202Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7030_7, _:df_7030_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7030_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dyson Ltd";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q621429>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7030_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1994"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011217>.
+<http://vocab.getty.edu/tgn/7011217> a <http://purl.org/dc/terms/Location>.
+_:df_7030_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01321"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7030_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013455/2022-02-25T19:32:55.202Z>.
+<https://stad.gent/id/agent/530013456/2022-02-25T19:33:00.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:33:00.205Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7030_14, _:df_7030_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7030_18;
+    <http://xmlns.com/foaf/0.1/givenName> "James";
+    <http://xmlns.com/foaf/0.1/familyName> "Dyson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dyson, James";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500261400>, <https://www.wikidata.org/entity/Q1346101>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7030_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7030_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_7030_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1947-05-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7010762>.
+<http://vocab.getty.edu/tgn/7010762> a <http://purl.org/dc/terms/Location>.
+_:df_7030_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01322"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7030_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013456/2022-02-25T19:33:00.205Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dy.ttl>.

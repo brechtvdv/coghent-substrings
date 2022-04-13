@@ -1,0 +1,133 @@
+<https://stad.gent/id/agent/670002372/2022-02-26T08:40:18.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:40:18.724Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3712_20, _:df_3712_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel Lieven";
+    <http://xmlns.com/foaf/0.1/familyName> "Thollens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thollens, Carel Lieven";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3712_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2355"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3712_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002372/2022-02-26T08:40:18.724Z>.
+<https://stad.gent/id/agent/670002373/2022-02-26T08:40:23.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:40:23.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3712_25, _:df_3712_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Thomas";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thomas, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3712_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2356"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3712_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002373/2022-02-26T08:40:23.726Z>.
+<https://stad.gent/id/agent/570030974/2022-02-26T04:57:57.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030974>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:57:57.325Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5203_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thomson-Houston & Carels nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5203_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030974"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030974/2022-02-26T04:57:57.325Z>.
+<https://stad.gent/id/agent/570028224/2022-02-26T04:15:03.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:15:03.408Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5467_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thoma";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5467_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028224/2022-02-26T04:15:03.408Z>.
+<https://stad.gent/id/agent/530021636/2022-02-25T22:04:30.187Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:04:30.187Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6352_9, _:df_6352_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thomson";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6352_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02366"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6352_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021636/2022-02-25T22:04:30.187Z>.
+<https://stad.gent/id/agent/530018270/2022-02-25T20:50:12.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530018270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T20:50:12.419Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6712_2, _:df_6712_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6712_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6712_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Michael";
+    <http://xmlns.com/foaf/0.1/familyName> "Thonet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thonet, Michael";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q60229>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6712_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6712_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_6712_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1871-03-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>.
+_:df_6712_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1796-07-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7212706>.
+<http://vocab.getty.edu/tgn/7212706> a <http://purl.org/dc/terms/Location>.
+_:df_6712_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01815"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6712_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530018270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530018270/2022-02-25T20:50:12.419Z>.
+<https://stad.gent/id/agent/530001711/2022-02-25T18:49:16.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001711>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:49:16.847Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7219_21, _:df_7219_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7219_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thonet Mundus AG";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7219_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1922"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_7219_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01034"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7219_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001711"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001711/2022-02-25T18:49:16.847Z>.
+<https://stad.gent/id/agent/530000697/2022-02-25T17:47:50.815Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T17:47:50.815Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7657_2, _:df_7657_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Aug.";
+    <http://xmlns.com/foaf/0.1/familyName> "Thomsen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thomsen, Aug.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7657_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00303"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7657_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000697/2022-02-25T17:47:50.815Z>.
+<https://stad.gent/id/agent/470019464/2022-02-25T16:59:15.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:59:15.659Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7843_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thonet, Michael";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q60229>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7843_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019464/2022-02-25T16:59:15.659Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/tho.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/tho.ttl>.

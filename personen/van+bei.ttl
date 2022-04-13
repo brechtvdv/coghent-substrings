@@ -1,0 +1,15 @@
+<https://stad.gent/id/agent/530015436/2022-02-25T19:57:55.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:57:55.438Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6892_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Walter";
+    <http://xmlns.com/foaf/0.1/familyName> "van Beirendonck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Beirendonck, Walter";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1396462>, <https://rkd.nl/explore/artists/116202>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6892_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015436/2022-02-25T19:57:55.438Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+bei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+bei.ttl>.

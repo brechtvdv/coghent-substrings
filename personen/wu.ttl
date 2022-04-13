@@ -1,0 +1,144 @@
+<https://stad.gent/id/agent/670003191/2022-02-26T09:48:36.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:48:36.570Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3223_8, _:df_3223_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Wuisbecqz";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wuisbecqz, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3223_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3174"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3223_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003191/2022-02-26T09:48:36.570Z>.
+<https://stad.gent/id/agent/530021942/2022-02-25T22:14:49.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:14:49.880Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6292_34, _:df_6292_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6292_38;
+    <http://xmlns.com/foaf/0.1/givenName> "Clara";
+    <http://xmlns.com/foaf/0.1/familyName> "Wuffaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wuffaert, Clara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/102120>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6292_42;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6292_42 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6292_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1812"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_6292_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02468"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6292_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021942/2022-02-25T22:14:49.880Z>.
+<https://stad.gent/id/agent/530021010/2022-02-25T21:46:28.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:46:28.139Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6454_2, _:df_6454_4;
+    <http://www.w3.org/2004/02/skos/core#note> "[http://de.wikipedia.org/wiki/W%C3%BCrttembergische_Metallwarenfabrik]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6454_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Württembergische Metallwarenfabrik";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6454_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1853"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012472>.
+<http://vocab.getty.edu/tgn/7012472> a <http://purl.org/dc/terms/Location>.
+_:df_6454_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02201"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6454_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021010/2022-02-25T21:46:28.139Z>.
+<https://stad.gent/id/agent/530020583/2022-02-25T21:26:55.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020583>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T21:26:55.207Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6562_13, _:df_6562_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bjorn";
+    <http://xmlns.com/foaf/0.1/familyName> "Wünblad";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wünblad, Bjorn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6562_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02025"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6562_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020583"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020583/2022-02-25T21:26:55.207Z>.
+<https://stad.gent/id/agent/530008221/2022-02-25T19:08:39.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530008221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:08:39.650Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7108_38, _:df_7108_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Leon";
+    <http://xmlns.com/foaf/0.1/familyName> "Wuidar";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wuidar, Leon";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3271407>, <https://rkd.nl/explore/artists/102116>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7108_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03385"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7108_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530008221/2022-02-25T19:08:39.650Z>.
+<https://stad.gent/id/agent/530001752/2022-02-25T18:51:57.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:51:57.843Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7201_29, _:df_7201_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wulf Schneider & Ulrich Böhme";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7201_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01066"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7201_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001752/2022-02-25T18:51:57.843Z>.
+<https://stad.gent/id/agent/530001471/2022-02-25T18:34:40.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:34:40.485Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7324_27, _:df_7324_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7324_31;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_7324_33;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul";
+    <http://xmlns.com/foaf/0.1/familyName> "Wunderlich";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wunderlich, Paul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500025297>, <https://www.wikidata.org/entity/Q316829>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_7324_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7324_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_7324_33 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2010-06-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7609832>.
+<http://vocab.getty.edu/tgn/7609832> a <http://purl.org/dc/terms/Location>.
+_:df_7324_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-03-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1036629>.
+<http://vocab.getty.edu/tgn/1036629> a <http://purl.org/dc/terms/Location>.
+_:df_7324_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00860"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7324_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001471/2022-02-25T18:34:40.485Z>.
+<https://stad.gent/id/agent/530000945/2022-02-25T18:03:07.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:03:07.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7549_11, _:df_7549_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Clar";
+    <http://xmlns.com/foaf/0.1/familyName> "Wullfaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wullfaert, Clar";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7549_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00485"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7549_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000945/2022-02-25T18:03:07.530Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/wu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/wu.ttl>.

@@ -1,0 +1,37 @@
+<https://stad.gent/id/agent/570020354/2022-03-30T03:57:34.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:57:34.609Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2686_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Buggenhoudt F. nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2686_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020354/2022-03-30T03:57:34.609Z>.
+<https://stad.gent/id/agent/670002484/2022-02-26T08:49:37.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:49:37.380Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3646_28, _:df_3646_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Isabella";
+    <http://xmlns.com/foaf/0.1/familyName> "van Buiel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Buiel, Isabella";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3646_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2467"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3646_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002484/2022-02-26T08:49:37.380Z>.
+<https://stad.gent/id/agent/570020354/2022-02-26T03:47:20.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:47:20.651Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5653_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Buggenhoudt F. nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5653_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020354/2022-02-26T03:47:20.651Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/van+bu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/van+bu.ttl>.

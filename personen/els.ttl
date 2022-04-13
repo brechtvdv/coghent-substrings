@@ -1,0 +1,60 @@
+<https://stad.gent/id/agent/670001273/2022-02-26T07:08:42.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:42.121Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4366_14, _:df_4366_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Elsens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elsens, Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4366_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1256"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4366_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001273"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001273/2022-02-26T07:08:42.121Z>.
+<https://stad.gent/id/agent/670001274/2022-02-26T07:08:47.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001274>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:08:47.123Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4366_19, _:df_4366_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "N.";
+    <http://xmlns.com/foaf/0.1/familyName> "Elslandt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elslandt, N.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4366_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1257"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4366_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001274"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001274/2022-02-26T07:08:47.123Z>.
+<https://stad.gent/id/agent/530023049/2022-02-25T22:36:34.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T22:36:34.067Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6172_19, _:df_6172_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6172_23;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_6172_25;
+    <http://xmlns.com/foaf/0.1/givenName> "Harry";
+    <http://xmlns.com/foaf/0.1/familyName> "Elström";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Elström, Harry";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2275331>, <https://rkd.nl/explore/artists/26105>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_6172_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6172_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_6172_25 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1993-05-17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7241946>.
+<http://vocab.getty.edu/tgn/7241946> a <http://purl.org/dc/terms/Location>.
+_:df_6172_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1906-08-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+<http://vocab.getty.edu/tgn/7003712> a <http://purl.org/dc/terms/Location>.
+_:df_6172_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02656"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6172_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023049/2022-02-25T22:36:34.067Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/els.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/els.ttl>.

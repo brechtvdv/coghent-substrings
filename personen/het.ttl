@@ -1,0 +1,157 @@
+<https://stad.gent/id/agent/570014621/2022-03-30T03:40:20.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:40:20.248Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2797_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2797_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Laatste Nieuws";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1457499>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2797_7 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1888"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2797_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014621/2022-03-30T03:40:20.248Z>.
+<https://stad.gent/id/agent/570005005/2022-03-30T03:35:36.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570005005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:35:36.149Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2827_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Licht S.M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2827_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570005005/2022-03-30T03:35:36.149Z>.
+<https://stad.gent/id/agent/570001250/2022-03-30T03:35:10.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570001250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:35:10.646Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2830_7;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2830_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Volk";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3134770>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2830_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2008"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2830_7 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1891"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2830_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570001250/2022-03-30T03:35:10.646Z>.
+<https://stad.gent/id/agent/670003258/2022-03-17T00:07:14.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:07:14.351Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2896_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hetschap, Joseph";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2896_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003258/2022-03-17T00:07:14.351Z>.
+<https://stad.gent/id/agent/670003459/2022-02-26T10:01:47.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:01:47.463Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_10, _:df_3130_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Het Rolleken (politiegevangenis)";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Rolleken (politiegevangenis)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3130_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0110"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3130_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003459/2022-02-26T10:01:47.463Z>.
+<https://stad.gent/id/agent/670003460/2022-02-26T10:01:52.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003460>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:01:52.465Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_14, _:df_3130_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Het Volk";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Volk";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3130_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0111"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3130_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003460"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003460/2022-02-26T10:01:52.465Z>.
+<https://stad.gent/id/agent/670003381/2022-02-26T09:55:14.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:55:14.224Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3178_21, _:df_3178_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Synoniem: Sint-Salvatorkerk";
+    <http://xmlns.com/foaf/0.1/familyName> "Het Damberd";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Damberd";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25161>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3178_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0032"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3178_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003381/2022-02-26T09:55:14.224Z>.
+<https://stad.gent/id/agent/570014621/2022-02-26T03:30:08.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:30:08.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5764_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5764_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Laatste Nieuws";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1457499>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5764_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1888"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5764_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014621/2022-02-26T03:30:08.782Z>.
+<https://stad.gent/id/agent/570005005/2022-02-26T03:25:26.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570005005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:25:26.822Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5794_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Licht S.M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5794_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570005005/2022-02-26T03:25:26.822Z>.
+<https://stad.gent/id/agent/570001250/2022-02-26T03:25:01.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570001250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:25:01.511Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5797_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5797_12;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5797_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Volk";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3134770>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5797_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2008"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5797_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1891"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5797_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570001250/2022-02-26T03:25:01.511Z>.
+<https://stad.gent/id/agent/470004487/2022-02-25T16:50:37.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:50:37.294Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7906_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Volk";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3134770>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7906_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470004487/2022-02-25T16:50:37.294Z>.
+<https://stad.gent/id/agent/470000180/2022-02-25T16:47:45.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470000180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T16:47:45.551Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7924_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Het Huis van Alijn (Gent)";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2358158>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7924_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470000180/2022-02-25T16:47:45.551Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/het.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/het.ttl>.

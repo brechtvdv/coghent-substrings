@@ -1,0 +1,304 @@
+<https://stad.gent/id/agent/670001083/2022-03-30T07:03:19.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:03:19.060Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1513_20, _:df_1513_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_1513_23;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_1513_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Ferdinand Hippolyte";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, Ferdinand Hippolyte";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1513_24 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1722-11-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1513_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1658-12-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1513_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1066"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1513_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001083/2022-03-30T07:03:19.060Z>.
+<https://stad.gent/id/agent/670001084/2022-03-30T07:03:24.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T07:03:24.061Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1513_27, _:df_1513_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "barones d'Estienpuis barones d'Estienpuis Della Faille";
+    <http://xmlns.com/foaf/0.1/givenName> "barones d'Estienpuis";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, barones d'Estienpuis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1513_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1067"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1513_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001084/2022-03-30T07:03:24.061Z>.
+<https://stad.gent/id/agent/570032467/2022-03-30T05:27:31.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:27:31.417Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2167_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2167_4;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2167_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Christian";
+    <http://xmlns.com/foaf/0.1/familyName> "Dell";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dell, Christian";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q180236>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2167_5 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974-07-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2167_4 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893-02-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7116689>.
+<http://vocab.getty.edu/tgn/7116689> a <http://purl.org/dc/terms/Location>.
+_:df_2167_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032467/2022-03-30T05:27:31.417Z>.
+<https://stad.gent/id/agent/670003243/2022-03-17T00:06:28.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003243>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:06:28.803Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "barones";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, barones";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2899_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003243"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003243/2022-03-17T00:06:28.803Z>.
+<https://stad.gent/id/agent/670001619/2022-02-26T07:37:28.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T07:37:28.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4159_2, _:df_4159_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4159_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1602"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4159_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001619/2022-02-26T07:37:28.565Z>.
+<https://stad.gent/id/agent/670001094/2022-02-26T06:53:51.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001094>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:51.260Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4471_2, _:df_4471_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharina";
+    <http://xmlns.com/foaf/0.1/familyName> "Dello";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dello, Catharina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4471_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1077"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4471_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001094"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001094/2022-02-26T06:53:51.260Z>.
+<https://stad.gent/id/agent/670001089/2022-02-26T06:53:26.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:26.253Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4474_2, _:df_4474_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4474_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1072"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4474_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001089/2022-02-26T06:53:26.253Z>.
+<https://stad.gent/id/agent/670001090/2022-02-26T06:53:31.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:31.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4474_7, _:df_4474_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "baron van Nevele Joan Charles Adriaen, baron Della Faille";
+    <http://xmlns.com/foaf/0.1/givenName> "Joan Charles Adriaen, baron";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, Joan Charles Adriaen, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4474_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1073"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4474_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001090/2022-02-26T06:53:31.254Z>.
+<https://stad.gent/id/agent/670001091/2022-02-26T06:53:36.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:36.256Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4474_13, _:df_4474_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille Dhuysse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille Dhuysse";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4474_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1074"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4474_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001091/2022-02-26T06:53:36.256Z>.
+<https://stad.gent/id/agent/670001092/2022-02-26T06:53:41.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:41.257Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4474_17, _:df_4474_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Dellau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dellau, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4474_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1075"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4474_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001092/2022-02-26T06:53:41.257Z>.
+<https://stad.gent/id/agent/670001093/2022-02-26T06:53:46.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:46.259Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4474_25, _:df_4474_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Louys Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "Dellebaux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dellebaux, Louys Pierre";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4474_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1076"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4474_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001093/2022-02-26T06:53:46.259Z>.
+<https://stad.gent/id/agent/670001084/2022-02-26T06:53:00.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:00.984Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4477_2, _:df_4477_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "barones d'Estienpuis barones d'Estienpuis Della Faille";
+    <http://xmlns.com/foaf/0.1/givenName> "barones d'Estienpuis";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, barones d'Estienpuis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4477_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1067"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4477_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001084/2022-02-26T06:53:00.984Z>.
+<https://stad.gent/id/agent/670001085/2022-02-26T06:53:05.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:05.986Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4477_8, _:df_4477_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "baron van Huijse, heer van Oycke ter Hove Franchois Albert, baron Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4477_12;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4477_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Franchois Albert, baron";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, Franchois Albert, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4477_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1782"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4477_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1724"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4477_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1068"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4477_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001085/2022-02-26T06:53:05.986Z>.
+<https://stad.gent/id/agent/670001086/2022-02-26T06:53:10.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:10.987Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4477_19, _:df_4477_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Assenede, Eeklo Jan Baptiste Della Faille";
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4477_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1069"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4477_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001086"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001086/2022-02-26T06:53:10.987Z>.
+<https://stad.gent/id/agent/670001087/2022-02-26T06:53:15.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:15.988Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4477_25, _:df_4477_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Della Faille d'Assenede", "graaf, heer van Ambacht Assenede, Eeklo graaf Della Faille";
+    <http://xmlns.com/foaf/0.1/givenName> "graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4477_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1070"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4477_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001087/2022-02-26T06:53:15.988Z>.
+<https://stad.gent/id/agent/670001088/2022-02-26T06:53:21.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:53:21.252Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4477_31, _:df_4477_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "barones Anna, barones Della Faille";
+    <http://xmlns.com/foaf/0.1/givenName> "Anna, barones";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, Anna, barones";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4477_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1071"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4477_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001088/2022-02-26T06:53:21.252Z>.
+<https://stad.gent/id/agent/670001083/2022-02-26T06:52:55.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:52:55.983Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_25, _:df_4480_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4480_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4480_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Ferdinand Hippolyte";
+    <http://xmlns.com/foaf/0.1/familyName> "Della Faille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Della Faille, Ferdinand Hippolyte";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4480_29 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1722-11-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4480_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1658-12-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4480_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1066"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4480_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001083/2022-02-26T06:52:55.983Z>.
+<https://stad.gent/id/agent/570032467/2022-02-26T05:17:24.954Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T05:17:24.954Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5134_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5134_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_5134_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Christian";
+    <http://xmlns.com/foaf/0.1/familyName> "Dell";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dell, Christian";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q180236>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5134_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974-07-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_5134_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893-02-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7116689>.
+<http://vocab.getty.edu/tgn/7116689> a <http://purl.org/dc/terms/Location>.
+_:df_5134_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032467/2022-02-26T05:17:24.954Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/dell.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/dell.ttl>.

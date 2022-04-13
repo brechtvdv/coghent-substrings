@@ -1,0 +1,30 @@
+<https://stad.gent/id/agent/530023451/2022-02-25T23:03:40.059Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:03:40.059Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6016_2, _:df_6016_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_6016_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "MdSt";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6016_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7259797>.
+<http://vocab.getty.edu/tgn/7259797> a <http://purl.org/dc/terms/Location>.
+_:df_6016_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02913"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6016_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023451/2022-02-25T23:03:40.059Z>.
+<https://stad.gent/id/agent/530013554/2022-02-25T19:39:27.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T19:39:27.968Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6988_2, _:df_6988_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "MDF Italia";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_6988_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01390"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_6988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013554/2022-02-25T19:39:27.968Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/md.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/md.ttl>.

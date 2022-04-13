@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/530001066/2022-02-25T18:11:31.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:11:31.069Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7489_18, _:df_7489_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/familyName> "Verbrugge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbrugge";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7489_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00585"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7489_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001066/2022-02-25T18:11:31.069Z>.
+<https://stad.gent/id/agent/530001067/2022-02-25T18:11:36.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:11:36.070Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7489_22, _:df_7489_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "H.";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbrugge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbrugge, H.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7489_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00586"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7489_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001067/2022-02-25T18:11:36.070Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/verbr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/verbr.ttl>.

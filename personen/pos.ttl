@@ -1,0 +1,70 @@
+<https://stad.gent/id/agent/670003526/2022-03-23T00:01:44.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:01:44.674Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2872_11, _:df_2872_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Postgebouw";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Postgebouw";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2872_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0177"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2872_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003526/2022-03-23T00:01:44.674Z>.
+<https://stad.gent/id/agent/670003526/2022-03-17T00:07:44.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:07:44.704Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_2, _:df_2890_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Postgebouw";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Postgebouw";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2890_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0177"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2890_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003526/2022-03-17T00:07:44.704Z>.
+<https://stad.gent/id/agent/670003540/2022-02-26T10:08:30.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:08:30.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_11, _:df_3082_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Posthotel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Posthotel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3082_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0191"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3082_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003540/2022-02-26T10:08:30.529Z>.
+<https://stad.gent/id/agent/670003526/2022-02-26T10:07:20.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:07:20.169Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3091_17, _:df_3091_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "postgebouw";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "postgebouw";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3091_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0177"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3091_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003526/2022-02-26T10:07:20.169Z>.
+<https://stad.gent/id/agent/530023717/2022-02-25T23:17:31.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T23:17:31.440Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5950_8, _:df_5950_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_5950_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Postans & Tye";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5950_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7010955>.
+<http://vocab.getty.edu/tgn/7010955> a <http://purl.org/dc/terms/Location>.
+_:df_5950_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03023"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_5950_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023717/2022-02-25T23:17:31.440Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/pos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/pos.ttl>.

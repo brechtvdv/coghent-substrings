@@ -1,0 +1,92 @@
+<https://stad.gent/id/agent/670000607/2022-02-26T06:13:01.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:13:01.313Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4765_26, _:df_4765_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Clercq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Clercq, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4765_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0590"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4765_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000607/2022-02-26T06:13:01.313Z>.
+<https://stad.gent/id/agent/670000599/2022-02-26T06:12:20.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:12:20.941Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4768_7, _:df_4768_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "de Clerck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Clerck, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4768_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0582"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4768_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000599/2022-02-26T06:12:20.941Z>.
+<https://stad.gent/id/agent/670000600/2022-02-26T06:12:25.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:12:25.942Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4768_12, _:df_4768_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Phillippe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Clercq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Clercq, Phillippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4768_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0583"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4768_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000600/2022-02-26T06:12:25.942Z>.
+<https://stad.gent/id/agent/670000601/2022-02-26T06:12:30.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:12:30.943Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4768_17, _:df_4768_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Clercq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Clercq, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4768_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0584"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4768_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000601/2022-02-26T06:12:30.943Z>.
+<https://stad.gent/id/agent/670000602/2022-02-26T06:12:35.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T06:12:35.945Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4768_22, _:df_4768_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Andries";
+    <http://xmlns.com/foaf/0.1/familyName> "de Clercq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Clercq, Andries";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4768_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0585"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4768_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000602/2022-02-26T06:12:35.945Z>.
+<https://stad.gent/id/agent/530001612/2022-02-25T18:43:49.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001612>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-25T18:43:49.335Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7258_14, _:df_7258_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frank";
+    <http://xmlns.com/foaf/0.1/familyName> "De Clercq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Clercq, Frank";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7258_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00969"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7258_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001612"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001612/2022-02-25T18:43:49.335Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/de+cle.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/de+cle.ttl>.

@@ -1,0 +1,174 @@
+<https://stad.gent/id/agent/670000001/2022-03-30T05:33:04.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T05:33:04.963Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stadsarchief Gent";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/670000003>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/670000003> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Archief Gent"@nl.
+_:df_2155_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000001/2022-03-30T05:33:04.963Z>.
+<https://stad.gent/id/agent/570028170/2022-03-30T04:21:30.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:21:30.073Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2521_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stadium";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2521_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028170/2022-03-30T04:21:30.073Z>.
+<https://stad.gent/id/agent/570027901/2022-03-30T04:19:29.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570027901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T04:19:29.349Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2536_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q47111670>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2536_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570027901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570027901/2022-03-30T04:19:29.349Z>.
+<https://stad.gent/id/agent/570014845/2022-03-30T03:41:00.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:41:00.593Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2794_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent - Stadhuis";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2084563>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2794_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014845/2022-03-30T03:41:00.593Z>.
+<https://stad.gent/id/agent/570001429/2022-03-30T03:35:15.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570001429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-30T03:35:15.647Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent - Stedelijk Textielinstituut Henri Story";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2830_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570001429/2022-03-30T03:35:15.647Z>.
+<https://stad.gent/id/agent/670000001/2022-03-22T00:00:34.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-22T00:00:34.409Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2887_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stadsarchief Gent";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/670000003>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/670000003> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Archief Gent"@nl.
+_:df_2887_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000001/2022-03-22T00:00:34.409Z>.
+<https://stad.gent/id/agent/670003568/2022-02-26T10:10:51.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:10:51.652Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_2, _:df_3064_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Stads-Universiteitsbibliotheek";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stads-Universiteitsbibliotheek";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3064_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0220"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3064_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003568/2022-02-26T10:10:51.652Z>.
+<https://stad.gent/id/agent/670003567/2022-02-26T10:10:46.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:10:46.650Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_22, _:df_3067_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "stadsbewaarschool";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "stadsbewaarschool";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3067_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0219"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3067_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003567/2022-02-26T10:10:46.650Z>.
+<https://stad.gent/id/agent/670003418/2022-02-26T09:58:21.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:58:21.004Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3154_8, _:df_3154_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "stadhuis Gent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "stadhuis Gent";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2084563>, <https://id.erfgoed.net/erfgoedobjecten/24558>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3154_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0069"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3154_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003418/2022-02-26T09:58:21.004Z>.
+<https://stad.gent/id/agent/670003419/2022-02-26T09:58:26.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:58:26.005Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3154_13, _:df_3154_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Stads- en Universiteitsbibliotheek";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stads- en Universiteitsbibliotheek";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25508>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3154_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0070"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3154_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003419/2022-02-26T09:58:26.005Z>.
+<https://stad.gent/id/agent/670003219/2022-02-26T09:50:47.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:50:47.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3208_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "stad Gent";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3208_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003219/2022-02-26T09:50:47.658Z>.
+<https://stad.gent/id/agent/570028170/2022-02-26T04:11:16.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:11:16.987Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5488_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stadium";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5488_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028170/2022-02-26T04:11:16.987Z>.
+<https://stad.gent/id/agent/570027901/2022-02-26T04:09:15.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570027901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T04:09:15.831Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5503_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q47111670>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5503_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570027901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570027901/2022-02-26T04:09:15.831Z>.
+<https://stad.gent/id/agent/570014845/2022-02-26T03:30:48.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:30:48.797Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5761_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent - Stadhuis";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2084563>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5761_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014845/2022-02-26T03:30:48.797Z>.
+<https://stad.gent/id/agent/570001429/2022-02-26T03:25:06.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570001429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T03:25:06.814Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5797_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent - Stedelijk Textielinstituut Henri Story";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_5797_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570001429/2022-02-26T03:25:06.814Z>.
+<https://brechtvdv.github.io/coghent-substrings/personen/stad.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://brechtvdv.github.io/coghent-substrings/personen/stad.ttl>.
